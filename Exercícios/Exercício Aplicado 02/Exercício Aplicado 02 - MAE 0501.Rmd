@@ -1,0 +1,132 @@
+---
+title: "Exercício Aplicado 01 - MAE 0501"
+author: "Vítor Garcia Comissoli"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r, results='hide', include=FALSE}
+
+College <- read.csv("F:/Downloads/College.csv")
+library(cv)
+library(glmnet)
+library(ggplot2)
+library(magrittr)
+library(pls)
+set.seed(1181041)
+
+College <- na.omit(College)
+College <- subset(College, select = -X)
+
+```
+
+# 9)
+
+## a)
+
+```{r, results='hide'}
+train <- sample(nrow(College), nrow(College) * 0.7) # 70%
+test <- setdiff(seq_len(nrow(College)), train) # 30%
+
+# Inicializando a lista de Erros quadráticos médios
+mse <- list()
+
+```
+
+## b)
+
+```{r}
+
+fit <- lm(Apps ~ ., data = College[train, ])
+summary(fit)
+
+```
+
+```{r}
+
+(mse$lm <- mean((predict(fit, College[test, ]) - College$Apps[test])^2))
+
+```
+
+## c)
+
+```{r, error=FALSE}
+
+mm <- model.matrix(Apps ~ ., data = College[train, ])
+fit2 <- cv.glmnet(mm, College$Apps[train], alpha = 0)
+fit2
+```
+
+```{r, error=FALSE}
+
+p <- predict(fit2, model.matrix(Apps ~ ., data = College[test, ]), s = fit2$lambda.min)
+(mse$ridge <- mean((p - College$Apps[test])^2))
+
+```
+
+## d)
+
+```{r}
+
+mm <- model.matrix(Apps ~ ., data = College[train, ])
+fit3 <- cv.glmnet(mm, College$Apps[train], alpha = 1)
+fit3
+
+```
+
+```{r}
+
+p <- predict(fit3, model.matrix(Apps ~ ., data = College[test, ]), s = fit3$lambda.min)
+(mse$las <- mean((p - College$Apps[test])^2))
+
+```
+
+## e)
+
+```{r}
+
+fit4 <- pcr(Apps ~ ., data = College[train, ], scale = TRUE, validation = "CV")
+summary(fit4)
+
+```
+
+```{r}
+
+validationplot(fit4, val.type = "MSEP")
+p <- predict(fit4, College[test, ], ncomp = 16)
+(mse$pcr <- mean((p - College$Apps[test])^2))
+
+```
+
+## f)
+
+```{r}
+
+fit5 <- plsr(Apps ~ ., data = College[train, ], scale = TRUE, validation = "CV")
+summary(fit5)
+
+```
+
+```{r}
+
+validationplot(fit5, val.type = "MSEP")
+p <- predict(fit5, College[test, ], ncomp = 6)
+(mse$pls <- mean((p - College$Apps[test])^2))
+
+```
+
+## g)
+
+```{r}
+barplot(unlist(mse), ylab = "EQM de Teste", horiz = TRUE)
+```
+
+Dado as altos valores de $R^{2}$ obtidos nos modelos, pode-se dizer que eles preveem sim, com uma boa acurrária, o número de aplicações recebidas pelas universidades.
+
+Tanto Ridge quanto Lasso foram os modelos que levaram a um menor erro de teste, sendo o menor deles oriundo regressão Ridge (dada a seed fixada na realização do exercício), assim sendo esse o modelo que eu escolheria.

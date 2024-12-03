@@ -1,0 +1,236 @@
+---
+title: "Exercício Aplicado 03 - MAE 0501"
+author: "Vítor Garcia Comissoli"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r, message = FALSE, warning = FALSE, results='hide', include=FALSE}
+
+library(MASS)
+library(class)
+library(tidyverse)
+library(corrplot)
+library(ISLR2)
+library(e1071)
+
+set.seed(1181041)
+
+```
+
+# 13)
+
+## a)
+
+```{r}
+
+head(Weekly)
+
+summary(Weekly)
+
+corrplot(cor(Weekly[, -9]), type = "lower", diag = FALSE, method = "ellipse")
+
+```
+A variável Volume se correlaciona fortemente (positivamente) com a variável Year. De resto, as outras variáveis não apresentam correlações fortes entre si.
+
+## b)
+
+```{r}
+
+fit <- glm(Direction ~ Lag1 + Lag2 + Lag3 + Lag4 + Lag5 + Volume, data = Weekly, family = binomial)
+
+summary(fit)
+
+```
+Fora o intercepto, somente a variável Lag2 se mostrou estatisticamente significante (à um $\alpha$ de 5%)
+
+## c)
+
+```{r}
+
+contrasts(Weekly$Direction)
+
+pred <- predict(fit, type = "response") > 0.5
+
+(t <- table(ifelse(pred, "Up (pred)", "Down (pred)"), Weekly$Direction))
+
+sum(diag(t)) / sum(t)
+
+```
+A fração de acertos do modelo é de aproximadamente 56,1%.
+
+Observa-se que, mesmo que a regressão logística preve bem movimentos para cima, ela prevê incorretamente grande parte dos movimentos para baixo como movimentos para cima.
+
+## d)
+
+```{r}
+
+train <- Weekly$Year < 2009
+
+fit <- glm(Direction ~ Lag2, data = Weekly[train, ], family = binomial)
+
+summary(fit)
+
+```
+
+```{r}
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+(t <- table(ifelse(pred, "Up (pred)", "Down (pred)"), Weekly[!train, ]$Direction))
+
+sum(diag(t)) / sum(t)
+
+```
+A fração de acertos do modelo é de 62,5%, o que é melhor que o modelo anterior, porém ainda não é um modelo considerado adequado.
+
+Observa-seèo mesmo problema detectado no modelo anterior, onde a regressão logística prevê incorretamente grande parte dos movimentos para baixo como movimentos para cima.
+
+## g)
+
+```{r}
+
+fit <- knn(Weekly[train, "Lag2", drop = FALSE], Weekly[!train, "Lag2", drop = FALSE],Weekly$Direction[train])
+
+summary(fit)
+
+```
+
+```{r}
+
+(t <- table(fit, Weekly[!train, ]$Direction))
+
+sum(diag(t)) / sum(t)
+
+```
+A fração de acertos do modelo é de aproximadamente 51%, o que é pior que os modelos anteriores.
+
+Vale ressaltar também que, ao contrário dos modelos anrteriores, o modelo KNN não preve bem os movimentos em geral, tanto para cima como para baixo, onde a frequência de classificação para os erros e acertos para tanto movimentos para cima, quanto movimentos para baixo se mostra equilibrada (ver tabela plotada acima).
+
+## h)
+
+```{r}
+
+fit <- naiveBayes(Direction ~ Lag2, data = Weekly, subset = train)
+
+fit
+
+```
+
+```{r}
+
+pred <- predict(fit, Weekly[!train, ], type = "class")
+
+(t <- table(pred, Weekly[!train, ]$Direction))
+
+sum(diag(t)) / sum(t)
+
+```
+A fração de acertos do modelo é de aproximadamente 58,6%, o que é melhor que o modelo KNN e o primeiro modelo de regressão logístico, porém ainda não é um modelo considerado adequado.
+
+Observa-se que o modelo Naive Bayes prevê bem movimentos para cima, porém prevê incorretamente todos os movimentos para baixo como movimentos para cima (já que classifica todos os movimentos como movimentos para cima), o que surpreendemente produz um classificador melhor que o gerado por KNN e pelo primeiro modelo de regressão logística.
+
+## i)
+
+O melhor classificador dentre os testados foi o modelo de regressão logística com a variável Lag2, que obteve uma fração de acertos de 62,5%. Este modelo foi o melhor dentre os testados, porém ainda não é um modelo considerado adequado.
+
+## j)
+
+Realizando algumas experimentações com os modelos testados anteriormente, temos:
+
+```{r}
+
+fit <- glm(Direction ~ Lag1, data = Weekly[train, ], family = binomial)
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+mean(ifelse(pred, "Up", "Down") == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 56,7%.
+
+```{r}
+
+fit <- glm(Direction ~ Lag3, data = Weekly[train, ], family = binomial)
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+mean(ifelse(pred, "Up", "Down") == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 58,6%.
+
+```{r}
+
+fit <- glm(Direction ~ Lag4, data = Weekly[train, ], family = binomial)
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+mean(ifelse(pred, "Up", "Down") == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 58,6%.
+
+```{r}
+
+fit <- glm(Direction ~ Lag1 + Lag2 + Lag3 + Lag4, data = Weekly[train, ], family = binomial)
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+mean(ifelse(pred, "Up", "Down") == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 58,6%.
+
+```{r}
+
+fit <- glm(Direction ~ Lag1 * Lag2 * Lag3 * Lag4, data = Weekly[train, ], family = binomial)
+
+pred <- predict(fit, Weekly[!train, ], type = "response") > 0.5
+
+mean(ifelse(pred, "Up", "Down") == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 59,6%.
+
+```{r}
+
+fit <- naiveBayes(Direction ~ Lag1 + Lag2 + Lag3 + Lag4, data = Weekly[train, ])
+
+pred <- predict(fit, Weekly[!train, ], type = "class")
+
+mean(pred == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 51%.
+
+```{r}
+
+set.seed(1181041)
+
+res <- sapply(1:30, function(k) {fit <- knn(Weekly[train, 2:4, drop = FALSE], Weekly[!train, 2:4, drop = FALSE], Weekly$Direction[train], k = k)
+  mean(fit == Weekly[!train, ]$Direction)})
+
+plot(1:30, res, type = "o", xlab = "k", ylab = "Fraction correct")
+
+(k <- which.max(res))
+
+```
+Temos que o K que maximiza a fração de acertos é K = 26.
+
+```{r}
+
+fit <- knn(Weekly[train, 2:4, drop = FALSE], Weekly[!train, 2:4, drop = FALSE], Weekly$Direction[train], k = k)
+
+table(fit, Weekly[!train, ]$Direction)
+
+mean(fit == Weekly[!train, ]$Direction)
+
+```
+A fração de acertos do modelo é de aproximadamente 66,3%, tornando o classificador KNN com K = 26 o melhor modelo dentre os testados.

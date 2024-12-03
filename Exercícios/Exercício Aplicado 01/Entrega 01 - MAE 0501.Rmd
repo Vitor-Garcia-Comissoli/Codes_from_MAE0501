@@ -1,0 +1,116 @@
+---
+title: "Entrega 01 - MAE 0501"
+author: "Vítor Garcia Comissoli - Nusp: 11810411"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+data<-read.csv("F:/Downloads/Auto.csv")
+data<-na.omit(data)
+```
+
+## 9)
+
+# a)
+
+Primeiramente, para observar o tipo de variável de cada coluna, utilizou-se o cófigo abaixo:
+
+```{r}
+class(data$mpg)
+class(data$cylinders)
+class(data$displacement)
+class(data$horsepower)
+class(data$weight)
+class(data$acceleration)
+class(data$year)
+class(data$origin)
+class(data$name)
+```
+
+```{r}
+summary(data)
+```
+
+Como apresentado acima, obsertva-se que, tirando "name" e "origin" (que são categóricas), todas as outras variáveis são numéricas. Vale ressaltar que "horsepower" está como Character, o que não é o ideal, pois é uma variável numérica.
+
+Transformou-se então as variáveis "horsepower" em numérica e "origin" e "name" em fatores, por meio do código abaixo:
+
+```{r}
+data$horsepower<-as.numeric(data$horsepower)
+data$origin<-as.factor(data$origin)
+data$name<-as.factor(data$name)
+
+data<-na.omit(data)
+```
+
+Então, ficamos com:
+
+```{r}
+class(data$horsepower)
+class(data$origin)
+class(data$name)
+```
+
+```{r}
+summary(data)
+```
+
+Assim, temos que "name" e "origin" são fatores, "horsepower" agora é numérica e as outras variáveis permanecem numéricas.
+
+# b)
+
+Temos que o intervalo de cada variável quantitativa é:
+
+```{r}
+sapply(data[1:7],range)
+```
+
+# c)
+
+A média e o desvio padrão de cada variável quantitativa é:
+
+```{r}
+print(sapply(data[1:7], mean))
+print(sapply(data[1:7], sd))
+```
+
+# d)
+
+O intervalo, a média e o desvio padrão de cada variável quantitativa, excluindo as linhas 10 a 85, é:
+
+```{r}
+data2 <- data[-c(10:85),]
+
+print(sapply(data2[,1:7], range))
+print(sapply(data2[,1:7], mean))
+print(sapply(data2[,1:7], sd))
+```
+
+# e)
+
+Para analisar a correlação entre as variáveis, utilizou-se o heatmap e o pairs (múltiplos scatterplots entre cada combinação de variáveis), como mostrado abaixo:
+
+```{r, error=TRUE}
+heatmap(cor(as.matrix(data[1:7])))
+```
+
+```{r, error=TRUE}
+pairs(data[1:7],)
+```
+
+Realizou-se também a correlação de pearson entre as variáveis, como mostrado abaixo:
+
+```{r}
+cor(data[1:7])
+```
+
+Após a análise do heatmap e do pairs, observa-se que as variáveis que aparentam ser mais correlacionadas são "displacement" e "weight" (correlação de pearson de aproximadamente 0.93) e "displacement" e "cylinders" (correlação de pearson de aproximadamente 0.95).
+
+# f)
+
+De acordo com os resultados obtidos no item anterior, as variáveis que seriam mais úteis na predição de "mpg" seriam "cylinders", "displacement", "horsepower" e "weight", pois são as que apresentam maiores correlações (em módulo) com "mpg" (correlações acima de 0.75, em módulo).
