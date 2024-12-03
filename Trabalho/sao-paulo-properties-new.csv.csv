@@ -1,0 +1,1736 @@
+X;Condo;Size;Rooms;Toilets;Suites;Parking;Elevator;Furnished;Swimming.Pool;New;District;Property.Type;Latitude;Longitude
+1;180;52;1;2;1;1;1;0;0;0;Artur Alvim/São Paulo;apartment;-2.354.984;-46.484.137
+2;0;65;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.548.751;-46.477.195
+3;337;55;2;2;1;1;1;0;0;0;Belém/São Paulo;apartment;-23.546.104;-46.594.579
+4;720;68;3;2;1;1;0;0;1;0;Belém/São Paulo;apartment;-23.538.163;-46.591.505
+5;857;113;3;2;1;2;1;0;0;0;Belém/São Paulo;apartment;-23.538.134;-46.594.059
+6;450;50;1;2;1;1;1;0;1;0;Belém/São Paulo;apartment;-23.546.089;-46.590.325
+7;300;48;2;2;1;1;1;0;0;0;Belém/São Paulo;apartment;-23.546.104;-46.594.579
+8;140;36;1;2;1;1;0;0;0;0;Belém/São Paulo;apartment;-23.538.794;-46.605.664
+9;811;107;3;3;1;2;1;0;1;0;Belém/São Paulo;apartment;-23.538.767;-46.594.706
+10;1450;155;3;4;3;3;1;1;0;0;Belém/São Paulo;apartment;-23.540.085;-46.593.312
+11;500;57;2;2;1;2;0;0;1;0;Belém/São Paulo;apartment;-23.543.955;-46.586.619
+12;275;80;3;2;1;1;0;0;0;0;Belém/São Paulo;apartment;-2.353.718;-46.593.103
+13;374;55;2;2;1;1;1;1;0;0;Belém/São Paulo;apartment;-23.536.768;-46.593.884
+14;500;51;2;2;1;1;1;0;0;0;Belém/São Paulo;apartment;-23.538.535;-46.595.799
+15;0;48;2;2;1;1;0;0;0;0;Cangaíba/São Paulo;apartment;-23.502.336;-46.523.243
+16;0;65;2;2;1;1;1;0;0;0;Cangaíba/São Paulo;apartment;-23.506.197;-46.522.358
+17;590;64;3;2;1;1;1;0;0;0;Cangaíba/São Paulo;apartment;-23.509.447;-46.530.638
+18;380;58;2;2;1;1;0;0;0;0;Cangaíba/São Paulo;apartment;-23.510.943;-4.652.949
+19;570;67;2;2;1;1;1;0;1;0;Cangaíba/São Paulo;apartment;-23.510.982;-46.542.666
+20;370;55;2;2;1;1;0;0;0;0;Cangaíba/São Paulo;apartment;-23.511.022;-46.529.594
+21;340;50;2;2;1;1;1;1;1;0;Carrão/São Paulo;apartment;-23.552.816;-46.522.893
+22;850;105;3;4;3;2;0;0;1;0;Carrão/São Paulo;apartment;-23.561.751;-46.538.091
+23;520;64;3;2;1;1;0;0;1;0;Carrão/São Paulo;apartment;-23.554.469;-46.545.331
+24;450;54;2;2;1;1;0;0;1;0;Carrão/São Paulo;apartment;-23.539.497;-46.546.527
+25;248;48;2;2;1;1;1;0;1;0;Carrão/São Paulo;apartment;-23.556.977;-46.524.572
+26;870;77;3;2;1;2;1;0;1;0;Carrão/São Paulo;apartment;-23.555.098;-46.528.565
+27;870;78;3;2;1;2;0;0;1;0;Carrão/São Paulo;apartment;-23.555.098;-46.528.565
+28;450;50;2;2;1;1;1;0;0;0;Carrão/São Paulo;apartment;-23.555.806;-46.529.708
+29;498;47;2;2;1;1;0;0;0;0;Cidade Líder/São Paulo;apartment;-23.564.017;-46.467.957
+30;330;50;2;2;1;1;0;0;1;0;Cidade Líder/São Paulo;apartment;-23.576.242;-46.490.775
+31;480;62;3;2;1;1;1;0;1;0;Cidade Líder/São Paulo;apartment;-23.564.779;-46.476.772
+32;615;74;3;2;1;1;1;0;1;0;Cidade Tiradentes/São Paulo;apartment;-23.609.832;-46.405.243
+33;0;48;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.600.057;-46.420.926
+34;100;49;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.595.545;-4.642.033
+35;0;48;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.600.983;-46.422.829
+36;250;45;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-2.359.477;-46.424.304
+37;380;50;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.582.576;-46.417.478
+38;1739;230;4;3;2;4;1;0;1;0;Cidade Tiradentes/São Paulo;apartment;-23.573.977;-46.412.727
+39;180;40;2;2;1;1;0;1;0;0;Cidade Tiradentes/São Paulo;apartment;-23.566.541;-46.401.387
+40;0;48;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.566.205;-46.400.635
+41;150;46;2;2;1;1;0;0;0;0;Cidade Tiradentes/São Paulo;apartment;-23.569.245;-4.641.746
+42;650;50;2;2;1;1;1;0;1;0;Ermelino Matarazzo/São Paulo;apartment;-23.506.507;-46.487.313
+43;0;50;2;2;1;1;1;0;1;0;Ermelino Matarazzo/São Paulo;apartment;-23.501.495;-46.384.906
+44;0;62;3;2;1;1;0;0;0;0;Ermelino Matarazzo/São Paulo;apartment;-23.502.494;-46.476.288
+45;452;50;2;2;1;1;1;0;1;0;Ermelino Matarazzo/São Paulo;apartment;-23.505.297;-46.473.889
+46;420;50;2;2;1;1;1;0;1;0;Ermelino Matarazzo/São Paulo;apartment;-23.486.781;-46.470.096
+47;0;70;2;2;1;1;0;0;0;0;Ermelino Matarazzo/São Paulo;apartment;-23.494.694;-46.478.125
+48;1080;107;3;2;1;1;1;0;0;0;Iguatemi/São Paulo;apartment;-23.585.672;-46.681.216
+49;550;87;2;2;1;1;0;1;0;0;Iguatemi/São Paulo;apartment;-23.584.482;-46.682.312
+50;1400;132;3;2;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-23.585.672;-46.681.216
+51;1031;120;3;3;1;1;1;0;0;0;Iguatemi/São Paulo;apartment;-23.582.532;-46.683.292
+52;1100;87;2;2;1;1;1;0;0;0;Iguatemi/São Paulo;apartment;-23.662.795;-46.544.242
+53;550;90;2;2;1;1;0;1;0;0;Iguatemi/São Paulo;apartment;-23.584.482;-46.682.312
+54;885;107;3;3;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-23.584.482;-46.682.312
+55;1080;131;3;3;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-23.584.482;-46.682.312
+56;1031;120;3;2;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-23.584.482;-46.682.312
+57;1400;132;3;2;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-23.585.672;-46.681.216
+58;0;223;3;2;1;1;0;0;0;0;Iguatemi/São Paulo;apartment;-235.857;-466.826
+59;2800;250;4;6;4;4;1;0;1;0;Iguatemi/São Paulo;apartment;-23.583.577;-46.683.324
+60;1044;42;1;2;1;2;0;0;0;0;Iguatemi/São Paulo;apartment;-2.358.383;-46.683.541
+61;0;46;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.483.159;-46.378.916
+62;240;41;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.509.727;-46.380.503
+63;290;38;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.513.366;-4.639.198
+64;160;41;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.509.727;-46.380.503
+65;325;56;2;2;1;1;0;0;0;0;Itaquera/São Paulo;apartment;-23.553.302;-4.645.926
+66;100;35;2;2;1;1;0;0;0;0;Itaquera/São Paulo;apartment;-23.529.224;-46.451.101
+67;0;60;3;2;1;1;0;0;0;0;Itaquera/São Paulo;apartment;-23.524.621;-46.468.413
+68;380;49;2;2;1;1;0;0;0;0;Itaquera/São Paulo;apartment;-23.524.194;-46.449.671
+69;0;55;2;2;1;1;1;0;0;0;Itaquera/São Paulo;apartment;-23.546.233;-46.452.881
+70;0;47;2;2;1;1;0;0;1;0;Itaquera/São Paulo;apartment;-23.545.408;-46.449.034
+71;360;62;2;2;1;1;1;0;1;0;Jardim Helena/São Paulo;apartment;-23.534.558;-46.429.205
+72;320;56;3;2;1;1;0;0;1;0;Jardim Helena/São Paulo;apartment;-23.470.605;-4.642.176
+73;0;60;3;2;1;1;1;0;1;0;Jardim Helena/São Paulo;apartment;-23.502.388;-46.422.697
+74;0;40;1;2;1;1;0;0;0;0;Jardim Helena/São Paulo;apartment;-23.491.297;-46.393.691
+75;0;43;2;2;1;1;0;0;0;0;Jardim Helena/São Paulo;apartment;-23.513.641;-46.417.437
+76;200;54;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.540.316;-46.436.381
+77;200;53;3;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.540.107;-46.435.568
+78;0;50;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.553.484;-46.434.253
+79;0;56;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.550.769;-46.442.851
+80;150;48;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.535.978;-46.440.974
+81;0;57;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.537.473;-4.644.089
+82;0;47;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.553.651;-4.643.474
+83;100;45;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.553.651;-4.643.474
+84;140;52;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.555.122;-46.432.726
+85;110;48;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.551.176;-46.436.568
+86;270;50;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.544.274;-46.442.291
+87;270;50;2;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.544.274;-46.442.291
+88;165;53;3;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.540.107;-46.435.568
+89;0;101;3;2;1;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-23.545.071;-46.443.714
+90;290;49;3;2;1;1;0;0;1;0;José Bonifácio/São Paulo;apartment;-23.541.056;-46.442.644
+91;200;60;2;2;1;1;0;0;0;0;Lajeado/São Paulo;apartment;-23.532.984;-4.640.823
+92;0;46;2;2;1;1;0;0;0;0;Lajeado/São Paulo;apartment;-23.529.716;-46.409.455
+93;350;50;2;2;1;1;1;0;0;0;Parque do Carmo/São Paulo;apartment;-23.563.018;-46.478.423
+94;646;65;2;2;1;1;1;1;0;0;Penha/São Paulo;apartment;-2.352.095;-46.544.154
+95;200;47;1;2;1;1;1;0;0;0;Penha/São Paulo;apartment;-23.519.551;-46.553.027
+96;1250;120;3;2;1;2;0;0;0;0;Penha/São Paulo;apartment;-23.526.619;-4.655.139
+97;551;57;2;2;1;1;0;0;0;0;Penha/São Paulo;apartment;-23.526.354;-46.530.312
+98;230;61;2;2;1;1;0;0;0;0;Penha/São Paulo;apartment;-23.519.926;-46.542.036
+99;730;70;3;2;1;1;0;0;0;0;Penha/São Paulo;apartment;-23.522.244;-46.550.598
+100;500;50;2;2;1;1;1;0;1;0;Penha/São Paulo;apartment;-23.510.968;-46.525.288
+101;480;50;2;2;1;1;1;0;0;0;Ponte Rasa/São Paulo;apartment;-23.507.356;-46.473.776
+102;0;50;2;2;1;1;0;0;0;0;Ponte Rasa/São Paulo;apartment;-23.509.273;-46.495.231
+103;350;57;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-23.585.748;-46.533.696
+104;246;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-2.358.575;-46.533.612
+105;400;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-23.611.663;-46.487.523
+106;246;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-2.358.575;-46.533.612
+107;279;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-2.358.575;-46.533.612
+108;330;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-23.585.748;-46.533.696
+109;430;65;3;2;1;2;1;0;0;0;São Lucas/São Paulo;apartment;-23.585.879;-46.536.578
+110;1300;98;3;2;1;2;1;1;1;0;São Lucas/São Paulo;apartment;-23.586.676;-46.549.042
+111;540;69;3;2;1;1;1;0;1;0;São Lucas/São Paulo;apartment;-23.604.024;-46.516.938
+112;540;70;3;2;1;1;1;1;1;0;São Lucas/São Paulo;apartment;-23.604.024;-46.516.938
+113;0;56;2;2;1;1;0;0;0;0;São Lucas/São Paulo;apartment;-2.358.816;-46.543.623
+114;560;60;2;2;1;1;0;0;0;0;São Lucas/São Paulo;apartment;-2.358.816;-46.543.623
+115;0;61;3;2;1;1;0;0;0;0;São Lucas/São Paulo;apartment;-2.358.816;-46.543.623
+116;550;60;2;2;1;1;0;0;0;0;São Lucas/São Paulo;apartment;-23.586.994;-46.542.978
+117;280;48;2;2;1;1;0;0;0;0;São Mateus/São Paulo;apartment;-23.601.618;-46.460.928
+118;270;47;2;2;1;1;0;0;1;0;São Mateus/São Paulo;apartment;-23.603.608;-46.468.355
+119;220;55;2;2;1;1;0;0;0;0;São Mateus/São Paulo;apartment;-23.588.736;-46.487.445
+120;473;65;3;2;1;1;0;0;1;0;São Mateus/São Paulo;apartment;-23.587.856;-46.488.525
+121;470;60;3;2;1;1;0;0;0;0;São Mateus/São Paulo;apartment;-235.876;-46.488.497
+122;0;52;2;2;1;1;1;1;1;0;São Miguel/São Paulo;apartment;-23.505.297;-46.473.889
+123;200;55;2;2;1;1;1;0;0;0;São Miguel/São Paulo;apartment;-2.351.672;-46.428.782
+124;450;62;3;2;1;1;1;1;1;0;São Miguel/São Paulo;apartment;-23.512.067;-46.511.717
+125;0;48;2;2;1;1;0;0;0;0;São Miguel/São Paulo;apartment;-23.506.624;-46.467.897
+126;0;44;2;2;1;1;0;0;0;0;São Miguel/São Paulo;apartment;-23.506.994;-4.646.794
+127;522;50;2;2;1;1;0;0;0;0;São Rafael/São Paulo;apartment;-23.551.126;-46.629.114
+128;700;90;3;2;1;2;1;1;1;0;Tatuapé/São Paulo;apartment;-2.354.822;-46.557.678
+129;900;90;3;2;1;2;1;0;1;0;Tatuapé/São Paulo;apartment;-23.529.695;-46.558.367
+130;1180;126;3;2;1;3;0;0;1;0;Tatuapé/São Paulo;apartment;-23.557.017;-46.568.927
+131;660;85;3;2;1;2;0;0;0;0;Tatuapé/São Paulo;apartment;-2.354.822;-46.557.677
+132;1200;140;3;1;3;1;1;0;1;0;Tatuapé/São Paulo;apartment;-23.534.672;-46.565.659
+133;180;62;2;2;1;1;0;0;0;0;Tatuapé/São Paulo;apartment;-23.533.022;-46.575.722
+134;583;68;2;2;1;1;1;0;1;0;Tatuapé/São Paulo;apartment;-23.528.432;-46.558.448
+135;550;45;1;2;1;1;1;0;1;0;Tatuapé/São Paulo;apartment;-2.353.968;-46.568.409
+136;1300;190;4;2;1;4;0;1;1;0;Tatuapé/São Paulo;apartment;-23.549.773;-46.553.708
+137;540;60;2;2;1;2;1;1;1;0;Tatuapé/São Paulo;apartment;-23.539.681;-4.656.841
+138;415;62;2;2;1;1;1;1;0;0;Tatuapé/São Paulo;apartment;-23.531.843;-4.657.029
+139;0;40;2;2;1;1;1;1;1;0;Vila Curuçá/São Paulo;apartment;-23.505.045;-46.423.712
+140;350;50;2;2;1;1;1;0;0;0;Vila Curuçá/São Paulo;apartment;-2.351.672;-46.428.782
+141;0;97;3;2;1;1;0;0;0;0;Vila Curuçá/São Paulo;apartment;-23.616.464;-4.659.669
+142;393;46;1;2;1;1;0;0;0;0;Vila Curuçá/São Paulo;apartment;-2.354.976;-46.631.245
+143;418;50;1;2;1;1;1;0;0;0;Vila Curuçá/São Paulo;apartment;-2.354.976;-46.631.245
+144;1100;134;3;3;1;2;0;0;0;0;Vila Curuçá/São Paulo;apartment;-23.548.141;-4.663.107
+145;0;80;1;2;1;1;0;0;0;0;Vila Curuçá/São Paulo;apartment;-23.553.329;-46.635.527
+146;380;52;2;2;1;1;1;0;1;0;Vila Curuçá/São Paulo;apartment;-23.552.513;-46.630.089
+147;340;56;2;2;1;1;1;0;0;0;Vila Formosa/São Paulo;apartment;-23.576.435;-46.526.528
+148;700;72;3;2;1;1;0;0;0;0;Vila Formosa/São Paulo;apartment;-23.559.084;-46.552.012
+149;0;61;3;2;1;1;1;0;1;0;Vila Formosa/São Paulo;apartment;-23.563.519;-46.552.494
+150;850;176;4;5;2;3;1;0;1;0;Vila Formosa/São Paulo;apartment;-23.572.417;-46.535.419
+151;340;50;2;2;1;1;1;0;1;0;Vila Jacuí/São Paulo;apartment;-23.509.735;-46.447.294
+152;0;40;2;2;1;1;0;0;0;0;Vila Jacuí/São Paulo;apartment;-23.503.407;-46.455.021
+153;412;54;2;2;1;1;0;0;0;0;Vila Jacuí/São Paulo;apartment;-23.493.454;-46.457.506
+154;0;58;2;2;1;1;0;0;0;0;Vila Jacuí/São Paulo;apartment;-234.944;-46.462.139
+155;250;40;2;2;1;1;0;0;0;0;Vila Jacuí/São Paulo;apartment;-23.508.947;-46.446.083
+156;385;40;2;2;1;1;0;0;1;0;Vila Jacuí/São Paulo;apartment;-23.509.585;-46.446.743
+157;240;42;2;2;1;1;0;0;0;0;Vila Jacuí/São Paulo;apartment;-23.510.487;-46.447.684
+158;0;48;2;2;1;1;0;0;1;0;Vila Jacuí/São Paulo;apartment;-23.509.864;-46.445.582
+159;280;45;2;2;1;1;0;1;0;0;Vila Jacuí/São Paulo;apartment;-23.509.864;-46.445.582
+160;0;135;3;2;1;2;1;1;1;0;Vila Matilde/São Paulo;apartment;-23.533.291;-46.524.037
+161;560;68;3;2;1;2;0;0;1;0;Vila Matilde/São Paulo;apartment;-23.532.516;-46.535.139
+162;180;35;1;2;1;1;1;0;0;0;Vila Matilde/São Paulo;apartment;-23.536.859;-46.520.451
+163;568;65;2;2;1;1;0;0;0;0;Vila Matilde/São Paulo;apartment;-23.526.681;-46.529.475
+164;800;68;3;2;1;2;0;0;1;0;Vila Matilde/São Paulo;apartment;-23.533.291;-46.524.037
+165;300;65;3;2;1;1;0;0;0;0;Vila Matilde/São Paulo;apartment;-2.354.368;-46.528.955
+166;515;62;2;2;1;1;1;1;1;0;Vila Matilde/São Paulo;apartment;-2.354.121;-46.518.447
+167;800;68;3;2;1;2;1;0;1;0;Vila Matilde/São Paulo;apartment;-23.533.291;-46.524.037
+168;700;134;3;2;1;2;0;0;1;0;Vila Matilde/São Paulo;apartment;-23.533.291;-46.524.037
+169;750;70;3;2;1;1;1;0;0;0;Vila Prudente/São Paulo;apartment;-23.579.431;-46.578.352
+170;450;65;2;2;1;1;0;1;0;0;Vila Prudente/São Paulo;apartment;-23.599.396;-46.576.675
+171;490;70;2;2;1;1;1;0;1;0;Vila Prudente/São Paulo;apartment;-2.359.471;-46.577.784
+172;330;45;2;2;1;1;1;0;1;0;Vila Prudente/São Paulo;apartment;-23.581.909;-46.554.277
+173;450;60;2;2;1;1;0;0;1;0;Vila Prudente/São Paulo;apartment;-23.593.224;-46.580.003
+174;294;57;2;2;1;1;0;0;1;0;Vila Prudente/São Paulo;apartment;-23.603.863;-46.551.866
+175;766;75;2;2;1;1;1;0;0;0;Vila Prudente/São Paulo;apartment;-23.579.662;-46.575.217
+176;250;35;1;2;1;1;1;0;1;0;Vila Prudente/São Paulo;apartment;-2.359.953;-46.577.385
+177;611;92;3;2;1;1;0;0;1;0;Vila Prudente/São Paulo;apartment;-23.579.395;-46.572.476
+178;452;55;2;2;1;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-23.582.512;-46.588.398
+179;487;50;2;2;1;1;1;0;0;0;Vila Prudente/São Paulo;apartment;-23.593.591;-46.581.013
+180;330;45;2;2;1;1;1;0;1;0;Vila Prudente/São Paulo;apartment;-23.581.909;-46.554.277
+181;505;50;2;2;1;1;0;0;0;0;Cambuci/São Paulo;apartment;-23.563.047;-46.626.594
+182;790;89;3;3;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.563.655;-46.622.587
+183;553;52;1;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.564.472;-46.621.112
+184;372;51;1;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.565.585;-46.623.897
+185;960;90;3;2;1;1;0;0;0;0;Cambuci/São Paulo;apartment;-23.571.587;-46.623.858
+186;310;45;1;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.564.472;-46.621.112
+187;706;67;2;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.578.324;-46.623.802
+188;350;36;1;2;1;1;1;1;0;0;Cambuci/São Paulo;apartment;-23.564.582;-46.617.094
+189;530;56;1;2;1;1;1;1;0;0;Cambuci/São Paulo;apartment;-23.572.326;-46.620.455
+190;700;80;1;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-2.356.294;-46.630.208
+191;950;139;3;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-2.358.046;-46.624.651
+192;570;70;2;2;1;1;0;0;0;0;Cambuci/São Paulo;apartment;-23.567.454;-46.621.597
+193;300;32;1;2;1;1;0;0;0;0;Cambuci/São Paulo;apartment;-23.561.787;-46.628.506
+194;350;36;1;2;1;1;0;1;0;0;Cambuci/São Paulo;apartment;-23.564.582;-46.617.094
+195;738;80;2;2;1;2;0;1;0;0;Cambuci/São Paulo;apartment;-23.570.167;-46.621.978
+196;1490;117;3;4;1;2;1;0;1;0;Campo Belo/São Paulo;apartment;-23.618.864;-46.664.666
+197;550;35;1;2;1;1;1;1;1;0;Campo Belo/São Paulo;apartment;-23.624.231;-46.667.182
+198;1541;180;3;5;3;3;1;0;1;0;Campo Belo/São Paulo;apartment;-23.625.164;-46.676.004
+199;1490;117;3;4;1;2;1;0;1;0;Campo Belo/São Paulo;apartment;-23.618.864;-46.664.666
+200;550;70;2;2;1;1;1;0;0;0;Campo Grande/São Paulo;apartment;-2.368.245;-466.803
+201;540;70;2;2;1;1;0;0;0;0;Campo Grande/São Paulo;apartment;-2.368.245;-466.803
+202;1100;133;3;3;1;2;0;0;0;0;Campo Grande/São Paulo;apartment;-23.678.623;-46.689.788
+203;1500;135;4;4;1;3;1;0;0;0;Campo Grande/São Paulo;apartment;-2.366.552;-46.686.232
+204;412;65;2;2;1;1;0;0;0;0;Campo Grande/São Paulo;apartment;-23.670.571;-46.686.337
+205;600;62;2;2;1;1;1;0;1;0;Campo Grande/São Paulo;apartment;-2.367.174;-46.686.426
+206;589;65;1;2;1;2;1;0;1;0;Campo Grande/São Paulo;apartment;-23.677.359;-46.670.345
+207;470;55;1;2;1;1;1;1;1;0;Campo Grande/São Paulo;apartment;-23.671.438;-46.686.446
+208;520;56;2;2;1;1;1;0;1;0;Campo Limpo/São Paulo;apartment;-23.642.096;-46.759.001
+209;650;75;3;2;1;1;0;0;1;0;Campo Limpo/São Paulo;apartment;-2.364.795;-46.761.145
+210;430;47;2;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-23.641.249;-46.770.935
+211;350;45;2;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-23.631.222;-46.759.492
+212;530;66;3;2;1;1;0;0;1;0;Campo Limpo/São Paulo;apartment;-23.648.637;-46.754.044
+213;600;62;2;2;1;1;1;0;1;0;Campo Limpo/São Paulo;apartment;-23.637.436;-46.773.016
+214;500;64;3;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.664.773;-46.767.313
+215;0;90;2;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.664.693;-46.770.211
+216;0;47;2;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.672.981;-46.759.529
+217;0;50;2;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.662.943;-46.781.091
+218;0;39;2;2;1;1;1;0;0;0;Capão Redondo/São Paulo;apartment;-23.672.849;-46.760.053
+219;0;56;2;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.671.851;-46.763.654
+220;500;95;3;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.664.773;-46.767.313
+221;454;98;3;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-23.664.773;-46.767.313
+222;570;60;3;2;1;1;1;0;1;0;Capão Redondo/São Paulo;apartment;-2.366.063;-46.768.167
+223;0;75;3;2;1;2;1;0;1;0;Capão Redondo/São Paulo;apartment;-23.657.316;-46.763.886
+224;350;50;2;2;1;1;1;0;0;0;Capão Redondo/São Paulo;apartment;-23.674.152;-46.754.348
+225;529;50;2;2;1;1;0;0;0;0;Cidade Ademar/São Paulo;apartment;-23.664.956;-46.665.625
+226;729;61;2;2;1;2;1;0;1;0;Cidade Ademar/São Paulo;apartment;-23.652.276;-46.671.384
+227;580;66;3;2;1;2;1;0;1;0;Cidade Ademar/São Paulo;apartment;-23.662.295;-46.664.347
+228;400;50;2;2;1;1;0;0;0;0;Cidade Ademar/São Paulo;apartment;-23.662.348;-46.674.467
+229;700;67;3;2;1;2;1;1;1;0;Cidade Ademar/São Paulo;apartment;-23.662.295;-46.664.347
+230;600;56;2;2;1;1;1;0;0;0;Cidade Ademar/São Paulo;apartment;-23.669.335;-46.662.353
+231;600;70;3;2;1;1;1;0;1;0;Cidade Ademar/São Paulo;apartment;-23.667.299;-4.667.291
+232;380;50;2;2;1;1;1;0;1;0;Cidade Ademar/São Paulo;apartment;-23.665.936;-46.675.826
+233;0;64;2;2;1;1;0;0;0;0;Cidade Dutra/São Paulo;apartment;-23.711.691;-46.703.879
+234;1200;185;4;5;3;2;1;0;1;0;Cidade Dutra/São Paulo;apartment;-23.714.221;-46.704.675
+235;0;60;2;2;1;1;0;0;0;0;Cidade Dutra/São Paulo;apartment;-23.711.691;-46.703.879
+236;1200;180;4;6;3;2;1;0;1;0;Cidade Dutra/São Paulo;apartment;-23.714.221;-46.704.675
+237;0;72;3;2;1;1;0;0;0;0;Cidade Dutra/São Paulo;apartment;-23.711.691;-46.703.879
+238;2100;340;4;4;3;3;0;0;0;0;Cidade Dutra/São Paulo;apartment;-23.714.221;-46.704.675
+239;1500;250;4;5;3;2;1;0;0;0;Cidade Dutra/São Paulo;apartment;-23.714.221;-46.704.675
+240;730;76;3;2;1;1;0;0;1;0;Cursino/São Paulo;apartment;-23.600.378;-46.620.595
+241;3000;390;4;5;4;4;0;0;1;0;Cursino/São Paulo;apartment;-23.617.236;-46.623.511
+242;350;70;2;2;1;1;0;0;0;0;Cursino/São Paulo;apartment;-23.600.896;-46.620.521
+243;474;50;2;2;1;1;0;0;0;0;Cursino/São Paulo;apartment;-23.649.793;-46.613.679
+244;840;94;3;2;1;3;0;0;1;0;Cursino/São Paulo;apartment;-23.630.909;-46.617.665
+245;435;62;2;2;1;2;1;0;1;0;Cursino/São Paulo;apartment;-23.620.855;-46.617.002
+246;530;54;2;2;1;1;0;0;0;0;Cursino/São Paulo;apartment;-23.656.797;-46.611.725
+247;350;60;2;2;1;1;0;0;0;0;Grajaú/São Paulo;apartment;-23.741.197;-46.705.818
+248;0;40;1;2;1;1;0;0;0;0;Grajaú/São Paulo;apartment;-23.755.266;-46.676.576
+249;0;84;3;2;1;2;0;0;1;0;Ipiranga/São Paulo;apartment;-23.598.327;-46.597.863
+250;1150;103;3;3;1;2;0;0;1;0;Ipiranga/São Paulo;apartment;-23.579.108;-46.605.134
+251;190;50;1;2;1;1;0;0;0;0;Ipiranga/São Paulo;apartment;-23.602.743;-46.608.098
+252;1460;62;1;2;1;2;1;1;1;0;Itaim Bibi/São Paulo;apartment;-23.588.318;-46.679.552
+253;2100;47;1;2;1;1;1;1;1;0;Itaim Bibi/São Paulo;apartment;-23.596.014;-4.668.058
+254;2100;102;2;3;2;2;1;1;1;0;Itaim Bibi/São Paulo;apartment;-23.588.684;-46.683.285
+255;2100;134;3;3;1;1;0;0;0;0;Itaim Bibi/São Paulo;apartment;-23.582.883;-46.677.124
+256;1500;80;2;2;1;2;1;1;1;0;Itaim Bibi/São Paulo;apartment;-23.590.169;-46.680.493
+257;300;60;2;2;1;1;0;0;0;0;Jabaquara/São Paulo;apartment;-23.658.119;-46.656.317
+258;0;54;2;2;1;1;1;1;1;0;Jabaquara/São Paulo;apartment;-23.647.955;-46.643.015
+259;790;78;2;3;1;1;0;0;0;0;Jabaquara/São Paulo;apartment;-23.633.178;-46.640.059
+260;350;40;1;2;1;1;1;0;0;0;Jabaquara/São Paulo;apartment;-23.648.422;-466.447
+261;492;56;3;2;1;1;0;0;0;0;Jabaquara/São Paulo;apartment;-23.649.815;-46.647.289
+262;539;39;1;2;1;1;1;0;1;0;Jabaquara/São Paulo;apartment;-23.647.823;-46.644.462
+263;360;44;2;2;1;1;0;0;0;0;Jardim Ângela/São Paulo;apartment;-23.597.539;-46.541.124
+264;350;47;2;2;1;1;0;0;0;0;Jardim Ângela/São Paulo;apartment;-23.613.391;-46.523.109
+265;555;70;3;2;1;1;0;0;1;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+266;555;70;3;2;1;1;0;0;1;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+267;0;50;2;2;1;1;0;0;1;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+268;600;69;3;2;1;1;0;1;1;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+269;540;70;3;2;1;1;0;0;0;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+270;500;69;3;2;1;1;0;0;0;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+271;1418;82;2;2;1;1;1;0;0;0;Jardim Paulista/São Paulo;apartment;-23.564.961;-46.656.075
+272;1820;45;1;2;1;1;0;1;1;0;Jardim Paulista/São Paulo;apartment;-23.568.956;-46.652.031
+273;1430;167;3;2;1;1;1;0;0;0;Jardim Paulista/São Paulo;apartment;-23.571.902;-46.661.839
+274;3600;289;3;5;3;2;1;1;0;0;Jardim Paulista/São Paulo;apartment;-23.566.227;-46.664.389
+275;2098;173;3;4;1;2;0;1;0;0;Jardim Paulista/São Paulo;apartment;-23.564.692;-46.658.579
+276;1510;116;3;2;1;1;0;0;0;0;Jardim Paulista/São Paulo;apartment;-23.572.317;-46.657.161
+277;1000;60;2;2;1;2;1;0;1;0;Jardim Paulista/São Paulo;apartment;-23.566.294;-46.657.164
+278;2000;178;3;5;3;3;1;0;1;0;Jardim Paulista/São Paulo;apartment;-23.569.375;-46.654.062
+279;500;30;1;2;1;1;1;0;1;0;Moema/São Paulo;apartment;-46.655.399;-23.607.013
+280;4995;240;3;4;3;3;1;0;1;0;Moema/São Paulo;apartment;-23.598.081;-46.662.468
+281;929;52;1;2;1;1;1;0;1;0;Moema/São Paulo;apartment;-23.607.802;-4.666.356
+282;2430;195;4;5;3;3;0;0;1;0;Moema/São Paulo;apartment;-23.610.886;-46.659.843
+283;750;45;1;2;1;1;1;1;1;0;Moema/São Paulo;apartment;-23.604.844;-46.658.542
+284;950;66;2;2;1;1;1;1;1;0;Moema/São Paulo;apartment;-23.609.091;-46.665.513
+285;1400;130;3;3;1;1;0;0;0;0;Moema/São Paulo;apartment;-23.601.805;-46.670.813
+286;1100;40;1;2;1;1;1;1;1;0;Moema/São Paulo;apartment;-23.606.741;-46.663.252
+287;1320;70;2;2;1;2;1;0;1;0;Moema/São Paulo;apartment;-23.601.534;-46.667.783
+288;442;65;3;2;1;2;1;1;1;0;Morumbi/São Paulo;apartment;-23.610.641;-46.744.247
+289;600;52;2;2;1;1;1;1;1;0;Morumbi/São Paulo;apartment;-23.617.295;-46.749.414
+290;501;50;1;2;1;1;0;0;0;0;Morumbi/São Paulo;apartment;-23.608.906;-4.672.458
+291;1290;78;1;2;1;2;1;1;1;0;Morumbi/São Paulo;apartment;-23.618.424;-4.673.354
+292;505;58;1;2;1;2;0;1;1;0;Morumbi/São Paulo;apartment;-23.625.184;-46.731.972
+293;1074;71;2;3;2;2;1;1;1;0;Morumbi/São Paulo;apartment;-23.635.027;-46.732.461
+294;287;60;3;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.692.781;-46.656.225
+295;380;68;3;2;1;1;1;0;0;0;Pedreira/São Paulo;apartment;-23.692.903;-4.665.634
+296;400;59;2;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.679.293;-46.684.711
+297;450;50;2;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.690.892;-4.667.809
+298;547;78;3;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.686.174;-46.660.482
+299;0;65;2;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.692.829;-466.563
+300;0;65;2;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-23.692.781;-46.656.225
+301;460;65;2;2;1;1;1;0;1;0;Sacomã/São Paulo;apartment;-23.614.862;-46.599.251
+302;915;100;3;2;1;1;1;0;0;0;Sacomã/São Paulo;apartment;-23.613.499;-46.602.964
+303;483;52;2;2;1;1;0;1;0;0;Sacomã/São Paulo;apartment;-23.614.906;-46.596.925
+304;430;48;2;2;1;1;0;0;0;0;Sacomã/São Paulo;apartment;-23.613.253;-46.599.971
+305;500;48;2;2;1;1;0;0;0;0;Sacomã/São Paulo;apartment;-23.595.288;-46.618.496
+306;490;65;2;2;1;1;1;1;1;0;Sacomã/São Paulo;apartment;-23.614.521;-46.599.654
+307;0;65;2;2;1;1;1;1;1;0;Santo Amaro/São Paulo;apartment;-23.660.765;-46.706.892
+308;3500;370;4;6;4;5;1;0;1;0;Santo Amaro/São Paulo;apartment;-23.655.868;-46.693.188
+309;1335;120;3;3;1;2;1;0;1;0;Santo Amaro/São Paulo;apartment;-2.364.678;-46.700.776
+310;800;55;1;2;1;1;0;1;0;0;Santo Amaro/São Paulo;apartment;-23.627.699;-46.698.818
+311;544;74;2;2;1;1;1;0;0;0;Saúde/São Paulo;apartment;-2.360.154;-4.663.152
+312;905;64;2;2;1;1;1;1;1;0;Saúde/São Paulo;apartment;-236.151;-46.629.578
+313;760;52;2;2;1;2;1;0;1;0;Saúde/São Paulo;apartment;-23.613.737;-46.624.575
+314;860;55;2;2;1;1;0;0;1;0;Saúde/São Paulo;apartment;-2.362.262;-46.639.203
+315;600;54;2;2;1;2;1;1;1;0;Saúde/São Paulo;apartment;-23.620.855;-46.617.002
+316;1079;115;4;5;2;4;0;0;1;0;Saúde/São Paulo;apartment;-23.612.428;-46.635.146
+317;750;80;3;2;1;2;0;0;1;0;Saúde/São Paulo;apartment;-23.615.805;-46.632.764
+318;917;53;2;2;1;1;1;0;1;0;Saúde/São Paulo;apartment;-23.616.537;-46.642.564
+319;800;78;3;2;1;1;1;0;1;0;Saúde/São Paulo;apartment;-23.614.447;-46.636.304
+320;0;83;2;2;1;1;1;0;0;0;Socorro/São Paulo;apartment;-23.686.913;-46.702.276
+321;500;50;2;2;1;1;1;0;1;0;Socorro/São Paulo;apartment;-23.679.026;-46.708.373
+322;0;55;2;2;1;1;1;0;0;0;Socorro/São Paulo;apartment;-23.672.428;-46.713.773
+323;600;75;3;2;1;1;1;0;1;0;Socorro/São Paulo;apartment;-23.689.616;-46.698.819
+324;400;55;2;2;1;1;0;0;0;0;Socorro/São Paulo;apartment;-23.674.403;-46.714.611
+325;700;75;3;2;1;1;1;0;1;0;Socorro/São Paulo;apartment;-23.689.834;-46.700.382
+326;310;83;3;2;1;1;1;0;0;0;Socorro/São Paulo;apartment;-23.686.913;-46.702.276
+327;2075;196;3;5;3;3;0;0;0;0;Vila Andrade/São Paulo;apartment;-23.623.707;-46.737.871
+328;900;65;1;2;1;1;1;1;1;0;Vila Andrade/São Paulo;apartment;-23.634.445;-46.731.907
+329;0;57;2;2;1;1;1;0;1;0;Vila Andrade/São Paulo;apartment;-23.632.483;-46.729.565
+330;700;50;2;2;1;1;1;0;1;0;Vila Andrade/São Paulo;apartment;-23.630.376;-46.734.363
+331;600;87;2;3;2;2;0;0;0;0;Vila Andrade/São Paulo;apartment;-23.625.366;-46.742.746
+332;780;83;3;2;1;2;0;0;1;0;Vila Andrade/São Paulo;apartment;-23.628.859;-46.740.383
+333;1000;107;2;3;2;2;1;0;1;0;Vila Andrade/São Paulo;apartment;-23.623.658;-46.739.636
+334;656;55;2;2;1;1;1;0;0;0;Vila Mariana/São Paulo;apartment;-23.597.247;-46.628.647
+335;656;55;2;2;1;1;1;1;1;0;Vila Mariana/São Paulo;apartment;-23.601.722;-46.631.003
+336;430;40;1;2;1;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-23.589.613;-46.633.262
+337;656;55;2;2;1;1;1;1;1;0;Vila Mariana/São Paulo;apartment;-23.601.722;-46.631.003
+338;902;107;2;2;1;1;1;0;0;0;Vila Mariana/São Paulo;apartment;-23.586.853;-46.642.529
+339;0;44;1;2;1;1;0;0;1;0;Vila Mariana/São Paulo;apartment;-23.589.581;-46.626.995
+340;714;60;2;2;1;1;1;0;0;0;Vila Mariana/São Paulo;apartment;-23.578.917;-46.635.261
+341;950;70;2;2;1;2;0;1;1;0;Vila Mariana/São Paulo;apartment;-23.585.642;-46.638.439
+342;620;35;1;2;1;1;1;0;1;0;Vila Mariana/São Paulo;apartment;-23.583.449;-46.631.977
+343;1100;90;3;3;1;2;1;0;1;0;Vila Mariana/São Paulo;apartment;-23.582.762;-46.649.552
+344;1450;180;4;4;2;2;0;0;1;0;Vila Mariana/São Paulo;apartment;-23.585.998;-46.645.035
+345;1400;110;2;3;2;1;0;0;1;0;Vila Mariana/São Paulo;apartment;-23.587.614;-46.632.497
+346;974;84;2;3;2;2;1;0;1;0;Vila Mariana/São Paulo;apartment;-2.358.079;-46.645.888
+347;710;70;2;2;1;1;1;0;0;0;Vila Mariana/São Paulo;apartment;-23.601.325;-46.621.457
+348;1220;152;3;2;1;2;0;0;0;0;Vila Mariana/São Paulo;apartment;-23.574.318;-46.632.994
+349;2200;215;3;4;1;3;1;0;1;0;Vila Mariana/São Paulo;apartment;-2.359.159;-46.632.776
+350;400;65;2;2;1;1;0;0;0;0;Vila Sônia/São Paulo;apartment;-23.598.648;-46.741.628
+351;500;82;3;2;1;2;1;1;1;0;Vila Sônia/São Paulo;apartment;-23.586.991;-46.743.823
+352;1100;100;3;4;1;3;1;0;1;0;Vila Sônia/São Paulo;apartment;-23.599.186;-46.725.351
+353;804;68;3;2;1;1;1;0;1;0;Vila Sônia/São Paulo;apartment;-23.588.701;-4.673.955
+354;650;103;3;2;1;2;1;0;1;0;Vila Sônia/São Paulo;apartment;-23.610.843;-46.739.209
+355;1395;103;2;2;1;1;0;0;0;0;Vila Sônia/São Paulo;apartment;-23.598.718;-46.725.413
+356;0;150;4;5;2;3;1;0;1;0;Vila Sônia/São Paulo;apartment;-23.600.646;-46.725.449
+357;620;64;3;2;1;1;1;0;0;0;Vila Sônia/São Paulo;apartment;-23.594.719;-46.727.643
+358;0;80;3;2;1;2;1;1;1;0;Vila Sônia/São Paulo;apartment;-23.592.152;-46.728.469
+359;6800;598;4;7;4;6;1;0;1;0;Alto de Pinheiros/São Paulo;apartment;-2.355.069;-46.721.691
+360;0;133;3;3;2;3;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-23.542.168;-46.721.746
+361;978;99;2;2;1;1;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.558.985;-46.680.084
+362;0;33;1;2;1;1;1;1;1;0;Alto de Pinheiros/São Paulo;apartment;-23.554.171;-46.697.361
+363;750;89;3;2;1;1;1;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.539.282;-46.716.116
+364;420;71;3;2;1;1;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.542.521;-46.715.774
+365;120;70;2;2;1;1;1;0;0;0;Anhanguera/São Paulo;apartment;-23.523.164;-46.652.869
+366;635;58;2;2;1;1;0;1;1;0;Anhanguera/São Paulo;apartment;-23.522.756;-46.655.492
+367;474;48;2;2;1;1;0;0;0;0;Brasilândia/São Paulo;apartment;-23.471.692;-46.687.886
+368;0;62;2;2;1;1;0;0;0;0;Brasilândia/São Paulo;apartment;-23.461.028;-46.705.585
+369;430;49;2;2;1;1;1;0;0;0;Brasilândia/São Paulo;apartment;-23.471.708;-46.687.679
+370;0;50;2;2;1;1;0;0;0;0;Brasilândia/São Paulo;apartment;-23.469.905;-46.698.401
+371;392;50;2;2;1;1;0;0;0;0;Brasilândia/São Paulo;apartment;-23.473.073;-46.687.023
+372;398;50;2;2;1;1;1;0;0;0;Brasilândia/São Paulo;apartment;-23.473.598;-46.686.662
+373;580;50;2;2;1;1;0;0;1;0;Brasilândia/São Paulo;apartment;-23.475.041;-46.698.608
+374;472;58;2;2;1;1;0;0;1;0;Brasilândia/São Paulo;apartment;-23.475.041;-46.698.608
+375;434;62;3;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;-23.563.487;-46.721.009
+376;820;100;3;3;1;2;0;0;1;0;Butantã/São Paulo;apartment;-23.584.883;-46.776.877
+377;0;77;2;2;1;2;1;0;1;0;Butantã/São Paulo;apartment;-23.563.487;-46.721.009
+378;1300;171;3;5;3;3;1;0;1;0;Butantã/São Paulo;apartment;-23.585.022;-46.777.053
+379;500;60;2;2;1;1;0;0;0;0;Butantã/São Paulo;apartment;-23.588.091;-46.797.839
+380;650;65;2;2;1;2;1;0;1;0;Butantã/São Paulo;apartment;-23.575.703;-46.732.323
+381;280;65;2;2;1;1;0;0;0;0;Butantã/São Paulo;apartment;-23.570.469;-46.750.532
+382;764;72;3;2;1;2;0;0;1;0;Butantã/São Paulo;apartment;-23.579.838;-46.749.113
+383;285;74;3;2;1;1;1;0;0;0;Butantã/São Paulo;apartment;-23.573.813;-46.719.937
+384;692;54;2;2;1;1;1;0;1;0;Butantã/São Paulo;apartment;-23.570.269;-46.749.128
+385;390;66;2;2;1;1;1;0;1;0;Butantã/São Paulo;apartment;-23.564.426;-46.751.483
+386;1700;180;3;4;1;3;0;1;1;0;Cachoeirinha/São Paulo;apartment;-23.465.665;-46.637.532
+387;277;48;2;2;1;1;1;0;1;0;Cachoeirinha/São Paulo;apartment;-23.466.095;-46.658.379
+388;350;50;2;2;1;1;0;0;1;0;Cachoeirinha/São Paulo;apartment;-23.466.095;-46.658.379
+389;450;60;2;2;1;1;1;0;0;0;Cachoeirinha/São Paulo;apartment;-23.468.366;-46.637.888
+390;395;55;2;2;1;1;1;0;1;0;Cachoeirinha/São Paulo;apartment;-23.470.042;-46.654.312
+391;450;57;2;2;1;1;1;0;0;0;Cachoeirinha/São Paulo;apartment;-23.468.283;-46.637.882
+392;280;50;2;2;1;1;1;0;1;0;Cachoeirinha/São Paulo;apartment;-23.466.095;-46.658.379
+393;270;53;2;2;1;1;0;0;1;0;Cachoeirinha/São Paulo;apartment;-23.465.955;-46.668.743
+394;470;51;2;2;1;1;1;1;0;0;Cachoeirinha/São Paulo;apartment;-23.468.366;-46.637.888
+395;610;59;3;2;1;1;0;1;0;0;Cachoeirinha/São Paulo;apartment;-23.465.337;-46.634.465
+396;500;55;2;2;1;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-23.468.283;-46.637.882
+397;520;50;2;2;1;1;1;0;0;0;Cachoeirinha/São Paulo;apartment;-23.468.283;-46.637.882
+398;620;67;3;2;1;2;1;0;1;0;Cachoeirinha/São Paulo;apartment;-23.466.238;-46.637.822
+399;1200;160;3;2;1;2;1;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.492.523;-4.669.404
+400;480;53;2;2;1;1;1;1;1;0;Freguesia do Ó/São Paulo;apartment;-23.485.243;-46.697.285
+401;780;90;3;2;1;1;1;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.502.147;-46.700.587
+402;892;70;3;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.492.706;-46.693.066
+403;0;62;2;2;1;1;1;1;1;0;Freguesia do Ó/São Paulo;apartment;-2.349.881;-46.704.657
+404;600;79;3;3;1;2;1;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.502.711;-46.696.683
+405;380;50;2;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.490.168;-46.690.833
+406;360;58;2;2;1;1;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-23.490.715;-46.710.783
+407;680;70;3;2;1;1;0;0;0;0;Jaguaré/São Paulo;apartment;-23.553.698;-46.738.525
+408;420;53;2;2;1;1;1;0;1;0;Jaguaré/São Paulo;apartment;-23.553.139;-46.738.442
+409;750;65;2;2;1;1;1;0;1;0;Jaguaré/São Paulo;apartment;-23.546.592;-46.748.813
+410;390;51;2;2;1;1;0;0;1;0;Jaguaré/São Paulo;apartment;-23.549.229;-46.744.902
+411;364;50;2;2;1;1;1;0;1;0;Jaguaré/São Paulo;apartment;-23.547.126;-46.754.193
+412;580;80;3;2;1;1;1;0;0;0;Jaguaré/São Paulo;apartment;-23.545.631;-46.749.118
+413;1314;156;3;5;3;2;1;0;1;0;Jaguaré/São Paulo;apartment;-2.355.538;-46.737.744
+414;424;40;1;2;1;1;0;0;1;0;Jaguaré/São Paulo;apartment;-23.557.137;-46.745.546
+415;557;52;2;2;1;1;0;1;1;0;Jaguaré/São Paulo;apartment;-23.557.137;-46.745.546
+416;550;58;2;2;1;2;1;0;1;0;Jaraguá/São Paulo;apartment;-23.524.677;-46.647.365
+417;700;203;3;2;1;2;0;0;1;0;Jaraguá/São Paulo;apartment;-23.524.673;-46.647.439
+418;600;67;3;2;1;1;0;0;1;0;Jaraguá/São Paulo;apartment;-23.524.415;-46.647.314
+419;270;72;1;2;1;1;0;0;0;0;Jaraguá/São Paulo;apartment;-23.525.509;-46.646.912
+420;250;75;2;2;1;1;0;0;0;0;Jaraguá/São Paulo;apartment;-23.524.442;-46.648.024
+421;0;150;3;2;1;1;0;0;0;0;Jaraguá/São Paulo;apartment;-23.523.529;-4.664.844
+422;3000;397;3;5;3;5;0;0;1;0;Jaraguá/São Paulo;apartment;-23.523.537;-46.648.652
+423;700;97;2;4;2;2;0;0;1;0;Jaraguá/São Paulo;apartment;-23.521.107;-46.647.678
+424;500;70;2;2;1;1;0;1;1;0;Jaraguá/São Paulo;apartment;-23.521.107;-46.647.678
+425;300;45;2;2;1;1;0;1;0;0;Lapa/São Paulo;apartment;-23.519.169;-46.704.145
+426;747;72;2;2;1;1;0;0;0;0;Lapa/São Paulo;apartment;-23.519.012;-46.699.926
+427;142;60;1;2;1;1;0;0;0;0;Lapa/São Paulo;apartment;-23.528.334;-46.701.799
+428;812;55;2;2;1;1;0;0;1;0;Lapa/São Paulo;apartment;-23.532.541;-46.704.455
+429;1570;134;4;5;2;2;1;0;1;0;Lapa/São Paulo;apartment;-23.522.745;-46.711.364
+430;950;122;3;3;1;1;0;0;0;0;Lapa/São Paulo;apartment;-23.522.725;-46.701.721
+431;750;65;2;2;1;1;0;0;0;0;Lapa/São Paulo;apartment;-23.532.583;-46.718.834
+432;480;70;2;2;1;1;1;0;1;0;Lapa/São Paulo;apartment;-23.518.409;-46.729.321
+433;843;65;2;2;1;2;1;0;1;0;Lapa/São Paulo;apartment;-23.524.711;-4.670.936
+434;877;59;2;2;1;2;0;0;0;0;Lapa/São Paulo;apartment;-23.532.108;-46.718.092
+435;388;58;2;2;1;1;1;0;0;0;Limão/São Paulo;apartment;-2.350.244;-46.672.683
+436;598;65;2;2;1;1;1;0;1;0;Limão/São Paulo;apartment;-23.507.445;-46.671.741
+437;480;50;2;2;1;1;0;0;1;0;Limão/São Paulo;apartment;-23.478.681;-46.672.723
+438;650;75;3;2;1;1;1;0;1;0;Limão/São Paulo;apartment;-23.507.445;-46.671.741
+439;395;70;2;2;1;1;0;0;0;0;Limão/São Paulo;apartment;-23.500.251;-46.634.611
+440;395;73;2;2;1;1;0;0;0;0;Limão/São Paulo;apartment;-23.502.262;-46.678.146
+441;663;70;3;2;1;1;1;0;1;0;Limão/São Paulo;apartment;-23.500.428;-46.682.779
+442;550;55;2;2;1;1;1;1;0;0;Limão/São Paulo;apartment;-23.502.501;-46.685.757
+443;991;110;2;2;1;2;1;0;0;0;Perdizes/São Paulo;apartment;-23.533.614;-46.685.849
+444;1600;150;3;4;3;3;0;0;1;0;Perdizes/São Paulo;apartment;-23.537.274;-46.683.757
+445;800;97;2;3;1;2;1;1;1;0;Perdizes/São Paulo;apartment;-46.678.478;-23.534.683
+446;1016;66;2;2;1;2;1;1;1;0;Perdizes/São Paulo;apartment;-23.531.714;-46.680.006
+447;1130;120;3;3;1;2;1;0;0;0;Perdizes/São Paulo;apartment;-2.353.766;-46.685.903
+448;1078;104;3;2;1;2;1;0;0;0;Perdizes/São Paulo;apartment;-23.530.014;-46.687.508
+449;1200;115;3;3;1;2;1;0;1;0;Perdizes/São Paulo;apartment;-23.534.308;-46.679.236
+450;860;72;2;4;3;2;1;1;1;0;Perdizes/São Paulo;apartment;-23.531.909;-46.674.741
+451;1200;119;3;3;1;2;0;0;1;0;Perdizes/São Paulo;apartment;-23.529.098;-46.688.832
+452;2100;92;2;3;1;2;0;1;0;0;Perdizes/São Paulo;apartment;-23.535.477;-46.665.401
+453;1400;140;3;3;1;2;1;1;1;0;Pinheiros/São Paulo;apartment;-23.563.701;-46.684.877
+454;360;35;1;2;1;1;1;1;1;0;Pinheiros/São Paulo;apartment;-46.700.223;-23.568.745
+455;651;30;1;2;1;1;1;1;1;0;Pinheiros/São Paulo;apartment;-23.553.199;-46.680.009
+456;1412;210;3;3;1;1;1;0;0;0;Pinheiros/São Paulo;apartment;-23.561.758;-46.674.468
+457;1842;162;3;5;3;3;0;0;1;0;Pinheiros/São Paulo;apartment;-23.563.942;-46.696.517
+458;780;65;2;2;1;1;1;0;1;0;Pinheiros/São Paulo;apartment;-23.565.021;-46.686.321
+459;0;50;2;2;1;1;1;1;0;0;Pirituba/São Paulo;apartment;-23.485.733;-46.755.493
+460;600;60;2;2;1;1;1;1;1;0;Pirituba/São Paulo;apartment;-23.484.634;-46.701.684
+461;160;50;2;2;1;1;0;0;0;0;Pirituba/São Paulo;apartment;-23.490.739;-46.724.679
+462;160;50;2;2;1;1;0;0;0;0;Pirituba/São Paulo;apartment;-23.490.739;-46.724.679
+463;160;50;2;2;1;1;0;0;0;0;Pirituba/São Paulo;apartment;-23.490.739;-46.724.679
+464;0;55;3;2;1;1;0;0;0;0;Raposo Tavares/São Paulo;apartment;-23.588.091;-46.797.839
+465;465;51;2;2;1;1;1;0;1;0;Raposo Tavares/São Paulo;apartment;-2.359.351;-4.681.286
+466;0;47;3;2;1;1;1;1;1;0;Raposo Tavares/São Paulo;apartment;-23.588.091;-46.797.839
+467;550;55;2;2;1;1;1;0;0;0;Raposo Tavares/São Paulo;apartment;-23.584.145;-46.791.897
+468;1100;143;3;5;3;2;1;1;1;0;Rio Pequeno/São Paulo;apartment;-23.565.825;-46.756.108
+469;465;60;2;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.559.315;-46.748.244
+470;200;50;2;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.565.103;-46.750.689
+471;0;64;3;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;-23.570.503;-46.751.061
+472;590;51;2;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.571.248;-46.765.069
+473;465;56;2;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.559.315;-46.748.244
+474;450;49;2;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;-23.561.028;-46.748.531
+475;490;64;2;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;-23.564.531;-46.751.456
+476;0;56;1;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.566.739;-46.753.917
+477;450;57;2;2;1;1;1;0;0;0;Rio Pequeno/São Paulo;apartment;-23.559.315;-46.748.244
+478;830;122;2;4;2;2;1;0;1;0;Rio Pequeno/São Paulo;apartment;-23.580.383;-46.771.732
+479;595;70;2;2;1;2;0;0;1;0;Rio Pequeno/São Paulo;apartment;-23.573.751;-46.752.376
+480;420;54;2;2;1;1;1;0;0;0;Rio Pequeno/São Paulo;apartment;-23.559.315;-46.748.244
+481;1200;143;2;3;2;2;1;0;1;0;Vila Leopoldina/São Paulo;apartment;-23.528;-4.673.255
+482;895;143;3;4;3;2;1;1;1;0;Vila Leopoldina/São Paulo;apartment;-23.528;-4.673.255
+483;1200;142;4;5;3;1;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-23.520.971;-46.726.578
+484;1200;158;3;4;3;2;1;1;1;0;Vila Leopoldina/São Paulo;apartment;-23.533.022;-46.731.577
+485;1050;94;2;3;1;2;1;0;1;0;Vila Leopoldina/São Paulo;apartment;-23.525.467;-46.738.319
+486;700;86;3;2;1;2;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-23.531.228;-46.726.997
+487;725;63;1;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.278.521;-466.560.525
+488;350;44;2;1;0;1;1;0;0;0;Barra Funda/São Paulo;apartment;-235.140.728;-46.688.795
+489;482;65;1;2;1;1;0;0;0;0;Barra Funda/São Paulo;apartment;-235.324.678;-466.568.538
+490;368;69;2;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.187.568;-46.668.967
+491;480;69;2;2;1;0;0;0;0;0;Barra Funda/São Paulo;apartment;-2.352.119;-46.648.099
+492;120;70;2;1;0;0;0;0;0;0;Barra Funda/São Paulo;apartment;0;0
+493;610;60;2;2;1;1;1;1;1;0;Barra Funda/São Paulo;apartment;-235.188.515;-466.553.719
+494;600;65;2;2;1;2;0;1;1;0;Barra Funda/São Paulo;apartment;-235.053.909;-466.227.832
+495;810;67;2;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;0;0
+496;570;36;1;1;0;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.318.996;-466.577.855
+497;590;60;1;1;0;1;0;1;1;0;Barra Funda/São Paulo;apartment;-235.280.557;-466.637.838
+498;100;100;2;1;0;0;0;0;0;0;Barra Funda/São Paulo;apartment;-23.530.851;-466.580.903
+499;368;69;2;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.187.568;-46.668.967
+500;850;67;2;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.200.238;-466.758.981
+501;980;132;3;2;1;2;0;1;1;0;Barra Funda/São Paulo;apartment;-235.199.511;-466.663.511
+502;0;50;1;1;0;0;0;0;0;0;Barra Funda/São Paulo;apartment;-235.293.566;-466.522.514
+503;1080;162;4;3;2;2;0;0;1;0;Barra Funda/São Paulo;apartment;0;0
+504;6059;66;2;2;1;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.200.238;-466.758.981
+505;402;49;2;1;0;1;0;0;0;0;Barra Funda/São Paulo;apartment;-235.272.076;-466.502.387
+506;850;50;1;2;1;1;0;1;1;0;Bela Vista/São Paulo;apartment;-235.524.515;-466.552.393
+507;490;55;1;1;0;1;0;0;0;0;Bela Vista/São Paulo;apartment;-235.596.068;-466.398.971
+508;1470;109;3;2;1;2;0;0;0;0;Bela Vista/São Paulo;apartment;0;0
+509;306;50;1;1;0;1;0;0;0;0;Bela Vista/São Paulo;apartment;-235.563.762;-466.497.586
+510;874;73;3;1;0;2;0;0;1;0;Bela Vista/São Paulo;apartment;-235.629.954;-466.430.043
+511;1800;207;3;2;1;3;0;0;0;0;Bela Vista/São Paulo;apartment;-235.670.245;-466.478.402
+512;2700;291;4;2;1;2;1;0;0;0;Bela Vista/São Paulo;apartment;-235.671.521;-466.476.444
+513;250;40;1;1;0;1;1;0;1;0;Bela Vista/São Paulo;apartment;-235.509.029;-46.636.904
+514;0;230;3;2;1;2;0;0;0;0;Bela Vista/São Paulo;apartment;-235.609.116;-4.664.788
+515;750;48;1;1;0;1;0;1;1;0;Bela Vista/São Paulo;apartment;-235.533.992;-466.577.554
+516;750;48;1;1;0;1;0;1;1;0;Bela Vista/São Paulo;apartment;-235.533.992;-466.577.554
+517;757;69;2;1;0;0;0;0;0;0;Bela Vista/São Paulo;apartment;0;0
+518;2700;291;4;4;1;3;0;0;0;0;Bela Vista/São Paulo;apartment;-235.671.521;-466.476.444
+519;453;42;1;1;0;1;0;1;1;0;Bela Vista/São Paulo;apartment;-235.541.191;-466.501.877
+520;2000;265;4;3;2;2;0;1;0;0;Bela Vista/São Paulo;apartment;-235.652.482;-46.643.985
+521;1240;110;3;2;1;1;0;0;1;0;Bela Vista/São Paulo;apartment;-235.658.614;-466.459.102
+522;454;45;1;1;0;0;0;0;0;0;Bela Vista/São Paulo;apartment;-235.522.967;-466.422.845
+523;490;68;1;1;0;1;0;0;0;0;Bela Vista/São Paulo;apartment;-235.543.577;-466.497.156
+524;654;65;2;1;0;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.253.521;-466.436.279
+525;780;140;3;1;0;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-269.225.117;-490.607.072
+526;202;50;1;1;0;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.242.936;-466.424.627
+527;40;80;2;1;0;0;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.053.909;-466.227.832
+528;875;201;3;2;1;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.285.179;-466.321.348
+529;250;70;2;1;0;0;0;0;0;0;Bom Retiro/São Paulo;apartment;-23.529.222;-466.349.863
+530;2200;200;4;2;1;2;0;0;0;0;Bom Retiro/São Paulo;apartment;0;0
+531;1100;90;2;1;0;1;1;0;0;0;Bom Retiro/São Paulo;apartment;-235.287.716;-466.337.417
+532;725;97;3;3;2;2;1;0;1;0;Bom Retiro/São Paulo;apartment;-235.206.999;-46.648.565
+533;300;90;1;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.001.201;-466.276.055
+534;640;65;3;2;1;1;0;0;1;0;Brás/São Paulo;apartment;-235.460.466;-466.085.668
+535;347;80;3;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.477.321;-466.227.397
+536;273;31;1;1;0;1;0;0;1;0;Brás/São Paulo;apartment;-235.453.953;-466.167.926
+537;480;40;2;1;0;1;1;0;0;0;Brás/São Paulo;apartment;0;0
+538;480;50;2;1;0;1;0;0;0;0;Brás/São Paulo;apartment;0;0
+539;371;50;2;1;0;1;0;0;0;0;Brás/São Paulo;apartment;-235.496.217;-466.218.204
+540;340;33;1;1;0;0;0;0;1;0;Brás/São Paulo;apartment;-235.477.377;-466.234.221
+541;140;100;2;2;0;1;0;0;0;0;Brás/São Paulo;apartment;-235.444.065;-46.622.016
+542;0;32;1;2;1;1;0;0;0;0;Brás/São Paulo;apartment;0;0
+543;450;46;3;2;1;1;0;0;1;0;Brás/São Paulo;apartment;0;0
+544;490;60;2;2;1;1;0;0;1;0;Brás/São Paulo;apartment;-235.453.953;-466.167.926
+545;270;70;2;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.342.117;-4.661.154
+546;0;85;2;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.501.673;-466.176.576
+547;430;48;2;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-23.541.027;-466.200.075
+548;320;32;1;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.470.979;-46.624.788
+549;380;33;1;1;0;1;0;0;0;0;Brás/São Paulo;apartment;-235.464.599;-466.235.178
+550;385;52;2;2;1;1;0;0;1;0;Brás/São Paulo;apartment;-235.469.602;-466.197.857
+551;630;52;2;1;0;1;0;0;1;0;Brás/São Paulo;apartment;-235.444.194;-466.129.069
+552;600;35;1;1;0;0;0;1;0;0;Consolação/São Paulo;apartment;-235.002.428;-466.276.118
+553;600;35;1;2;1;1;0;0;1;0;Consolação/São Paulo;apartment;-235.530.689;-466.542.885
+554;322;74;2;2;1;1;1;0;1;0;Consolação/São Paulo;apartment;-235.053.909;-466.227.832
+555;810;60;1;2;1;2;0;0;1;0;Consolação/São Paulo;apartment;0;0
+556;0;50;1;2;1;1;0;1;1;0;Consolação/São Paulo;apartment;-235.537.233;-466.572.401
+557;415;43;1;1;0;1;0;1;1;0;Consolação/São Paulo;apartment;-235.510.254;-466.553.085
+558;688;35;1;1;0;1;0;0;1;0;Consolação/São Paulo;apartment;0;0
+559;984;100;2;1;0;1;0;0;0;0;Consolação/São Paulo;apartment;-235.543.137;-466.546.635
+560;702;48;1;1;0;1;0;1;1;0;Consolação/São Paulo;apartment;0;0
+561;690;50;2;1;0;1;0;0;1;0;Consolação/São Paulo;apartment;-235.517.088;-46.653.147
+562;519;68;1;1;0;1;0;1;0;0;Consolação/São Paulo;apartment;-235.601.758;-466.564.984
+563;565;59;2;1;0;1;1;1;1;0;Consolação/São Paulo;apartment;-235.576.278;-466.559.141
+564;648;130;3;2;1;0;0;0;0;0;Consolação/São Paulo;apartment;-235.535.985;-466.583.399
+565;340;35;1;2;1;1;0;1;1;0;Consolação/São Paulo;apartment;-235.510.254;-466.553.085
+566;270;35;1;1;0;1;0;0;0;0;Consolação/São Paulo;apartment;-235.483.633;-466.451.621
+567;800;60;2;1;0;1;1;0;1;0;Consolação/São Paulo;apartment;-235.576.278;-466.559.141
+568;1130;120;3;2;1;1;1;0;0;0;Consolação/São Paulo;apartment;-235.509.141;-466.534.706
+569;500;90;2;1;0;1;0;0;0;0;Consolação/São Paulo;apartment;-235.490.742;-466.437.241
+570;600;35;1;1;0;1;0;0;1;0;Consolação/São Paulo;apartment;-235.530.802;-466.543.338
+571;340;35;1;2;1;1;0;1;1;0;Consolação/São Paulo;apartment;-235.510.254;-466.553.085
+572;2200;227;3;2;1;2;0;0;0;0;Consolação/São Paulo;apartment;-235.627.697;-466.686.854
+573;540;50;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;-235.539.944;-466.350.008
+574;640;73;3;2;1;2;1;0;1;0;Liberdade/São Paulo;apartment;-235.505.199;-466.333.094
+575;270;63;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;-235.625.761;-46.634.658
+576;180;65;2;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;0;0
+577;439;41;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;0;0
+578;770;49;1;1;0;1;0;1;1;0;Liberdade/São Paulo;apartment;-23.565.392;-4.664.161
+579;380;55;1;1;0;1;1;0;0;0;Liberdade/São Paulo;apartment;-23.567.803;-466.287.794
+580;1100;110;3;2;1;2;1;0;0;0;Liberdade/São Paulo;apartment;0;0
+581;850;100;3;1;0;1;1;0;0;0;Liberdade/São Paulo;apartment;-23.565.791;-466.340.922
+582;800;76;2;1;0;1;0;1;0;0;Liberdade/São Paulo;apartment;-235.646.122;-466.395.493
+583;200;72;1;2;0;1;0;0;0;0;Liberdade/São Paulo;apartment;0;0
+584;2200;125;3;3;1;3;1;1;1;0;Liberdade/São Paulo;apartment;-23.574.276;-46.635.325
+585;430;45;2;1;0;1;1;1;1;0;Liberdade/São Paulo;apartment;-235.552.938;-466.285.289
+586;350;32;1;1;0;1;0;0;0;0;Liberdade/São Paulo;apartment;-23.562.172;-466.364.765
+587;460;45;1;1;0;1;0;0;0;0;Liberdade/São Paulo;apartment;-235.636.518;-466.314.592
+588;349;80;2;1;0;0;0;0;0;0;Pari/São Paulo;apartment;-235.002.428;-466.276.118
+589;389;75;2;1;0;0;0;0;0;0;Pari/São Paulo;apartment;-235.002.428;-466.276.118
+590;445;65;2;2;1;1;0;0;1;0;Pari/São Paulo;apartment;0;0
+591;75;45;1;1;0;0;0;0;0;0;Pari/São Paulo;apartment;-235.310.058.594;-46.609.085.083
+592;341;56;1;1;0;0;0;0;1;0;República/São Paulo;apartment;-235.467.319;-466.431.615
+593;360;80;2;1;0;0;0;0;0;0;República/São Paulo;apartment;-235.317.593;-466.602.523
+594;480;173;3;2;1;0;1;0;0;0;República/São Paulo;apartment;-235.407.292;-466.446.067
+595;386;41;1;1;0;0;0;0;0;0;República/São Paulo;apartment;-235.449.872;-466.465.368
+596;312;40;1;1;0;0;0;0;0;0;República/São Paulo;apartment;-235.418.866;-466.467.414
+597;0;41;1;1;0;1;0;0;1;0;República/São Paulo;apartment;-235.408.409;-466.431.999
+598;260;33;1;1;0;1;0;1;0;0;República/São Paulo;apartment;-235.417.591;-466.453.124
+599;574;41;1;1;0;1;1;0;1;0;República/São Paulo;apartment;-23.541.083;-466.395.418
+600;377;38;1;1;0;0;0;0;0;0;República/São Paulo;apartment;-235.400.188;-466.367.462
+601;1165;60;1;1;0;1;0;1;0;0;Santa Cecília/São Paulo;apartment;-235.435.776;-466.523.811
+602;480;64;1;1;0;0;0;1;0;0;Santa Cecília/São Paulo;apartment;-235.385.642;-466.515.356
+603;340;60;1;1;0;0;0;0;0;0;Santa Cecília/São Paulo;apartment;-235.355.123;-466.509.976
+604;277;32;1;1;0;0;0;0;0;0;Santa Cecília/São Paulo;apartment;0;0
+605;1600;170;3;2;1;1;1;0;0;0;Santa Cecília/São Paulo;apartment;0;0
+606;1520;95;3;2;1;2;1;0;1;0;Santa Cecília/São Paulo;apartment;-235.342.643;-466.585.441
+607;5200;420;4;5;4;4;0;0;1;0;Santa Cecília/São Paulo;apartment;-235.371.076;-46.658.926
+608;560;40;1;1;0;1;0;0;1;0;Santa Cecília/São Paulo;apartment;-235.375.598;-466.537.674
+609;380;80;2;1;0;0;1;0;0;0;Sé/São Paulo;apartment;-235.543.104;-466.292.931
+610;450;84;2;1;0;1;0;0;0;0;Sé/São Paulo;apartment;-235.507.564;-466.290.772
+611;600;63;3;2;1;1;0;1;0;0;Casa Verde/São Paulo;apartment;-235.079.327;-466.649.514
+612;560;60;1;2;1;2;1;1;0;0;Casa Verde/São Paulo;apartment;-235.065.971;-466.662.864
+613;537;75;2;1;0;1;0;1;0;0;Casa Verde/São Paulo;apartment;-235.124.973;-466.567.422
+614;850;90;3;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-235.032.196;-466.435.321
+615;1000;80;3;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-235.097.784;-466.638.487
+616;550;49;2;1;0;1;0;0;1;0;Casa Verde/São Paulo;apartment;-234.897.687;-466.657.382
+617;456;49;1;1;0;1;0;0;1;0;Casa Verde/São Paulo;apartment;0;0
+618;564;63;3;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-235.082.146;-466.628.448
+619;1850;192;4;4;3;2;0;0;1;0;Casa Verde/São Paulo;apartment;-235.097.784;-466.638.487
+620;690;64;2;2;0;1;0;0;0;0;Casa Verde/São Paulo;apartment;-235.090.545;-466.652.343
+621;50;45;2;1;0;1;0;0;0;0;Jaçanã/São Paulo;apartment;-234.683.805;-465.766.999
+622;50;45;2;1;0;1;0;0;0;0;Jaçanã/São Paulo;apartment;-234.683.805;-465.766.999
+623;1033;120;3;4;3;3;0;0;1;0;Mandaqui/São Paulo;apartment;-234.787.329;-466.331.362
+624;500;80;2;1;0;1;0;0;0;0;Mandaqui/São Paulo;apartment;-234.824.487;-466.231.022
+625;1050;85;2;3;2;2;0;1;1;0;Mandaqui/São Paulo;apartment;-235.942.422;-464.200.359
+626;1020;105;3;2;1;1;0;0;1;0;Mandaqui/São Paulo;apartment;-234.732.117;-46.631.454
+627;605;60;3;2;1;1;0;0;0;0;Mandaqui/São Paulo;apartment;-234.654.011;-466.343.783
+628;1000;98;3;1;0;1;0;0;1;0;Mandaqui/São Paulo;apartment;-234.779.972;-466.344.108
+629;650;94;2;2;1;2;1;0;1;0;Mandaqui/São Paulo;apartment;0;0
+630;600;57;2;1;0;1;0;1;1;0;Mandaqui/São Paulo;apartment;-234.832.183;-466.415.267
+631;445;64;2;1;0;1;0;0;0;0;Mandaqui/São Paulo;apartment;-234.826.029;-466.465.477
+632;585;50;3;2;1;1;0;0;1;0;Mandaqui/São Paulo;apartment;-23.472.585;-466.374.218
+633;1115;84;3;2;1;2;0;0;0;0;Mandaqui/São Paulo;apartment;-234.732.178;-466.377.828
+634;950;90;3;2;1;3;0;0;0;0;Mandaqui/São Paulo;apartment;-234.724.991;-466.303.181
+635;1690;140;3;2;1;2;1;0;1;0;Santana/São Paulo;apartment;-234.931.769;-466.385.115
+636;700;60;2;2;1;2;0;0;1;0;Santana/São Paulo;apartment;-234.813.044;-466.417.409
+637;1627;158;3;2;1;2;0;0;0;0;Santana/São Paulo;apartment;-234.881.777;-466.294.237
+638;1000;96;3;2;1;2;1;0;0;0;Santana/São Paulo;apartment;-234.988.052;-466.421.412
+639;530;44;1;1;0;1;0;0;1;0;Santana/São Paulo;apartment;-235.055.735;-466.234.032
+640;85;125;2;1;0;0;0;0;0;0;Santana/São Paulo;apartment;-234.970.398;-46.621.867
+641;270;60;2;1;0;1;0;0;0;0;Santana/São Paulo;apartment;-23.498.854;-466.170.133
+642;477;44;1;1;0;1;0;1;1;0;Santana/São Paulo;apartment;0;0
+643;732;60;2;2;0;1;0;0;0;0;Santana/São Paulo;apartment;0;0
+644;1300;147;3;2;1;1;0;0;0;0;Santana/São Paulo;apartment;-235.012.165;-466.309.262
+645;300;70;2;1;0;0;1;0;0;0;Santana/São Paulo;apartment;-234.993.018;-466.385.113
+646;835;98;3;2;1;1;0;0;0;0;Santana/São Paulo;apartment;-234.859.864;-466.331.472
+647;1287;161;3;2;1;3;0;1;1;0;Santana/São Paulo;apartment;-234.858.746;-466.281.801
+648;476;45;1;1;0;1;0;0;0;0;Santana/São Paulo;apartment;-234.917.984.009;-466.259.346.008
+649;480;75;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-23.482.807;-466.132.459
+650;481;52;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.693.069;-465.986.364
+651;450;63;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.681.325;-466.112.897
+652;610;70;3;1;0;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-234.662.629;-466.031.151
+653;890;95;3;2;1;0;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.890.335;-466.241.194
+654;350;46;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.701.186;-466.078.253
+655;700;61;2;1;0;2;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.691.441;-465.984.224
+656;658;44;1;1;0;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-23.485.469;-466.116.883
+657;200;45;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-23.473.538;-466.041.359
+658;310;46;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.701.186;-466.078.253
+659;564;78;3;1;0;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-234.766.869;-466.237.443
+660;275;46;2;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.701.186;-466.078.253
+661;520;43;1;2;1;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-234.862.894;-4.661.251
+662;400;53;2;1;0;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-234.811.666;-465.999.921
+663;550;53;2;2;1;1;0;1;1;0;Tucuruvi/São Paulo;apartment;-234.762.876;-466.254.413
+664;2100;144;3;2;1;2;0;0;0;0;Vila Guilherme/São Paulo;apartment;-23.504.136;-466.012.959
+665;700;69;2;1;0;1;0;0;0;0;Vila Guilherme/São Paulo;apartment;-235.031.961;-466.033.143
+666;800;70;2;1;0;1;0;1;0;0;Vila Guilherme/São Paulo;apartment;-235.199.977;-4.659.603
+667;0;175;3;4;3;3;1;0;1;0;Vila Guilherme/São Paulo;apartment;-235.042.691;-466.024.213
+668;0;40;2;2;0;0;0;0;0;0;Vila Guilherme/São Paulo;apartment;-235.128.992;-466.086.883
+669;390;58;2;1;0;1;0;1;0;0;Vila Guilherme/São Paulo;apartment;-235.100.758;-466.011.967
+670;360;53;2;2;1;1;0;0;1;0;Vila Guilherme/São Paulo;apartment;-235.166.188;-466.055.052
+671;240;43;1;1;0;0;0;0;0;0;Vila Maria/São Paulo;apartment;-235.111.079;-465.925.711
+672;894;127;3;2;1;2;1;0;0;0;Água Rasa/São Paulo;apartment;-235.586.781;-465.723.288
+673;680;80;3;2;1;2;0;0;1;0;Água Rasa/São Paulo;apartment;-23.559.797;-465.715.481
+674;1000;122;2;2;1;3;0;0;1;0;Água Rasa/São Paulo;apartment;-235.596.205;-465.724.013
+675;960;82;3;2;1;0;0;1;1;0;Água Rasa/São Paulo;apartment;-235.608.002;-465.683.473
+676;575;56;2;1;0;1;0;0;1;0;Água Rasa/São Paulo;apartment;-235.653.615;-465.676.556
+677;700;90;2;1;0;1;0;0;0;0;Aricanduva/São Paulo;apartment;0;0
+678;280;35;1;1;0;1;0;1;0;0;Aricanduva/São Paulo;apartment;-235.734.076;-465.030.641
+679;500;54;2;1;0;1;0;0;0;0;Aricanduva/São Paulo;apartment;0;0
+680;150;56;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;0;0
+681;200;48;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;0;0
+682;340;47;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-235.692.819;-464.777.341
+683;230;50;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-235.498.041;-464.782.996
+684;250;57;2;1;0;1;1;0;0;0;Artur Alvim/São Paulo;apartment;0;0
+685;0;45;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;0;0
+686;0;59;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-235.517.279;-464.833.095
+687;387;71;1;1;0;1;0;0;0;0;Belém/São Paulo;apartment;-235.300.255;-466.004.273
+688;350;48;2;1;0;1;0;0;1;0;Belém/São Paulo;apartment;-235.355.514;-465.995.511
+689;672;79;2;2;1;1;0;0;1;0;Belém/São Paulo;apartment;-235.394.299;-465.934.972
+690;420;46;2;1;0;1;0;0;0;0;Belém/São Paulo;apartment;-235.447.925;-466.023.886
+691;300;48;2;1;0;1;1;0;0;0;Belém/São Paulo;apartment;-235.463.533;-465.944.066
+692;857;113;3;2;1;2;1;0;0;0;Belém/São Paulo;apartment;-2.353.793;-465.936.563
+693;811;107;3;2;1;2;0;0;1;0;Belém/São Paulo;apartment;0;0
+694;857;113;3;2;1;2;1;0;0;0;Belém/São Paulo;apartment;-2.353.793;-465.936.563
+695;280;81;3;1;0;0;0;0;0;0;Belém/São Paulo;apartment;-2.353.718;-465.931.036
+696;0;55;2;1;0;1;0;0;1;0;Cangaíba/São Paulo;apartment;-235.063.905;-465.312.161
+697;350;50;2;1;0;1;0;0;0;0;Cangaíba/São Paulo;apartment;0;0
+698;350;55;2;1;0;1;1;0;0;0;Cangaíba/São Paulo;apartment;0;0
+699;0;45;1;1;0;2;0;0;0;0;Carrão/São Paulo;apartment;0;0
+700;372;60;2;1;0;1;0;0;1;0;Carrão/São Paulo;apartment;-235.592.565;-46.548.474
+701;740;58;2;2;1;2;0;0;1;0;Carrão/São Paulo;apartment;-235.542.095;-46.533.354
+702;1000;96;3;2;1;2;0;0;1;0;Carrão/São Paulo;apartment;-235.485.944;-465.278.459
+703;365;64;2;2;1;1;0;0;1;0;Carrão/São Paulo;apartment;0;0
+704;1350;127;3;4;3;2;0;0;1;0;Carrão/São Paulo;apartment;-23.554.318;-465.421.407
+705;709;59;2;2;1;1;0;0;0;0;Carrão/São Paulo;apartment;-235.478.249;-465.288.442
+706;1030;126;3;4;3;2;0;0;1;0;Carrão/São Paulo;apartment;-235.508.976;-465.433.785
+707;870;77;3;2;0;2;0;0;1;0;Carrão/São Paulo;apartment;-235.587.571;-465.305.542
+708;1750;231;3;2;1;2;0;0;1;0;Carrão/São Paulo;apartment;-235.539.099;-465.389.465
+709;490;71;3;2;1;1;0;0;0;0;Carrão/São Paulo;apartment;-235.449.414;-46.532.375
+710;400;44;2;1;0;1;0;0;0;0;Carrão/São Paulo;apartment;0;0
+711;517;64;2;2;1;1;0;0;1;0;Carrão/São Paulo;apartment;-235.471.371;-465.466.286
+712;1030;126;3;4;3;2;0;0;1;0;Carrão/São Paulo;apartment;-235.510.112;-465.433.765
+713;2000;232;3;5;3;2;0;0;1;0;Carrão/São Paulo;apartment;-235.539.099;-465.389.465
+714;670;75;2;2;1;2;0;0;1;0;Carrão/São Paulo;apartment;-235.466.691;-465.394.772
+715;415;52;2;2;1;1;0;0;0;0;Cidade Líder/São Paulo;apartment;0;0
+716;0;70;3;2;1;1;0;0;0;0;Cidade Líder/São Paulo;apartment;-235.521.624;-464.760.993
+717;480;82;2;2;1;1;0;1;0;0;Cidade Líder/São Paulo;apartment;-235.544.297;-46.468.206
+718;270;41;3;1;0;1;0;0;0;0;Itaquera/São Paulo;apartment;-235.246.086;-464.533.433
+719;0;47;2;1;0;0;0;0;0;0;Itaquera/São Paulo;apartment;-235.591.556;-464.378.458
+720;170;52;2;1;0;1;0;0;0;0;Itaquera/São Paulo;apartment;-269.225.117;-490.607.072
+721;0;49;2;1;0;0;0;0;0;0;Itaquera/São Paulo;apartment;-235.471.216;-464.534.926
+722;350;57;2;1;0;1;0;0;0;0;Itaquera/São Paulo;apartment;0;0
+723;0;56;2;1;0;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-235.431.266;-464.384.555
+724;0;56;2;1;0;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-235.520.498;-464.315.713
+725;590;52;2;1;0;1;0;0;0;0;Penha/São Paulo;apartment;0;0
+726;400;68;2;2;1;1;0;0;1;0;Penha/São Paulo;apartment;0;0
+727;0;65;2;1;0;1;0;1;0;0;Penha/São Paulo;apartment;0;0
+728;1250;120;3;2;1;2;0;0;0;0;Penha/São Paulo;apartment;-23.526.619;-465.513.906
+729;250;61;2;1;0;0;0;0;0;0;Penha/São Paulo;apartment;-235.199.266;-465.420.364
+730;586;65;3;2;1;2;0;0;0;0;Penha/São Paulo;apartment;0;0
+731;280;56;2;1;0;1;0;0;1;0;Sapopemba/São Paulo;apartment;-235.857.501;-46.533.612
+732;555;70;3;2;1;1;0;0;1;0;São Lucas/São Paulo;apartment;-23.603.929;-46.518.294
+733;555;70;3;2;1;1;0;0;1;0;São Lucas/São Paulo;apartment;-23.603.929;-46.518.294
+734;555;70;3;2;1;1;0;0;1;0;São Lucas/São Paulo;apartment;-23.604.294;-46.518.325
+735;0;34;1;1;0;0;0;0;0;0;São Lucas/São Paulo;apartment;-235.892.727;-465.520.036
+736;250;44;1;1;0;1;0;1;1;0;São Mateus/São Paulo;apartment;-236.113.161;-46.459.854
+737;688;70;3;1;0;1;0;1;1;0;Tatuapé/São Paulo;apartment;-235.418.369;-465.650.496
+738;895;68;3;2;0;2;0;0;1;0;Tatuapé/São Paulo;apartment;-23.547.507;-465.642.311
+739;1035;85;3;3;1;2;0;0;1;0;Tatuapé/São Paulo;apartment;-235.482.052;-46.568.389
+740;432;50;1;1;0;1;1;0;1;0;Tatuapé/São Paulo;apartment;-235.432.684;-465.601.906
+741;670;64;2;1;0;1;1;0;0;0;Tatuapé/São Paulo;apartment;-235.378.509;-465.572.274
+742;2000;131;3;2;1;2;1;1;1;0;Tatuapé/São Paulo;apartment;0;0
+743;430;61;2;1;0;1;0;0;0;0;Tatuapé/São Paulo;apartment;0;0
+744;1045;92;3;3;1;2;1;0;1;0;Tatuapé/São Paulo;apartment;-235.397.323;-465.675.586
+745;390;50;2;1;0;1;0;0;1;0;Tatuapé/São Paulo;apartment;-235.283.184;-465.595.748
+746;790;110;2;2;1;2;0;0;1;0;Tatuapé/São Paulo;apartment;0;0
+747;1100;176;4;3;2;3;0;0;1;0;Tatuapé/São Paulo;apartment;-235.437.997;-465.506.433
+748;1250;157;3;4;3;5;0;0;1;0;Tatuapé/São Paulo;apartment;-235.525.658;-465.747.897
+749;700;80;3;2;1;1;0;0;0;0;Tatuapé/São Paulo;apartment;-235.471.061;-465.483.371
+750;1411;148;5;4;3;3;1;0;1;0;Tatuapé/São Paulo;apartment;-235.442.452;-465.666.839
+751;550;69;3;2;1;1;0;0;1;0;Vila Jacuí/São Paulo;apartment;-23.604.294;-46.518.325
+752;800;68;3;2;1;2;0;0;1;0;Vila Matilde/São Paulo;apartment;-235.332.914;-465.240.379
+753;515;58;2;1;0;1;0;0;1;0;Vila Matilde/São Paulo;apartment;-235.350.463;-465.207.945
+754;873;82;3;1;0;2;0;0;0;0;Vila Matilde/São Paulo;apartment;-235.443.953;-465.146.976
+755;527;60;2;1;0;1;0;0;0;0;Vila Matilde/São Paulo;apartment;-23.540.358;-465.167.704
+756;800;68;3;2;1;2;1;0;1;0;Vila Matilde/São Paulo;apartment;-235.332.914;-465.240.379
+757;600;58;2;2;1;1;0;1;0;0;Vila Matilde/São Paulo;apartment;-235.382.608;-465.327.809
+758;570;69;2;2;1;1;0;0;1;0;Vila Matilde/São Paulo;apartment;-269.225.117;-490.607.072
+759;588;51;2;1;0;1;0;0;0;0;Vila Matilde/São Paulo;apartment;-235.378.061;-465.421.562
+760;642;55;2;1;0;1;0;0;0;0;Vila Matilde/São Paulo;apartment;-235.053.909;-466.227.832
+761;500;69;2;2;1;1;1;0;1;0;Vila Matilde/São Paulo;apartment;-235.361.986;-465.270.632
+762;900;90;3;2;1;2;0;0;1;0;Vila Prudente/São Paulo;apartment;-2.357.904;-4.658.831
+763;1320;110;3;2;1;2;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.893.656;-465.704.391
+764;340;52;2;1;0;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-236.027.315;-465.705.981
+765;398;50;2;1;0;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.935.917;-465.810.138
+766;800;126;3;2;1;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.916.894;-465.809.447
+767;840;92;3;2;1;2;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.886.245;-465.775.892
+768;475;60;2;2;1;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-23.589.532;-465.543.923
+769;481;53;2;1;0;2;1;0;0;0;Vila Prudente/São Paulo;apartment;-235.832.424;-465.833.262
+770;767;73;2;1;0;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.767.746;-465.798.167
+771;680;71;3;2;1;3;0;0;1;0;Vila Prudente/São Paulo;apartment;-235.928.944;-465.775.385
+772;580;50;2;1;0;2;0;1;0;0;Vila Prudente/São Paulo;apartment;-235.979.709;-465.744.408
+773;1200;122;3;2;1;3;1;0;1;0;Vila Prudente/São Paulo;apartment;-235.795.738;-465.884.935
+774;1000;94;3;2;1;2;0;0;1;0;Vila Prudente/São Paulo;apartment;-235.893.751;-465.700.103
+775;500;65;2;1;0;1;0;0;0;0;Vila Prudente/São Paulo;apartment;-235.873.556;-465.335.594
+776;1100;91;3;1;0;2;0;0;1;0;Cambuci/São Paulo;apartment;-23.571.695;-466.231.447
+777;550;65;2;1;0;1;0;0;1;0;Cambuci/São Paulo;apartment;-235.594.319;-466.154.846
+778;600;60;2;1;0;1;0;0;1;0;Cambuci/São Paulo;apartment;-235.721.122;-466.236.671
+779;850;70;2;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-23.567.646;-466.233.418
+780;461;60;1;1;0;0;0;0;0;0;Cambuci/São Paulo;apartment;0;0
+781;610;78;2;2;1;2;0;0;1;0;Cambuci/São Paulo;apartment;-235.672.849;-466.156.404
+782;590;54;2;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.738.065;-466.256.299
+783;361;48;1;1;0;0;0;0;0;0;Cambuci/São Paulo;apartment;-235.658.514;-466.193.321
+784;600;45;1;1;0;0;1;0;0;0;Cambuci/São Paulo;apartment;-235.639.909;-466.262.298
+785;650;63;2;2;1;2;0;0;1;0;Cambuci/São Paulo;apartment;-235.614.957;-466.212.078
+786;530;56;1;1;0;1;1;0;0;0;Cambuci/São Paulo;apartment;-235.720.678;-466.206.459
+787;550;50;1;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.668.467;-466.161.189
+788;840;62;2;3;2;1;0;0;1;0;Campo Belo/São Paulo;apartment;-236.204.738;-466.742.333
+789;2700;242;4;5;4;4;0;1;1;0;Campo Belo/São Paulo;apartment;-236.214.995;-466.767.472
+790;870;75;2;2;0;1;0;0;0;0;Campo Belo/São Paulo;apartment;-236.243.043;-466.697.957
+791;1800;154;3;4;3;3;0;0;0;0;Campo Belo/São Paulo;apartment;-23.627.888;-466.735.337
+792;530;43;1;2;1;1;0;0;1;0;Campo Belo/São Paulo;apartment;-236.199.664;-466.773.151
+793;1885;222;3;4;3;4;1;0;1;0;Campo Belo/São Paulo;apartment;-236.249.915;-46.675.662
+794;1000;70;2;2;1;2;1;0;1;0;Campo Belo/São Paulo;apartment;-236.247.001;-466.670.888
+795;2250;216;4;5;2;3;0;0;1;0;Campo Belo/São Paulo;apartment;-23.621.514;-46.671.362
+796;1900;234;4;4;3;4;0;0;1;0;Campo Belo/São Paulo;apartment;-236.271.288;-466.707.604
+797;1500;130;3;2;1;2;0;0;0;0;Campo Belo/São Paulo;apartment;-236.197.337;-46.676.208
+798;1923;190;3;4;3;2;0;0;1;0;Campo Belo/São Paulo;apartment;-23.617.719;-466.807.141
+799;1070;80;3;2;1;2;0;0;0;0;Campo Belo/São Paulo;apartment;-236.249.905;-466.692.179
+800;1505;206;4;3;2;3;1;1;1;0;Campo Belo/São Paulo;apartment;-236.205.996;-466.794.559
+801;1345;163;3;4;3;3;0;0;1;0;Campo Grande/São Paulo;apartment;-236.793.291;-466.919.327
+802;606;62;2;1;0;1;0;0;0;0;Campo Grande/São Paulo;apartment;-23.675.736;-466.701.661
+803;2000;266;4;5;4;4;1;0;0;0;Campo Grande/São Paulo;apartment;-23.670.116;-46.696.669
+804;573;65;2;1;0;1;0;0;0;0;Campo Grande/São Paulo;apartment;-23.663.017;-466.927.026
+805;620;75;2;2;1;1;0;0;1;0;Campo Grande/São Paulo;apartment;-236.663.858;-466.814.288
+806;753;127;4;2;1;2;0;0;1;0;Campo Grande/São Paulo;apartment;-236.704.221;-466.903.682
+807;596;81;3;2;1;1;0;0;1;0;Campo Grande/São Paulo;apartment;0;0
+808;670;61;3;2;1;1;0;0;1;0;Campo Grande/São Paulo;apartment;-236.772.864;-466.836.875
+809;430;47;2;1;0;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-236.412.494;-467.709.358
+810;420;53;1;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-236.173.771;-46.756.258
+811;298;52;2;1;0;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-235.053.909;-466.227.832
+812;329;45;2;1;0;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-236.301.215;-467.595.685
+813;400;38;2;1;0;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-236.733.445;-467.597.601
+814;863;61;2;2;1;2;0;0;1;0;Cidade Ademar/São Paulo;apartment;-236.776.758;-466.705.682
+815;835;64;2;1;0;1;0;0;1;0;Cidade Ademar/São Paulo;apartment;-236.625.175;-46.664.495
+816;1200;185;4;5;3;2;0;0;1;0;Cidade Dutra/São Paulo;apartment;-237.142.218;-467.046.755
+817;1007;93;3;2;1;2;0;0;1;0;Cursino/São Paulo;apartment;-236.220.451;-466.222.127
+818;435;62;2;2;1;2;0;0;1;0;Cursino/São Paulo;apartment;-236.208.553;-46.617.002
+819;837;93;3;3;1;2;0;0;0;0;Cursino/São Paulo;apartment;-23.610.568;-466.177.519
+820;561;75;2;2;0;1;0;0;0;0;Ipiranga/São Paulo;apartment;-235.803.625;-466.132.763
+821;650;65;2;2;1;1;0;0;0;0;Ipiranga/São Paulo;apartment;-236.010.437.012;-466.089.553.833
+822;0;50;1;1;0;1;0;0;0;0;Ipiranga/São Paulo;apartment;-235.888.801;-466.004.889
+823;805;101;3;2;1;2;0;0;0;0;Ipiranga/São Paulo;apartment;-235.795.406;-466.019.011
+824;750;111;3;2;1;2;1;0;1;0;Ipiranga/São Paulo;apartment;-235.836.864;-466.031.649
+825;1100;137;3;4;3;3;0;1;1;0;Ipiranga/São Paulo;apartment;0;0
+826;620;60;2;2;1;1;0;0;1;0;Ipiranga/São Paulo;apartment;-235.854.034.424;-466.034.355.164
+827;0;130;3;4;3;3;0;0;1;0;Ipiranga/São Paulo;apartment;-23.592.382.431;-466.035.842.896
+828;0;95;2;2;1;1;0;0;0;0;Ipiranga/São Paulo;apartment;-235.741.024.017;-466.053.390.503
+829;0;133;4;3;2;3;0;0;0;0;Ipiranga/São Paulo;apartment;-235.915.473;-466.031.624
+830;1200;180;3;4;3;3;0;0;0;0;Ipiranga/São Paulo;apartment;-236.001.605.988;-46.610.118.866
+831;0;69;3;2;1;1;0;0;0;0;Ipiranga/São Paulo;apartment;-235.976.694;-46.599.341
+832;1700;324;3;4;3;0;0;0;0;0;Ipiranga/São Paulo;apartment;0;0
+833;580;60;2;2;1;2;0;0;1;0;Ipiranga/São Paulo;apartment;-235.956.402;-466.070.415
+834;950;102;2;1;0;1;1;0;0;0;Itaim Bibi/São Paulo;apartment;-235.859.551;-46.680.066
+835;1850;158;3;4;3;3;1;0;1;0;Itaim Bibi/São Paulo;apartment;-23.587.716;-46.678.272
+836;750;36;1;2;1;1;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.710.762;-466.928.219
+837;790;55;1;2;1;1;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.887.472;-466.755.946
+838;4000;247;3;4;3;3;0;0;1;0;Itaim Bibi/São Paulo;apartment;-235.810.888;-466.713.368
+839;2500;210;3;2;1;2;1;0;1;0;Itaim Bibi/São Paulo;apartment;-235.857.357;-466.732.501
+840;2400;360;4;5;4;3;0;0;1;0;Itaim Bibi/São Paulo;apartment;-235.833.997;-466.748.732
+841;2100;350;3;4;3;3;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.824.647;-466.756.288
+842;4000;250;3;4;3;3;0;0;1;0;Itaim Bibi/São Paulo;apartment;-235.810.888;-466.713.368
+843;1372;60;1;2;1;2;0;0;0;0;Itaim Bibi/São Paulo;apartment;-235.883.186;-466.795.526
+844;4000;245;4;5;4;3;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.810.888;-466.713.368
+845;0;33;1;2;1;1;0;0;0;0;Itaim Bibi/São Paulo;apartment;-235.778.116;-466.706.214
+846;5990;280;2;3;2;4;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.886.472;-466.742.428
+847;1233;130;2;3;2;2;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.917.602;-466.754.322
+848;700;50;1;2;1;1;0;0;1;0;Itaim Bibi/São Paulo;apartment;0;0
+849;2019;42;1;1;0;1;0;0;0;0;Itaim Bibi/São Paulo;apartment;-235.943.048;-466.811.013
+850;2278;90;1;2;1;2;0;1;0;0;Itaim Bibi/São Paulo;apartment;-235.944.615;-466.819.371
+851;800;60;1;2;1;1;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.917.572;-466.837.781
+852;1858;133;3;2;1;3;0;1;0;0;Itaim Bibi/São Paulo;apartment;-23.587.309;-466.803.628
+853;0;144;1;2;1;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.557.135;-466.363.298
+854;439;67;2;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.354.929;-466.440.026
+855;585;85;2;2;1;1;0;0;1;0;Jabaquara/São Paulo;apartment;-346.251.236;-583.643.522
+856;1000;114;3;2;1;2;0;1;1;0;Jabaquara/São Paulo;apartment;-236.497.398;-466.498.291
+857;1400;67;3;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.516.953;-466.466.296
+858;600;144;2;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.557.135;-466.363.298
+859;365;65;2;1;0;1;1;0;0;0;Jabaquara/São Paulo;apartment;-236.557.135;-466.363.298
+860;1029;67;2;2;1;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.482.765;-466.444.717
+861;337;45;1;1;0;1;1;0;0;0;Jabaquara/São Paulo;apartment;-236.407.004;-466.431.983
+862;0;40;1;1;0;1;0;1;1;0;Jabaquara/São Paulo;apartment;-236.380.426;-46.642.778
+863;593;55;2;1;0;1;0;0;1;0;Jabaquara/São Paulo;apartment;-236.486.952;-466.439.001
+864;275;44;1;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.557.135;-466.363.298
+865;230;50;2;1;0;0;0;0;0;0;Jabaquara/São Paulo;apartment;-236.373.697;-466.427.259
+866;1000;114;3;2;1;2;0;0;1;0;Jabaquara/São Paulo;apartment;-236.497.398;-466.498.291
+867;1550;135;4;2;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.720.369;-466.588.414
+868;3500;205;3;4;3;4;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.721.597;-466.552.757
+869;3800;314;4;5;4;4;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.746.614;-466.592.982
+870;5705;469;4;5;4;4;0;0;1;0;Jardim Paulista/São Paulo;apartment;-235.643.983;-466.620.572
+871;1216;180;3;2;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.669.939;-466.606.564
+872;5636;327;4;3;2;3;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.627.533;-466.611.511
+873;2900;170;3;2;1;1;0;0;1;0;Jardim Paulista/São Paulo;apartment;-235.640.691;-466.535.635
+874;1500;70;2;2;1;2;0;1;1;0;Jardim Paulista/São Paulo;apartment;-235.674.869;-46.653.025
+875;1500;182;4;2;1;2;1;0;0;0;Jardim Paulista/São Paulo;apartment;-235.669.939;-466.606.564
+876;1200;80;1;2;1;2;0;0;1;0;Jardim Paulista/São Paulo;apartment;-235.786.781;-466.704.188
+877;3900;220;4;5;4;3;0;0;1;0;Jardim Paulista/São Paulo;apartment;-23.572.645;-466.575.737
+878;1301;145;2;2;1;3;0;0;1;0;Jardim Paulista/São Paulo;apartment;-235.689.515;-466.568.348
+879;3161;230;3;2;1;2;1;1;0;0;Jardim Paulista/São Paulo;apartment;-235.611.782;-46.662.377
+880;2741;250;4;2;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.653.529;-466.638.134
+881;1711;183;3;2;1;1;0;0;0;0;Jardim Paulista/São Paulo;apartment;-23.564.231;-466.577.811
+882;3310;250;4;3;2;3;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.676.789;-466.531.652
+883;3100;223;3;2;1;2;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.611.782;-46.662.377
+884;1150;110;2;2;1;1;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.666.289;-466.538.073
+885;808;65;2;1;0;1;0;0;1;0;Moema/São Paulo;apartment;0;0
+886;0;94;2;2;1;2;0;1;0;0;Moema/São Paulo;apartment;-236.099.001;-466.562.666
+887;6300;346;4;4;3;5;0;0;0;0;Moema/São Paulo;apartment;-23.599.107;-466.722.057
+888;1380;168;4;2;1;2;0;0;1;0;Moema/São Paulo;apartment;-236.075.083;-466.639.045
+889;0;220;3;4;3;2;0;0;1;0;Moema/São Paulo;apartment;-2.360.713;-466.563.096
+890;1400;90;2;2;1;2;1;0;0;0;Moema/São Paulo;apartment;-236.052.581;-46.674.547
+891;1890;104;1;2;1;1;0;1;1;0;Moema/São Paulo;apartment;-235.997.553;-466.697.419
+892;587;48;1;1;0;1;1;0;1;0;Moema/São Paulo;apartment;-236.071.061;-466.566.474
+893;1400;165;2;3;2;2;1;1;1;0;Moema/São Paulo;apartment;-236.074.418;-46.664.583
+894;0;74;3;2;1;1;0;0;1;0;Moema/São Paulo;apartment;-236.094.151;-46.661.057
+895;500;32;1;1;0;1;1;0;0;0;Moema/São Paulo;apartment;-236.020.214;-466.721.032
+896;3600;230;4;4;3;3;0;0;0;0;Moema/São Paulo;apartment;-236.046.874;-466.551.342
+897;1400;110;3;2;1;1;0;0;0;0;Moema/São Paulo;apartment;-236.044;-466.715.429
+898;3000;190;4;4;3;3;0;0;1;0;Moema/São Paulo;apartment;-236.037.763;-466.698.106
+899;4600;226;4;5;4;4;0;0;1;0;Moema/São Paulo;apartment;-235.978.808;-466.640.862
+900;2700;194;4;3;2;5;0;0;1;0;Moema/São Paulo;apartment;-23.602.063;-466.589.918
+901;0;48;1;2;1;1;0;1;1;0;Moema/São Paulo;apartment;-236.091.171;-46.665.494
+902;700;60;2;2;1;1;0;0;0;0;Moema/São Paulo;apartment;-23.614.059;-466.631.349
+903;650;66;2;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.090.583.801;-466.656.990.051
+904;645;100;2;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.031.513.214;-46.673.286.438
+905;509;40;1;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.054.369;-466.589.958
+906;2350;184;3;4;3;4;0;0;1;0;Morumbi/São Paulo;apartment;-23.630.961;-467.331.427
+907;890;64;2;2;1;2;0;0;1;0;Morumbi/São Paulo;apartment;-236.014.364;-46.718.136
+908;1450;132;3;4;3;2;0;0;0;0;Morumbi/São Paulo;apartment;-236.329.816;-467.304.165
+909;748;48;1;2;1;2;0;1;1;0;Morumbi/São Paulo;apartment;-236.104.549;-467.420.785
+910;860;70;2;2;1;2;0;0;1;0;Morumbi/São Paulo;apartment;-236.195.342;-467.348.561
+911;1700;100;3;2;1;2;0;0;0;0;Morumbi/São Paulo;apartment;-236.308.939;-467.346.264
+912;1100;100;2;2;1;2;1;1;1;0;Morumbi/São Paulo;apartment;-236.227.031;-467.382.397
+913;680;35;1;2;1;1;0;1;1;0;Morumbi/São Paulo;apartment;0;0
+914;1400;160;4;1;0;3;0;0;1;0;Morumbi/São Paulo;apartment;-235.872.425;-46.719.423
+915;0;207;4;5;4;3;0;0;1;0;Morumbi/São Paulo;apartment;-236.375.838;-46.726.968
+916;760;75;3;1;0;2;0;0;0;0;Morumbi/São Paulo;apartment;-236.136.286;-467.411.589
+917;3895;393;4;4;3;4;0;0;1;0;Morumbi/São Paulo;apartment;-236.220.046;-467.351.747
+918;1450;145;3;2;1;2;0;1;0;0;Morumbi/São Paulo;apartment;-236.114.885;-467.414.191
+919;1490;70;3;1;0;1;0;0;1;0;Morumbi/São Paulo;apartment;-235.992.271;-466.958.899
+920;287;60;3;2;1;1;0;0;0;0;Pedreira/São Paulo;apartment;-236.928.299;-466.563.005
+921;400;45;2;1;0;1;1;0;1;0;Sacomã/São Paulo;apartment;-236.121.081;-46.598.479
+922;369;74;3;2;1;1;0;0;0;0;Sacomã/São Paulo;apartment;-23.613.999;-465.974.853
+923;450;61;2;2;1;1;0;0;0;0;Sacomã/São Paulo;apartment;-23.613.999;-465.974.853
+924;480;55;2;2;0;1;0;0;1;0;Sacomã/São Paulo;apartment;-236.126.114;-465.961.384
+925;570;60;2;2;1;1;0;0;1;0;Sacomã/São Paulo;apartment;-236.086.962;-466.014.063
+926;434;60;2;1;0;1;0;0;1;0;Sacomã/São Paulo;apartment;-236.180.108;-465.966.348
+927;400;49;2;1;0;1;0;0;0;0;Sacomã/São Paulo;apartment;-236.131.936;-465.998.447
+928;483;60;2;1;0;1;0;0;0;0;Sacomã/São Paulo;apartment;-236.131.471;-46.597.245
+929;5000;296;4;5;4;3;0;1;1;0;Santo Amaro/São Paulo;apartment;-236.494.697;-466.936.074
+930;970;126;2;3;2;2;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.405.691;-466.967.633
+931;1120;130;3;2;1;2;0;0;0;0;Santo Amaro/São Paulo;apartment;-236.517.157;-467.179.884
+932;650;66;2;2;1;2;0;1;1;0;Santo Amaro/São Paulo;apartment;-236.261.603;-466.939.256
+933;600;100;3;2;1;1;0;0;0;0;Santo Amaro/São Paulo;apartment;-236.596.547;-466.917.602
+934;850;54;2;1;0;1;0;1;1;0;Santo Amaro/São Paulo;apartment;-236.340.597;-466.921.725
+935;2115;205;4;4;3;4;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.455.358;-466.994.739
+936;1450;193;2;1;0;2;0;0;0;0;Santo Amaro/São Paulo;apartment;-236.383.705;-466.999.261
+937;650;56;2;1;0;1;0;0;1;0;Saúde/São Paulo;apartment;-236.227.746;-466.368.757
+938;650;40;2;1;0;1;0;0;1;0;Saúde/São Paulo;apartment;0;0
+939;914;101;3;3;1;2;1;0;1;0;Saúde/São Paulo;apartment;0;0
+940;650;65;2;2;1;2;0;0;0;0;Saúde/São Paulo;apartment;-236.192.958;-466.413.945
+941;725;55;2;1;0;1;0;0;0;0;Saúde/São Paulo;apartment;-236.210.898;-466.416.688
+942;380;42;1;1;0;1;0;0;1;0;Saúde/São Paulo;apartment;-236.168.356;-466.349.314
+943;915;101;4;2;1;2;0;0;1;0;Saúde/São Paulo;apartment;-236.124.039;-466.317.115
+944;330;60;2;1;0;1;0;0;0;0;Saúde/São Paulo;apartment;-236.220.067;-466.342.122
+945;715;60;2;2;1;1;0;0;1;0;Saúde/São Paulo;apartment;-236.143.216;-466.363.019
+946;505;42;1;2;1;1;0;1;1;0;Saúde/São Paulo;apartment;-236.153.476;-466.365.363
+947;550;70;3;1;0;0;0;1;0;0;Saúde/São Paulo;apartment;-236.153.807;-466.384.571
+948;1030;100;3;2;1;2;0;0;1;0;Saúde/São Paulo;apartment;-23.617.742;-466.344.844
+949;560;43;1;1;0;1;0;1;1;0;Saúde/São Paulo;apartment;-236.283.961;-466.430.827
+950;1000;101;2;3;2;2;0;0;1;0;Saúde/São Paulo;apartment;-236.085.736;-466.322.089
+951;960;134;3;4;3;4;0;0;1;0;Saúde/São Paulo;apartment;-236.187.853;-466.333.175
+952;420;66;2;2;1;1;0;1;1;0;Saúde/São Paulo;apartment;-236.059.494;-466.288.581
+953;741;59;2;2;1;1;0;0;1;0;Saúde/São Paulo;apartment;-236.209.326;-466.373.997
+954;580;57;2;2;1;1;0;0;1;0;Saúde/São Paulo;apartment;-236.335.042;-46.627.549
+955;700;52;2;1;0;1;0;0;0;0;Saúde/São Paulo;apartment;-23.626.795;-466.360.261
+956;1;72;3;1;0;1;0;0;0;0;Socorro/São Paulo;apartment;-236.706.209;-467.210.156
+957;320;65;2;1;0;1;0;1;0;0;Socorro/São Paulo;apartment;-236.744.033;-467.146.119
+958;639;75;3;2;0;1;0;0;1;0;Socorro/São Paulo;apartment;0;0
+959;630;75;3;2;1;1;0;0;1;0;Socorro/São Paulo;apartment;0;0
+960;2838;289;4;5;4;4;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.293.504;-467.334.522
+961;1960;186;3;4;3;3;0;1;1;0;Vila Andrade/São Paulo;apartment;-236.237.076;-467.378.718
+962;842;72;3;2;1;2;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.358.055;-467.381.531
+963;950;40;1;1;0;1;0;1;0;0;Vila Andrade/São Paulo;apartment;-236.264.975;-467.230.668
+964;1610;110;3;4;3;3;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.335.421;-467.311.984
+965;470;50;2;1;0;1;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.263.058;-467.467.169
+966;1260;171;4;4;3;3;0;1;1;0;Vila Andrade/São Paulo;apartment;-236.275.199;-467.395.931
+967;710;95;1;2;1;1;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.296.627;-467.427.231
+968;700;58;2;2;1;1;0;1;1;0;Vila Andrade/São Paulo;apartment;-23.629.971;-467.384.251
+969;650;72;3;2;1;1;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.361.373;-467.390.978
+970;765;79;2;2;1;2;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.246.294;-467.387.574
+971;0;90;3;2;1;2;0;0;1;0;Vila Mariana/São Paulo;apartment;-235.856.322;-466.368.007
+972;925;82;3;2;1;2;1;0;1;0;Vila Mariana/São Paulo;apartment;-235.887.675;-466.267.198
+973;1100;87;2;1;0;2;0;0;1;0;Vila Mariana/São Paulo;apartment;-235.824.371;-466.487.452
+974;900;93;3;2;1;1;0;0;1;0;Vila Mariana/São Paulo;apartment;-236.010.802;-466.337.529
+975;860;91;3;2;1;2;0;0;0;0;Vila Mariana/São Paulo;apartment;-235.994.788;-466.343.543
+976;430;40;1;1;0;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-235.894.687;-46.631.566
+977;765;114;1;1;0;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-235.769.323;-466.236.013
+978;1920;222;4;4;3;4;0;0;1;0;Vila Mariana/São Paulo;apartment;-235.939.769;-466.395.066
+979;1200;100;3;3;2;2;0;1;0;0;Vila Mariana/São Paulo;apartment;-235.866.706;-466.420.766
+980;650;70;2;1;0;0;0;0;0;0;Vila Mariana/São Paulo;apartment;-236.016.051;-466.428.891
+981;174;130;2;2;1;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-235.799.474;-466.512.107
+982;384;50;2;1;0;1;1;0;1;0;Vila Sônia/São Paulo;apartment;-236.022.465;-467.320.074
+983;1100;84;3;2;1;2;0;1;1;0;Vila Sônia/São Paulo;apartment;-235.878.928;-467.399.564
+984;1000;87;3;4;3;3;0;0;1;0;Vila Sônia/São Paulo;apartment;-236.068.893;-467.366.403
+985;500;64;2;2;1;1;0;0;1;0;Vila Sônia/São Paulo;apartment;-235.985.992;-467.414.895
+986;600;67;3;1;0;1;0;0;0;0;Vila Sônia/São Paulo;apartment;-235.945.672;-467.277.993
+987;1502;120;3;1;0;2;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.526.475;-467.194.976
+988;4323;317;4;2;4;5;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.511.925;-467.214.333
+989;986;80;2;1;0;1;1;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.504.963;-466.960.285
+990;480;76;3;2;1;1;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.423.554;-46.716.605
+991;4200;270;4;5;4;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.507.678;-466.996.079
+992;2200;165;3;2;1;2;1;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.418.286;-467.188.995
+993;3000;220;3;4;3;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.548.377;-467.146.745
+994;700;92;3;1;0;1;1;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.379.196;-467.179.128
+995;4200;200;3;2;1;2;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.544.383;-467.200.002
+996;800;66;1;1;0;1;0;1;0;0;Alto de Pinheiros/São Paulo;apartment;-235.378.619;-467.194.517
+997;2200;165;3;2;1;1;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;0;0
+998;2350;225;4;3;2;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;0;0
+999;2700;185;3;4;3;3;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.545.106;-467.176.986
+1000;1831;124;1;2;1;2;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.415.717;-467.047.639
+1001;2500;178;4;4;3;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.388.583;-467.132.246
+1002;2430;165;3;2;1;2;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-269.225.709;-490.606.445
+1003;3700;240;3;4;3;3;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-23.545.106;-467.176.986
+1004;570;34;1;1;0;1;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.547.932;-466.968.645
+1005;8000;452;4;5;4;6;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.507.556;-467.195.476
+1006;1200;74;1;1;0;2;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.409.507;-467.169.671
+1007;5600;364;4;5;4;5;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.512.454;-467.217.357
+1008;5200;320;3;4;3;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-23.560.394;-46.701.225
+1009;750;93;2;3;2;2;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.346.669;-467.188.043
+1010;2500;163;3;4;3;3;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-235.391.931;-467.136.972
+1011;2400;168;3;2;1;2;0;1;1;0;Alto de Pinheiros/São Paulo;apartment;-235.418.286;-467.188.995
+1012;950;96;3;2;1;2;0;0;1;0;Butantã/São Paulo;apartment;-235.702.056;-467.447.349
+1013;650;68;2;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;0;0
+1014;446;59;2;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.002.428;-466.276.118
+1015;600;52;2;1;0;1;0;1;0;0;Butantã/São Paulo;apartment;-235.859.942;-467.401.001
+1016;720;75;3;2;0;1;0;1;0;0;Butantã/São Paulo;apartment;0;0
+1017;400;65;2;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.865.286;-467.659.767
+1018;650;77;2;2;1;2;0;0;1;0;Butantã/São Paulo;apartment;-235.845.873;-467.673.843
+1019;628;75;3;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.831.254;-467.628.127
+1020;600;88;3;2;1;2;0;0;1;0;Butantã/São Paulo;apartment;-235.693.927;-467.494.739
+1021;866;136;3;2;1;3;0;1;1;0;Butantã/São Paulo;apartment;-23.584.104;-46.777.435
+1022;530;58;2;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.879.112;-467.389.004
+1023;760;74;3;2;1;2;1;0;1;0;Butantã/São Paulo;apartment;-235.782.523;-467.450.668
+1024;1530;135;3;3;2;3;0;0;0;0;Butantã/São Paulo;apartment;0;0
+1025;760;65;3;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;0;0
+1026;500;66;2;2;1;2;0;0;1;0;Butantã/São Paulo;apartment;0;0
+1027;350;60;2;1;0;1;0;0;0;0;Butantã/São Paulo;apartment;-236.031.276;-467.997.254
+1028;900;104;3;2;1;2;0;0;0;0;Butantã/São Paulo;apartment;0;0
+1029;666;85;2;1;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.795.869;-467.643.962
+1030;590;70;3;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;0;0
+1031;400;55;2;1;0;1;0;1;0;0;Butantã/São Paulo;apartment;-235.713.109;-467.412.135
+1032;500;60;2;1;0;1;1;0;1;0;Cachoeirinha/São Paulo;apartment;-234.699.186;-466.671.853
+1033;490;60;2;1;0;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-234.774.669;-466.593.095
+1034;605;65;3;1;0;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-234.712.466;-466.546.442
+1035;610;59;3;2;1;1;0;1;0;0;Cachoeirinha/São Paulo;apartment;-234.653.378;-466.344.654
+1036;315;48;2;1;0;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-234.761.762;-466.601.237
+1037;530;58;2;1;0;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.965.862;-467.050.434
+1038;510;56;2;1;0;2;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.890.159;-467.067.235
+1039;480;50;2;1;0;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.847.028;-466.995.776
+1040;520;81;2;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.838.107;-466.955.398
+1041;768;100;3;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-235.021.479;-46.700.587
+1042;100;65;1;1;0;0;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-234.991.122;-46.696.217
+1043;525;53;2;1;0;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.965.525;-46.705.762
+1044;0;35;1;1;0;0;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-269.225.709;-490.606.445
+1045;470;70;2;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.988.253;-467.052.165
+1046;600;60;2;1;0;1;0;1;1;0;Freguesia do Ó/São Paulo;apartment;-234.846.345;-467.016.843
+1047;0;120;3;2;1;2;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-234.998.033;-466.910.592
+1048;457;81;2;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-234.838.107;-466.955.398
+1049;450;55;2;1;0;1;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-235.006.491;-466.926.136
+1050;486;81;2;2;1;1;0;1;1;0;Freguesia do Ó/São Paulo;apartment;-234.838.107;-466.955.398
+1051;759;84;3;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;0;0
+1052;1050;195;4;3;2;3;0;1;0;0;Freguesia do Ó/São Paulo;apartment;-234.946.753;-46.694.597
+1053;440;70;3;2;1;1;0;1;1;0;Freguesia do Ó/São Paulo;apartment;-234.988.253;-467.052.165
+1054;692;78;2;2;1;1;0;0;1;0;Jaguaré/São Paulo;apartment;-235.521.376;-467.430.944
+1055;1400;200;3;4;3;3;0;0;1;0;Jaguaré/São Paulo;apartment;-235.542.815;-467.484.216
+1056;435;65;2;1;0;1;1;0;0;0;Jaguaré/São Paulo;apartment;-23.569.893;-467.601.943
+1057;560;57;2;1;0;1;0;0;0;0;Jaguaré/São Paulo;apartment;0;0
+1058;350;53;2;1;0;1;0;0;1;0;Jaguaré/São Paulo;apartment;-235.559.136;-467.479.013
+1059;390;51;2;1;0;1;0;0;1;0;Jaguaré/São Paulo;apartment;-23.549.229;-46.744.902
+1060;700;80;3;2;1;2;0;0;0;0;Jaguaré/São Paulo;apartment;-235.521.376;-467.430.944
+1061;367;51;2;1;0;2;0;0;1;0;Jaguaré/São Paulo;apartment;-23.549.229;-46.744.902
+1062;380;66;2;1;0;1;0;0;0;0;Jaraguá/São Paulo;apartment;-234.569.807;-467.304.902
+1063;460;47;2;1;0;1;0;1;0;0;Jaraguá/São Paulo;apartment;-234.855.628;-467.549.948
+1064;310;49;2;1;0;1;0;0;0;0;Jaraguá/São Paulo;apartment;-234.401.977;-467.289.269
+1065;310;47;2;1;0;1;0;0;0;0;Jaraguá/São Paulo;apartment;-234.401.977;-467.289.269
+1066;750;70;2;2;1;2;1;0;0;0;Lapa/São Paulo;apartment;-235.240.118;-466.916.548
+1067;105;65;2;1;0;0;0;0;0;0;Lapa/São Paulo;apartment;-235.234.661;-466.868.139
+1068;1750;155;3;2;1;2;0;0;1;0;Lapa/São Paulo;apartment;-234.555.549;-466.699.721
+1069;540;56;2;1;0;1;1;0;1;0;Lapa/São Paulo;apartment;0;0
+1070;1380;107;3;2;1;2;0;0;1;0;Lapa/São Paulo;apartment;-235.337.276;-467.148.282
+1071;800;94;1;1;0;2;0;1;1;0;Lapa/São Paulo;apartment;0;0
+1072;812;55;2;1;0;1;0;0;1;0;Lapa/São Paulo;apartment;-235.325.411;-467.044.557
+1073;2700;167;3;2;1;3;0;0;1;0;Lapa/São Paulo;apartment;-235.263.398;-46.704.933
+1074;900;130;3;2;1;2;0;1;1;0;Lapa/São Paulo;apartment;-235.236.131;-466.995
+1075;850;64;2;2;1;2;0;0;1;0;Lapa/São Paulo;apartment;-235.221.131;-467.094.658
+1076;746;65;2;1;0;1;0;0;0;0;Lapa/São Paulo;apartment;-235.053.909;-466.227.832
+1077;500;65;2;2;1;2;1;1;1;0;Lapa/São Paulo;apartment;-235.229.091;-466.864.578
+1078;1251;103;2;2;0;1;0;0;0;0;Lapa/São Paulo;apartment;-235.268.946;-466.895.967
+1079;484;47;2;1;0;1;0;0;1;0;Limão/São Paulo;apartment;-235.073.986.053;-46.663.318.634
+1080;251;45;2;1;0;1;0;0;0;0;Limão/São Paulo;apartment;0;0
+1081;510;70;3;2;1;1;0;0;1;0;Limão/São Paulo;apartment;-235.056.967;-466.716.547
+1082;620;117;3;2;1;2;0;0;1;0;Limão/São Paulo;apartment;-234.926.895;-466.730.059
+1083;522;70;3;2;1;1;0;0;0;0;Limão/São Paulo;apartment;0;0
+1084;500;54;2;1;0;1;0;0;1;0;Limão/São Paulo;apartment;-235.003.866;-466.827.647
+1085;420;35;1;1;0;1;0;0;1;0;Limão/São Paulo;apartment;0;0
+1086;390;50;2;1;0;1;0;0;0;0;Limão/São Paulo;apartment;-235.030.629;-466.836.148
+1087;510;74;3;2;1;1;0;0;0;0;Limão/São Paulo;apartment;-235.000.561;-466.798.887
+1088;500;60;2;1;0;1;0;0;1;0;Limão/São Paulo;apartment;-234.826.384;-466.734.336
+1089;492;58;2;1;0;1;1;0;0;0;Limão/São Paulo;apartment;-234.987.696;-466.752.959
+1090;420;35;1;1;0;1;1;0;1;1;Limão/São Paulo;apartment;-235.003.165;-466.691.013
+1091;390;49;2;1;0;0;0;0;1;0;Limão/São Paulo;apartment;-235.030.629;-466.836.148
+1092;306;70;3;2;1;1;0;0;0;0;Limão/São Paulo;apartment;-235.001.251;-466.720.922
+1093;663;70;3;2;1;1;0;0;1;0;Limão/São Paulo;apartment;-235.003.866;-466.827.647
+1094;0;40;1;1;0;0;0;0;0;0;Limão/São Paulo;apartment;-234.992.726;-466.688.736
+1095;345;49;2;1;0;1;0;0;1;0;Limão/São Paulo;apartment;-235.055.459;-466.709.867
+1096;1750;98;3;3;2;2;0;0;1;0;Perdizes/São Paulo;apartment;-23.536.635;-466.852.013
+1097;1213;124;3;1;0;1;0;0;0;0;Perdizes/São Paulo;apartment;-235.362.606;-466.837.253
+1098;1001;99;3;2;1;1;0;0;0;0;Perdizes/São Paulo;apartment;-235.413.486;-466.708.141
+1099;1750;88;3;2;1;2;0;0;1;0;Perdizes/São Paulo;apartment;-235.366.306.305;-466.853.790.283
+1100;1018;56;1;1;0;1;0;0;0;0;Perdizes/São Paulo;apartment;0;0
+1101;848;79;2;1;0;1;0;0;1;0;Perdizes/São Paulo;apartment;-235.334.749;-466.812.804
+1102;1300;105;3;2;1;2;0;0;0;0;Perdizes/São Paulo;apartment;-235.325.125;-466.764.949
+1103;2200;293;4;5;4;3;0;0;1;0;Perdizes/São Paulo;apartment;-235.347.851;-466.800.923
+1104;637;37;1;1;0;1;0;0;0;0;Perdizes/São Paulo;apartment;-235.408.977;-466.785.857
+1105;950;87;2;3;1;2;1;1;1;0;Perdizes/São Paulo;apartment;-235.349.057;-466.830.434
+1106;780;90;2;2;1;1;0;0;0;0;Perdizes/São Paulo;apartment;-235.408.814;-466.822.471
+1107;2320;165;3;4;3;3;0;0;1;0;Perdizes/São Paulo;apartment;-235.354.676;-466.706.522
+1108;2100;135;3;4;1;2;0;0;1;0;Perdizes/São Paulo;apartment;-235.420.477;-466.856.064
+1109;3000;267;3;4;3;5;0;1;0;0;Perdizes/São Paulo;apartment;-235.341.317;-466.672.791
+1110;972;85;2;2;1;1;0;0;0;0;Pinheiros/São Paulo;apartment;-23.561.674;-466.752.643
+1111;0;30;1;1;0;0;0;1;1;0;Pinheiros/São Paulo;apartment;-235.675.813;-466.903.458
+1112;816;84;1;1;0;1;0;0;0;0;Pinheiros/São Paulo;apartment;-23.567.174;-466.871.654
+1113;550;44;1;1;0;1;0;0;1;0;Pinheiros/São Paulo;apartment;-235.512.376;-466.799.527
+1114;1320;180;3;2;1;2;0;0;1;0;Pinheiros/São Paulo;apartment;-235.629.132;-466.836.254
+1115;650;60;2;2;1;1;0;1;0;0;Pinheiros/São Paulo;apartment;-235.534.006;-466.749.834
+1116;1800;91;3;2;1;1;1;0;1;0;Pinheiros/São Paulo;apartment;-235.663.174;-466.871.036
+1117;4200;280;4;5;4;5;0;0;1;0;Pinheiros/São Paulo;apartment;-235.507.452;-466.996.773
+1118;1300;85;3;2;1;1;0;1;0;0;Pinheiros/São Paulo;apartment;0;0
+1119;800;44;1;2;1;1;1;1;1;0;Pinheiros/São Paulo;apartment;-235.609.765;-466.746.413
+1120;1650;140;3;4;3;3;0;0;0;0;Pinheiros/São Paulo;apartment;-235.613.248;-466.890.281
+1121;295;60;2;1;0;1;1;0;0;0;Pinheiros/São Paulo;apartment;0;0
+1122;650;36;1;2;1;1;0;1;1;0;Pinheiros/São Paulo;apartment;0;0
+1123;705;31;1;2;1;1;1;1;1;0;Pinheiros/São Paulo;apartment;-23.567.452;-466.904.635
+1124;1900;30;1;1;0;1;0;0;1;0;Pinheiros/São Paulo;apartment;0;0
+1125;3365;189;2;3;2;2;0;0;0;0;Pinheiros/São Paulo;apartment;-235.523.645;-466.930.137
+1126;1000;52;1;1;0;1;0;1;1;0;Pinheiros/São Paulo;apartment;-235.592.441;-466.742.549
+1127;1050;150;3;2;1;2;0;0;1;0;Pinheiros/São Paulo;apartment;-23.560.796;-466.872.251
+1128;200;44;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;-234.791.158;-467.418.047
+1129;1600;107;2;3;2;2;0;0;1;0;Pirituba/São Paulo;apartment;-234.997.489;-467.531.061
+1130;1800;131;3;2;1;2;0;0;1;0;Pirituba/São Paulo;apartment;-234.987.173;-467.529.154
+1131;765;75;3;2;1;2;0;0;0;0;Pirituba/São Paulo;apartment;-234.963.808;-467.283.355
+1132;160;50;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;0;0
+1133;1247;131;3;2;1;2;0;1;1;0;Pirituba/São Paulo;apartment;-234.986.906;-467.528.856
+1134;580;79;3;2;1;2;0;0;1;0;Pirituba/São Paulo;apartment;-234.964.906;-467.280.854
+1135;440;55;2;1;0;0;1;0;1;0;Pirituba/São Paulo;apartment;-234.886.568;-467.198.409
+1136;740;65;3;2;1;1;0;0;1;0;Pirituba/São Paulo;apartment;-235.061.301;-467.439.138
+1137;0;54;2;1;0;0;0;0;0;0;Pirituba/São Paulo;apartment;-234.943.742;-467.491.371
+1138;450;60;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;0;0
+1139;1270;131;4;2;1;2;0;1;1;0;Pirituba/São Paulo;apartment;-235.505.517;-466.332.925
+1140;550;55;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;-235.024.526;-467.163.058
+1141;316;50;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;-234.751.131;-467.535.944
+1142;0;79;3;2;1;2;0;0;1;0;Pirituba/São Paulo;apartment;-234.964.906;-467.280.854
+1143;510;60;2;2;1;2;0;1;0;0;Pirituba/São Paulo;apartment;-234.907.221;-467.141.463
+1144;580;54;2;1;0;1;1;0;0;0;Pirituba/São Paulo;apartment;-235.024.526;-467.163.058
+1145;490;55;3;1;0;1;0;0;0;0;Raposo Tavares/São Paulo;apartment;-235.880.911;-467.978.391
+1146;420;54;2;1;0;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-235.593.159;-467.482.448
+1147;400;50;2;1;0;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.565.103;-467.506.892
+1148;500;50;2;1;0;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-235.612.168;-467.482.726
+1149;450;49;2;1;0;1;0;1;1;0;Rio Pequeno/São Paulo;apartment;-235.625.014;-467.479.207
+1150;402;65;2;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;-235.644.279;-467.515.429
+1151;1300;190;4;5;4;3;0;0;0;0;Rio Pequeno/São Paulo;apartment;-235.553.804;-467.377.458
+1152;0;64;3;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;0;0
+1153;1363;187;3;4;3;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.269.671;-467.358.704
+1154;600;49;2;1;0;2;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.313.663.483;-467.305.259.705
+1155;990;78;2;2;1;2;0;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.254.937;-467.383.476
+1156;1271;151;3;4;3;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.279.785;-467.305.769
+1157;1100;125;3;2;1;2;0;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.329.871;-46.731.198
+1158;1250;148;3;4;3;2;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.209.717;-467.265.788
+1159;1350;125;3;3;2;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.241.522;-467.335.513
+1160;1200;125;3;2;1;2;1;1;0;0;Vila Leopoldina/São Paulo;apartment;-235.320.263;-46.732.558
+1161;560;70;2;2;1;1;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.317.834;-467.451.035
+1162;576;80;2;1;0;0;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-23.531.311;-467.247.564
+1163;570;50;2;1;0;2;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.316.334;-467.304.957
+1164;714;88;2;2;1;1;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-235.258.915;-467.322.336
+1165;1500;230;4;5;4;0;0;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.267.865;-467.311.907
+1166;620;70;2;2;1;1;1;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.315.983;-467.418.047
+1167;1300;175;3;3;2;3;1;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.273.532.867;-46.730.846.405
+1168;900;143;3;4;3;2;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.280.004;-467.325.504
+1169;1700;151;3;4;3;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.241.522;-467.335.513
+1170;1500;172;4;3;2;3;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-235.241.522;-467.335.513
+1171;3300;188;2;4;2;2;0;0;0;0;Vila Madalena/São Paulo;apartment;-23.552.364;-46.693.013
+1172;646;41;1;2;1;1;1;0;1;0;Vila Madalena/São Paulo;apartment;-23.546.658;-46.692.002
+1173;1458;225;3;4;1;3;1;0;0;0;Vila Madalena/São Paulo;apartment;-23.544.197;-46.707.772
+1174;0;40;1;2;1;1;1;0;0;0;Vila Madalena/São Paulo;apartment;-23.540.087;-46.696.875
+1175;1119;51;1;2;1;2;1;0;1;0;Vila Madalena/São Paulo;apartment;-2.355.394;-46.694.229
+1176;3500;280;4;6;4;4;0;0;1;0;Vila Madalena/São Paulo;apartment;-23.556.553;-46.693.431
+1177;920;90;2;2;1;1;0;0;0;0;Mooca/São Paulo;apartment;-2.356.537;-46.595.362
+1178;600;62;2;2;1;1;1;0;1;1;Mooca/São Paulo;apartment;-23.567.766;-46.593.447
+1179;540;50;2;2;1;1;0;0;1;0;Mooca/São Paulo;apartment;-23.562.313;-46.601.342
+1180;500;70;2;2;1;1;0;1;1;0;Mooca/São Paulo;apartment;-23.548.999;-46.608.358
+1181;617;78;2;2;1;1;0;0;0;0;Mooca/São Paulo;apartment;-23.553.657;-46.622.022
+1182;900;126;3;4;3;2;1;1;1;0;Mooca/São Paulo;apartment;-23.567.391;-46.583.418
+1183;480;65;3;2;1;1;1;0;1;0;Mooca/São Paulo;apartment;-23.546.089;-46.590.325
+1184;525;50;2;2;1;1;1;0;1;0;Mooca/São Paulo;apartment;-235.481;-46.609.283
+1185;920;90;3;2;1;1;0;0;0;0;Mooca/São Paulo;apartment;-2.356.537;-46.595.362
+1186;600;80;3;2;1;2;1;0;1;0;Mooca/São Paulo;apartment;-23.567.469;-46.583.815
+1187;1450;130;3;4;1;2;1;1;1;0;Brooklin/São Paulo;apartment;-23.600.008;-46.687.864
+1188;800;55;1;2;1;1;1;0;1;0;Brooklin/São Paulo;apartment;-23.620.239;-46.695.396
+1189;886;119;3;2;1;2;0;0;0;0;Brooklin/São Paulo;apartment;-23.602.823;-46.694.773
+1190;1939;150;3;4;1;2;1;0;1;0;Brooklin/São Paulo;apartment;-23.607.114;-466.881
+1191;400;41;1;2;1;1;1;0;1;0;Brooklin/São Paulo;apartment;-23.613.991;-46.683.591
+1192;1980;64;1;2;1;1;0;0;1;0;Vila Olimpia/São Paulo;apartment;-23.594.937;-46.689.467
+1193;717;47;1;2;1;1;1;0;1;0;Vila Olimpia/São Paulo;apartment;-23.599.033;-4.668.352
+1194;800;70;2;2;1;1;0;0;0;0;Vila Olimpia/São Paulo;apartment;-23.592.542;-46.684.703
+1195;800;65;1;2;1;2;0;1;1;0;Vila Olimpia/São Paulo;apartment;-2.359.338;-46.687.878
+1196;750;50;1;2;1;1;1;1;1;0;Vila Olimpia/São Paulo;apartment;-23.597.916;-466.814
+1197;1286;111;2;3;2;2;1;0;0;0;Vila Olimpia/São Paulo;apartment;-23.593.507;-46.684.846
+1198;746;90;2;1;0;1;1;0;0;0;Mooca/São Paulo;apartment;-235.670.478;-465.915.515
+1199;200;82;2;2;1;0;0;0;0;0;Mooca/São Paulo;apartment;-235.583.762;-465.907.903
+1200;800;120;3;2;1;2;0;0;1;0;Mooca/São Paulo;apartment;-235.582.057;-46.595.508
+1201;3100;220;3;3;2;4;0;0;1;0;Mooca/São Paulo;apartment;-235.711.125;-46.590.027
+1202;736;69;3;1;0;1;0;1;1;0;Mooca/São Paulo;apartment;-235.592.443;-465.967.818
+1203;841;70;2;1;0;1;0;1;0;0;Mooca/São Paulo;apartment;-23.565.793;-465.946.249
+1204;483;90;2;1;0;1;0;0;0;0;Mooca/São Paulo;apartment;-235.540.497;-46.613.404
+1205;480;100;2;2;0;1;1;0;0;0;Mooca/São Paulo;apartment;-235.680.366;-465.932.049
+1206;504;90;3;2;1;0;0;0;1;0;Mooca/São Paulo;apartment;-23.559.469;-465.870.958
+1207;569;49;2;1;0;1;0;0;1;0;Mooca/São Paulo;apartment;-235.480.744;-466.093.832
+1208;0;90;2;1;0;1;0;0;0;0;Mooca/São Paulo;apartment;-235.653.635;-465.953.207
+1209;650;79;2;2;1;2;0;0;0;0;Mooca/São Paulo;apartment;-235.608.466;-465.855.257
+1210;1200;156;4;4;2;1;1;0;1;0;Mooca/São Paulo;apartment;-235.728.216;-465.877.427
+1211;180;65;2;1;0;1;1;0;0;0;Mooca/São Paulo;apartment;-235.002.428;-466.276.118
+1212;450;48;2;1;0;1;0;0;1;0;Mooca/São Paulo;apartment;-235.486.261;-465.952.324
+1213;850;80;2;1;0;1;0;0;0;0;Mooca/São Paulo;apartment;-23.565.793;-465.946.249
+1214;400;80;2;1;0;0;0;0;0;0;Mooca/São Paulo;apartment;0;0
+1215;1350;98;2;2;1;2;0;0;1;0;Brooklin/São Paulo;apartment;-236.122.734;-466.874.768
+1216;1400;115;3;2;1;2;1;0;1;0;Brooklin/São Paulo;apartment;-236.118.014;-466.841.587
+1217;1300;178;3;4;3;3;0;0;1;0;Brooklin/São Paulo;apartment;-269.225.117;-490.607.072
+1218;588;80;2;3;2;2;0;1;1;0;Brooklin/São Paulo;apartment;-236.153.109;-466.849.162
+1219;710;75;2;2;1;1;1;0;1;0;Brooklin/São Paulo;apartment;-236.265.213;-466.933.507
+1220;750;70;2;2;1;1;0;0;1;0;Brooklin/São Paulo;apartment;-236.265.213;-466.933.507
+1221;2415;230;4;2;1;2;0;0;0;0;Brooklin/São Paulo;apartment;-236.122.873;-466.814.816
+1222;700;58;1;2;1;1;1;1;1;0;Brooklin/São Paulo;apartment;-236.120.443;-46.677.704
+1223;600;33;1;2;1;1;0;1;1;0;Brooklin/São Paulo;apartment;-236.190.361;-466.854.279
+1224;1600;162;3;3;2;2;0;0;1;0;Brooklin/São Paulo;apartment;-269.225.117;-490.607.072
+1225;890;40;1;2;1;1;0;0;0;0;Brooklin/São Paulo;apartment;0;0
+1226;420;40;1;2;1;1;1;1;0;0;Bela Vista/São Paulo;apartment;-23.560.788;-46.657.585
+1227;500;50;1;2;1;1;0;1;0;0;Bela Vista/São Paulo;apartment;-23.562.193;-46.650.324
+1228;610;64;2;2;1;1;1;0;0;0;Bela Vista/São Paulo;apartment;-23.555.595;-46.639.592
+1229;450;68;1;2;1;1;1;0;0;0;Bela Vista/São Paulo;apartment;-23.556.734;-46.650.016
+1230;540;40;1;2;1;1;1;0;1;0;Bela Vista/São Paulo;apartment;-23.553.568;-466.509
+1231;1300;50;2;2;1;1;1;1;1;0;Bela Vista/São Paulo;apartment;-23.553.914;-46.649.941
+1232;700;75;3;2;1;1;1;0;1;0;Bela Vista/São Paulo;apartment;-2.355.485;-46.654.051
+1233;255;30;1;2;1;1;1;0;0;0;Bela Vista/São Paulo;apartment;-23.552.068;-46.647.624
+1234;550;61;3;2;1;1;1;0;1;0;Bom Retiro/São Paulo;apartment;-23.521.686;-46.641.967
+1235;405;55;1;2;1;1;1;0;0;0;Bom Retiro/São Paulo;apartment;-23.526.682;-46.640.855
+1236;840;110;3;2;1;1;1;0;0;0;Bom Retiro/São Paulo;apartment;-23.528.376;-46.634.561
+1237;730;150;3;2;1;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-23.531.953;-46.636.737
+1238;690;60;3;3;1;2;0;0;1;0;Bom Retiro/São Paulo;apartment;-23.526.682;-46.637.136
+1239;371;50;2;2;1;1;1;0;0;0;Brás/São Paulo;apartment;-23.549.621;-4.662.182
+1240;460;50;2;2;1;1;0;0;0;0;Brás/São Paulo;apartment;-23.549.626;-46.620.027
+1241;600;35;1;2;1;1;0;0;0;0;Consolação/São Paulo;apartment;-23.553.068;-46.654.288
+1242;396;38;1;2;1;1;1;0;1;0;Consolação/São Paulo;apartment;-23.552.396;-46.652.277
+1243;693;39;1;2;1;1;0;1;0;0;Consolação/São Paulo;apartment;-23.552.568;-46.655.659
+1244;1150;33;1;2;1;1;1;1;1;0;Consolação/São Paulo;apartment;-23.560.033;-46.667.008
+1245;1100;35;1;2;1;1;1;1;1;0;Consolação/São Paulo;apartment;-23.551.532;-46.648.969
+1246;200;45;1;2;1;1;0;0;0;0;Liberdade/São Paulo;apartment;-23.561.676;-46.634.737
+1247;441;50;1;2;1;1;1;0;0;0;Liberdade/São Paulo;apartment;-23.561.669;-46.636.527
+1248;350;50;2;2;1;1;0;0;0;0;Liberdade/São Paulo;apartment;-23.559.339;-46.623.384
+1249;766;45;1;2;1;1;1;0;1;0;Liberdade/São Paulo;apartment;-23.563.503;-46.638.239
+1250;607;47;1;2;1;1;1;0;0;0;Liberdade/São Paulo;apartment;-23.573.241;-46.640.053
+1251;600;70;2;2;1;1;0;0;1;0;Liberdade/São Paulo;apartment;-23.563.136;-46.641.001
+1252;300;47;2;2;1;1;0;0;0;0;Liberdade/São Paulo;apartment;-23.554.039;-46.629.002
+1253;411;80;2;2;1;1;0;0;0;0;Pari/São Paulo;apartment;-23.532.982;-46.609.116
+1254;411;75;2;2;1;1;0;0;0;0;Pari/São Paulo;apartment;-23.532.982;-46.609.116
+1255;688;100;2;2;1;1;1;0;0;0;Pari/São Paulo;apartment;-23.529.653;-46.620.721
+1256;500;95;3;2;1;1;1;0;1;0;Pari/São Paulo;apartment;-23.528.901;-46.602.312
+1257;390;90;2;2;1;1;0;0;0;0;Pari/São Paulo;apartment;-2.352.937;-46.602.209
+1258;430;120;2;3;1;1;0;0;1;0;Pari/São Paulo;apartment;-2.352.946;-46.602.032
+1259;500;55;2;2;1;1;0;0;0;0;Pari/São Paulo;apartment;-23.519.652;-46.601.712
+1260;0;62;2;2;1;1;0;0;1;0;Pari/São Paulo;apartment;-235.189;-46.602.614
+1261;560;80;1;2;1;1;1;1;0;0;República/São Paulo;apartment;-23.538.654;-46.644.377
+1262;310;35;1;2;1;1;1;0;0;0;República/São Paulo;apartment;-23.544.826;-46.643.671
+1263;300;37;1;2;1;1;1;1;1;0;República/São Paulo;apartment;-23.545.654;-46.647.263
+1264;470;65;2;2;1;1;1;0;0;0;República/São Paulo;apartment;-23.541.277;-46.646.078
+1265;524;106;3;2;1;1;1;0;0;0;República/São Paulo;apartment;-23.542.056;-46.644.963
+1266;233;32;1;2;1;1;0;0;0;0;República/São Paulo;apartment;-23.541.705;-46.641.422
+1267;2400;276;4;5;4;2;1;0;0;0;Santa Cecília/São Paulo;apartment;-23.536.039;-46.659.602
+1268;1400;117;3;3;1;2;1;0;1;0;Santa Cecília/São Paulo;apartment;-23.538.158;-46.658.609
+1269;1020;108;2;2;1;1;1;0;0;0;Santa Cecília/São Paulo;apartment;-23.541.514;-46.656.508
+1270;1100;170;3;2;1;1;1;0;0;0;Santa Cecília/São Paulo;apartment;-23.541.582;-466.568
+1271;2202;190;4;3;2;1;0;0;0;0;Santa Cecília/São Paulo;apartment;-23.538.969;-46.654.957
+1272;500;42;1;2;1;1;1;0;1;0;Santa Cecília/São Paulo;apartment;-23.538.992;-46.647.003
+1273;3250;190;4;5;3;3;0;0;1;0;Santa Cecília/São Paulo;apartment;-23.541.346;-46.658.726
+1274;5250;330;4;6;4;4;0;1;1;0;Santa Cecília/São Paulo;apartment;-23.537.714;-46.656.151
+1275;350;60;2;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-23.504.735;-46.661.028
+1276;660;88;3;3;1;2;0;0;0;0;Casa Verde/São Paulo;apartment;-23.511.722;-46.655.559
+1277;590;64;2;2;1;1;1;1;1;0;Casa Verde/São Paulo;apartment;-23.513.717;-46.660.349
+1278;400;60;1;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-23.504.735;-46.661.028
+1279;1000;97;3;3;1;1;0;0;1;0;Casa Verde/São Paulo;apartment;-23.509.544;-46.664.445
+1280;743;77;3;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-23.510.643;-4.665.641
+1281;456;49;1;2;1;1;0;0;0;0;Casa Verde/São Paulo;apartment;-23.509.133;-46.651.834
+1282;560;70;1;2;1;2;0;0;0;0;Casa Verde/São Paulo;apartment;-23.510.988;-46.657.441
+1283;390;53;2;2;1;1;0;0;1;0;Jaçanã/São Paulo;apartment;-23.468.007;-46.575.936
+1284;300;58;3;2;1;1;0;0;0;0;Jaçanã/São Paulo;apartment;-23.483.119;-46.566.866
+1285;415;78;2;2;1;2;0;0;0;0;Jaçanã/São Paulo;apartment;-23.462.102;-46.585.879
+1286;590;72;2;2;1;2;0;0;0;0;Jaçanã/São Paulo;apartment;-23.460.059;-4.658.511
+1287;550;70;2;2;1;1;0;0;0;0;Jaçanã/São Paulo;apartment;-23.460.059;-4.658.511
+1288;0;45;2;2;1;1;0;0;0;0;Jaçanã/São Paulo;apartment;-23.463.072;-46.573.293
+1289;0;70;2;2;1;2;0;0;0;0;Jaçanã/São Paulo;apartment;-234.614;-4.658.579
+1290;450;50;2;2;1;1;1;0;0;0;Mandaqui/São Paulo;apartment;-23.468.283;-46.637.882
+1291;611;70;2;2;1;1;0;0;0;0;Mandaqui/São Paulo;apartment;-23.472.499;-46.630.318
+1292;445;55;2;2;1;1;0;0;0;0;Mandaqui/São Paulo;apartment;-23.468.283;-46.637.882
+1293;546;60;3;2;1;1;0;0;0;0;Mandaqui/São Paulo;apartment;-2.347.234;-46.637.558
+1294;1020;105;3;2;1;1;0;0;1;0;Mandaqui/São Paulo;apartment;-23.473.211;-46.631.454
+1295;950;90;3;2;1;3;0;0;0;0;Mandaqui/São Paulo;apartment;-23.472.499;-46.630.318
+1296;940;83;3;2;1;1;0;0;1;0;Mandaqui/São Paulo;apartment;-23.487.626;-4.663.834
+1297;1200;101;3;2;1;2;0;0;1;0;Santana/São Paulo;apartment;-23.491.624;-46.628.249
+1298;2000;66;3;2;1;1;0;0;0;0;Santana/São Paulo;apartment;-23.496.998;-46.636.553
+1299;600;95;2;2;1;2;1;0;1;0;Santana/São Paulo;apartment;-23.497.471;-46.632.203
+1300;380;70;2;2;1;1;0;0;0;0;Santana/São Paulo;apartment;-23.498.941;-46.625.078
+1301;480;52;2;2;1;1;0;1;0;0;Tremembé/São Paulo;apartment;-23.455.517;-46.620.546
+1302;0;110;3;4;3;3;0;0;0;0;Tremembé/São Paulo;apartment;-23.449.703;-4.661.341
+1303;533;107;3;2;1;2;0;0;1;0;Tremembé/São Paulo;apartment;-2.345.797;-46.622.351
+1304;483;52;2;2;1;1;1;0;0;0;Tremembé/São Paulo;apartment;-23.455.537;-46.620.562
+1305;900;97;2;2;1;2;1;0;1;0;Tremembé/São Paulo;apartment;-23.475.741;-46.612.531
+1306;480;52;2;2;1;1;0;0;0;0;Tremembé/São Paulo;apartment;-23.459.863;-46.625.473
+1307;680;85;3;2;1;1;1;0;1;0;Tremembé/São Paulo;apartment;-23.460.196;-46.624.475
+1308;550;60;2;2;1;2;0;0;1;0;Tucuruvi/São Paulo;apartment;-23.481.166;-46.599.992
+1309;480;125;3;2;1;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-23.482.762;-46.613.192
+1310;1116;93;3;2;1;3;0;0;1;0;Tucuruvi/São Paulo;apartment;-234.758;-46.620.727
+1311;458;60;2;2;1;1;1;0;0;0;Tucuruvi/São Paulo;apartment;-23.469.621;-46.611.301
+1312;480;57;2;2;1;1;1;0;1;0;Tucuruvi/São Paulo;apartment;-2.348.226;-46.599.913
+1313;520;42;1;2;1;1;0;0;1;0;Tucuruvi/São Paulo;apartment;-23.481.643;-46.609.486
+1314;1245;140;3;2;1;3;0;0;1;0;Tucuruvi/São Paulo;apartment;-23.478.498;-46.605.265
+1315;450;47;2;2;1;1;0;0;1;0;Vila Guilherme/São Paulo;apartment;-23.517.794;-46.607.984
+1316;660;63;2;2;1;1;0;0;1;0;Vila Guilherme/São Paulo;apartment;-2.351.815;-46.612.737
+1317;850;77;2;2;1;1;0;0;0;0;Vila Guilherme/São Paulo;apartment;-23.520.336;-46.596.508
+1318;400;55;2;2;1;1;1;0;0;0;Vila Guilherme/São Paulo;apartment;-23.499.396;-46.594.474
+1319;2265;290;3;5;2;3;0;0;1;0;Vila Guilherme/São Paulo;apartment;-23.504.136;-46.601.295
+1320;700;80;2;2;1;1;1;0;0;0;Vila Guilherme/São Paulo;apartment;-23.520.336;-46.596.508
+1321;1150;110;3;2;1;2;1;0;1;0;Vila Guilherme/São Paulo;apartment;-23.504.248;-46.600.997
+1322;325;56;2;2;1;1;1;0;1;0;Vila Guilherme/São Paulo;apartment;-23.516.618;-46.605.505
+1323;292;62;2;2;1;1;0;0;1;0;Vila Maria/São Paulo;apartment;-23.513.511;-46.588.625
+1324;340;45;2;2;1;1;0;1;1;0;Vila Maria/São Paulo;apartment;-23.516.304;-46.590.937
+1325;0;40;1;2;1;1;0;0;0;0;Vila Maria/São Paulo;apartment;-23.510.546;-46.584.983
+1326;236;43;1;2;1;1;0;0;0;0;Vila Maria/São Paulo;apartment;-23.511.107;-46.592.571
+1327;0;79;2;2;1;1;0;0;1;0;Vila Maria/São Paulo;apartment;-23.517.587;-46.590.535
+1328;800;79;3;2;1;1;0;0;0;0;Vila Maria/São Paulo;apartment;-23.517.587;-46.590.535
+1329;0;80;3;2;1;1;0;0;0;0;Vila Maria/São Paulo;apartment;-2.351.605;-4.658.206
+1330;0;60;1;2;1;2;1;0;1;0;Vila Maria/São Paulo;apartment;-23.518.716;-46.587.196
+1331;318;43;1;2;1;1;0;0;0;0;Vila Maria/São Paulo;apartment;-23.513.092;-46.589.628
+1332;1400;140;3;5;1;3;0;0;1;0;Medeiros/São Paulo;apartment;-23.599.178;-46.728.962
+1333;0;140;4;3;2;2;1;0;1;0;Medeiros/São Paulo;apartment;-23.599.436;-46.729.591
+1334;868;60;2;2;1;2;1;0;1;0;Medeiros/São Paulo;apartment;-23.600.303;-46.729.936
+1335;432;60;2;2;1;1;1;1;1;0;Água Rasa/São Paulo;apartment;-23.570.116;-46.570.955
+1336;650;80;3;2;1;2;0;0;0;0;Água Rasa/São Paulo;apartment;-23.565.033;-46.562.373
+1337;1100;120;3;4;1;3;1;1;1;0;Água Rasa/São Paulo;apartment;-23.559.991;-46.572.431
+1338;1057;113;3;3;1;2;0;0;1;0;Água Rasa/São Paulo;apartment;-23.553.208;-46.581.889
+1339;1368;133;3;4;3;2;0;1;0;0;Água Rasa/São Paulo;apartment;-23.553.208;-46.581.889
+1340;400;60;2;2;1;1;1;1;1;0;Água Rasa/São Paulo;apartment;-23.570.116;-46.570.955
+1341;650;76;2;2;1;2;0;0;1;0;Água Rasa/São Paulo;apartment;-23.565.033;-46.562.373
+1342;0;80;3;3;1;2;1;0;1;0;Água Rasa/São Paulo;apartment;-23.560.179;-46.569.445
+1343;800;83;3;2;1;2;1;0;1;0;Água Rasa/São Paulo;apartment;-23.556.442;-4.657.615
+1344;700;76;3;2;1;2;1;1;0;0;Aricanduva/São Paulo;apartment;-23.537.761;-46.545.056
+1345;656;72;3;2;1;2;0;0;1;0;Aricanduva/São Paulo;apartment;-23.538.054;-46.538.279
+1346;650;72;3;2;1;2;0;0;1;0;Aricanduva/São Paulo;apartment;-2.353.783;-46.536.628
+1347;775;70;3;2;1;2;1;0;1;0;Aricanduva/São Paulo;apartment;-23.537.761;-46.545.056
+1348;660;53;2;2;1;2;0;0;1;0;Aricanduva/São Paulo;apartment;-23.536.581;-46.544.423
+1349;590;52;2;2;1;1;0;0;0;0;Aricanduva/São Paulo;apartment;-23.537.806;-46.542.156
+1350;180;56;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-2.354.984;-46.484.137
+1351;0;59;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.547.538;-4.648.197
+1352;150;58;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.553.571;-4.649.127
+1353;0;48;1;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.537.903;-4.648.933
+1354;0;46;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.547.612;-46.485.402
+1355;190;56;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.551.123;-46.488.925
+1356;200;55;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-23.548.733;-46.479.147
+1357;474;44;2;2;1;1;0;0;0;0;Belém/São Paulo;apartment;-23.538.794;-46.605.664
+1358;530;52;2;2;1;1;0;0;0;0;Belém/São Paulo;apartment;-2.353.838;-46.589.441
+1359;400;50;2;2;1;1;0;0;0;0;Cangaíba/São Paulo;apartment;-23.508.439;-46.530.778
+1360;0;46;2;2;1;1;0;0;0;0;Cangaíba/São Paulo;apartment;-23.505.049;-46.527.093
+1361;680;70;2;2;1;1;0;0;1;0;Cangaíba/São Paulo;apartment;-23.507.829;-46.532.525
+1362;510;64;2;2;1;1;1;0;0;0;Carrão/São Paulo;apartment;-23.555.378;-46.531.058
+1363;1100;120;3;4;1;2;1;0;1;0;Carrão/São Paulo;apartment;-23.550.486;-46.540.741
+1364;725;62;2;2;1;1;1;0;1;0;Carrão/São Paulo;apartment;-23.554.539;-46.527.288
+1365;1900;62;1;2;1;2;0;1;0;0;Iguatemi/São Paulo;apartment;-2.358.383;-46.683.541
+1366;1900;62;1;2;1;2;0;1;0;0;Iguatemi/São Paulo;apartment;-2.358.383;-46.683.541
+1367;0;48;2;2;1;1;1;0;1;0;Itaim Paulista/São Paulo;apartment;-2.349.054;-46.383.035
+1368;160;42;2;2;1;1;1;0;1;0;Itaim Paulista/São Paulo;apartment;-23.509.727;-46.380.503
+1369;250;48;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.513.114;-4.637.971
+1370;0;50;2;2;1;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;-23.506.543;-46.367.814
+1371;150;49;2;2;1;1;1;0;1;0;Itaim Paulista/São Paulo;apartment;-23.525.987;-46.401.432
+1372;0;42;2;2;1;1;1;0;1;0;Itaquera/São Paulo;apartment;-2.356.067;-46.450.742
+1373;380;48;2;2;1;1;0;0;0;0;Itaquera/São Paulo;apartment;-23.557.205;-4.645.783
+1374;273;40;1;2;1;1;1;0;1;0;Itaquera/São Paulo;apartment;-23.547.305;-46.448.186
+1375;200;47;1;2;1;1;1;0;0;0;Penha/São Paulo;apartment;-23.519.551;-46.553.027
+1376;450;60;2;2;1;1;1;0;0;0;Penha/São Paulo;apartment;-23.509.447;-46.530.638
+1377;80;60;2;2;1;1;1;0;0;0;Penha/São Paulo;apartment;-23.524.668;-46.549.516
+1378;0;49;2;2;1;1;0;0;1;0;Penha/São Paulo;apartment;-23.519.592;-46.553.019
+1379;290;56;2;2;1;1;0;0;0;0;Sapopemba/São Paulo;apartment;-23.585.748;-46.533.696
+1380;396;55;2;2;1;1;1;0;1;0;São Lucas/São Paulo;apartment;-2.358.608;-46.535.128
+1381;410;55;2;2;1;2;1;0;0;0;São Lucas/São Paulo;apartment;-23.585.987;-46.535.965
+1382;0;47;2;2;1;1;0;0;1;0;São Mateus/São Paulo;apartment;-2.359.346;-46.467.708
+1383;350;49;2;2;1;1;0;0;0;0;São Mateus/São Paulo;apartment;-23.604.398;-46.470.327
+1384;390;45;1;2;1;1;1;0;0;0;São Rafael/São Paulo;apartment;-23.553.961;-46.631.138
+1385;1700;105;3;3;1;2;1;0;1;0;Tatuapé/São Paulo;apartment;-2.354.651;-46.547.424
+1386;1809;168;4;4;3;4;0;0;0;0;Tatuapé/São Paulo;apartment;-23.554.146;-46.564.463
+1387;0;117;2;2;1;1;0;0;0;0;Tatuapé/São Paulo;apartment;-23.530.914;-46.564.011
+1388;3159;234;3;3;1;3;0;0;1;0;Tatuapé/São Paulo;apartment;-23.549.799;-46.560.061
+1389;425;35;1;2;1;1;1;1;1;0;Tatuapé/São Paulo;apartment;-2.354.004;-46.578.803
+1390;210;48;2;2;1;1;1;1;0;0;Vila Curuçá/São Paulo;apartment;-23.515.212;-46.428.439
+1391;260;47;2;2;1;1;1;0;1;0;Vila Curuçá/São Paulo;apartment;-23.502.485;-46.423.493
+1392;50;54;2;2;1;1;0;0;0;0;Vila Curuçá/São Paulo;apartment;-23.496.691;-46.422.609
+1393;550;62;2;2;1;1;0;0;0;0;Vila Curuçá/São Paulo;apartment;-23.547.847;-46.630.507
+1394;0;99;2;2;1;1;0;0;0;0;Vila Formosa/São Paulo;apartment;-235.583;-46.552.433
+1395;600;92;3;2;1;3;1;0;1;0;Vila Formosa/São Paulo;apartment;-2.356.765;-46.548.897
+1396;400;50;2;2;1;1;1;0;1;0;Vila Formosa/São Paulo;apartment;-23.574.077;-46.531.292
+1397;2100;119;3;2;1;2;1;0;1;0;Vila Matilde/São Paulo;apartment;-23.539.095;-46.524.103
+1398;300;30;1;2;1;1;0;0;1;0;Vila Prudente/São Paulo;apartment;-23.585.764;-46.584.164
+1399;428;70;2;2;1;2;0;0;0;0;Vila Prudente/São Paulo;apartment;-23.583.367;-46.583.523
+1400;300;30;1;2;1;1;1;1;1;0;Vila Prudente/São Paulo;apartment;-23.585.764;-46.584.164
+1401;270;55;2;2;1;1;1;0;1;0;Vila Prudente/São Paulo;apartment;-23.597.473;-4.657.713
+1402;400;32;1;2;1;1;1;0;0;0;Cambuci/São Paulo;apartment;-23.559.663;-46.614.484
+1403;570;79;3;2;1;2;0;0;1;0;Cambuci/São Paulo;apartment;-23.567.583;-46.624.744
+1404;400;42;1;2;1;1;1;0;1;0;Campo Belo/São Paulo;apartment;-23.618.795;-46.681.542
+1405;600;49;1;2;1;1;1;0;1;0;Campo Belo/São Paulo;apartment;-23.625.116;-46.665.969
+1406;1200;134;3;5;3;2;1;0;1;0;Campo Grande/São Paulo;apartment;-23.669.173;-46.695.685
+1407;0;72;2;2;1;1;0;0;0;0;Campo Grande/São Paulo;apartment;-2.368.245;-466.803
+1408;540;62;2;2;1;1;0;0;0;0;Campo Grande/São Paulo;apartment;-23.685.935;-46.682.996
+1409;1345;163;3;5;3;3;0;0;1;0;Campo Grande/São Paulo;apartment;-23.678.623;-46.689.788
+1410;0;74;2;2;1;2;0;0;0;0;Campo Grande/São Paulo;apartment;-23.679.202;-46.679.752
+1411;350;44;2;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-23.623.429;-46.749.363
+1412;420;53;1;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-23.617.416;-46.755.754
+1413;340;72;3;2;1;1;0;0;0;0;Campo Limpo/São Paulo;apartment;-23.646.043;-46.768.251
+1414;0;54;2;2;1;1;1;0;1;0;Capão Redondo/São Paulo;apartment;-23.662.752;-46.765.967
+1415;0;50;2;2;1;1;0;0;1;0;Capão Redondo/São Paulo;apartment;-23.681.302;-46.753.894
+1416;0;55;2;2;1;1;0;0;0;0;Capão Redondo/São Paulo;apartment;-2.366.035;-46.754.093
+1417;510;60;2;2;1;1;1;0;0;0;Capão Redondo/São Paulo;apartment;-23.658.219;-46.756.391
+1418;400;75;2;2;1;1;1;0;0;0;Ipiranga/São Paulo;apartment;-23.585.455;-46.602.546
+1419;811;85;2;2;1;1;1;0;0;0;Ipiranga/São Paulo;apartment;-23.601.029;-46.611.976
+1420;2500;283;4;5;3;2;1;1;1;0;Ipiranga/São Paulo;apartment;-23.592.062;-46.607.754
+1421;1260;98;2;2;1;1;0;0;0;0;Itaim Bibi/São Paulo;apartment;-23.579.688;-46.674.579
+1422;1300;64;1;2;1;1;0;1;1;0;Itaim Bibi/São Paulo;apartment;-23.594.816;-46.689.243
+1423;450;70;2;2;1;1;1;1;1;0;Jabaquara/São Paulo;apartment;-23.632.138;-46.640.499
+1424;580;50;2;2;1;1;1;0;1;0;Jabaquara/São Paulo;apartment;-23.638.867;-46.632.677
+1425;710;64;3;2;1;1;1;0;1;0;Jabaquara/São Paulo;apartment;-23.650.504;-46.649.161
+1426;550;69;2;2;1;1;1;0;1;0;Jabaquara/São Paulo;apartment;-2.362.239;-46.607.017
+1427;500;69;3;2;1;1;0;0;0;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+1428;0;69;3;2;1;1;0;1;1;0;Jardim Ângela/São Paulo;apartment;-23.604.294;-46.518.325
+1429;820;130;3;2;1;1;1;0;1;0;Jardim Paulista/São Paulo;apartment;-46.656.944;-23.569.444
+1430;695;74;2;2;1;1;1;1;1;0;Jardim Paulista/São Paulo;apartment;-23.559.056;-46.655.917
+1431;1800;125;4;3;1;1;1;0;0;0;Jardim Paulista/São Paulo;apartment;-23.561.234;-46.662.591
+1432;1600;140;3;4;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-23.559.953;-46.664.275
+1433;700;45;1;2;1;1;1;1;1;0;Jardim Paulista/São Paulo;apartment;-23.566.038;-46.663.137
+1434;1467;33;1;2;1;1;1;1;1;0;Jardim Paulista/São Paulo;apartment;-23.559.393;-46.651.404
+1435;1750;150;1;3;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-23.573.659;-46.659.471
+1436;2735;210;4;5;3;3;0;0;1;0;Jardim Paulista/São Paulo;apartment;-23.564.133;-46.659.209
+1437;986;91;3;3;1;1;0;0;0;0;Jardim Paulista/São Paulo;apartment;-23.562.073;-46.652.194
+1438;849;70;2;2;1;1;0;0;1;0;Jardim Paulista/São Paulo;apartment;-23.571.562;-466.572
+1439;2000;204;4;5;3;3;1;0;1;0;Moema/São Paulo;apartment;-23.605.989;-46.661.077
+1440;1500;60;1;2;1;1;1;1;1;0;Moema/São Paulo;apartment;-23.605.805;-46.665.212
+1441;1050;50;1;2;1;1;0;0;1;0;Moema/São Paulo;apartment;-23.606.741;-46.663.252
+1442;0;135;3;3;1;1;0;0;0;0;Moema/São Paulo;apartment;-23.606.756;-4.665.758
+1443;1400;175;4;4;1;2;1;0;1;0;Moema/São Paulo;apartment;-23.607.833;-46.664.474
+1444;1400;45;1;2;1;1;1;1;1;0;Moema/São Paulo;apartment;-23.603.692;-4.667.355
+1445;643;95;2;3;2;2;0;0;1;0;Morumbi/São Paulo;apartment;-236.095;-46.737.969
+1446;900;52;1;2;1;1;0;0;0;0;Morumbi/São Paulo;apartment;-23.618.227;-46.738.429
+1447;1500;177;3;5;3;3;1;1;1;0;Morumbi/São Paulo;apartment;-2.360.693;-46.734.629
+1448;1250;160;3;3;1;2;0;0;1;0;Morumbi/São Paulo;apartment;-23.625.822;-4.673.102
+1449;1050;117;3;2;1;2;0;0;0;0;Morumbi/São Paulo;apartment;-23.618;-46.736.805
+1450;0;70;2;2;1;1;1;0;0;0;Santo Amaro/São Paulo;apartment;-23.656.532;-46.708.397
+1451;724;55;2;2;1;1;1;0;1;0;Saúde/São Paulo;apartment;-23.620.886;-46.641.507
+1452;0;97;2;2;1;1;0;1;0;0;Saúde/São Paulo;apartment;-23.614.668;-4.663.855
+1453;500;50;2;2;1;1;0;0;0;0;Saúde/São Paulo;apartment;-23.630.334;-46.627.571
+1454;425;56;2;2;1;1;0;0;0;0;Socorro/São Paulo;apartment;-23.673.575;-46.714.152
+1455;570;55;2;2;1;1;0;1;1;0;Socorro/São Paulo;apartment;-23.679.026;-46.708.373
+1456;579;69;2;2;1;2;0;0;1;0;Vila Andrade/São Paulo;apartment;-23.626.682;-4.674.311
+1457;1500;99;3;2;1;3;1;0;1;0;Vila Andrade/São Paulo;apartment;-23.627.264;-46.732.836
+1458;600;80;2;3;2;2;1;0;1;0;Vila Andrade/São Paulo;apartment;-23.631.415;-46.739.864
+1459;780;62;2;2;1;2;1;0;1;0;Vila Mariana/São Paulo;apartment;-23.583.539;-46.634.464
+1460;980;140;3;2;1;2;0;0;0;0;Vila Mariana/São Paulo;apartment;-23.591.276;-46.637.297
+1461;1200;90;2;4;2;2;0;0;1;0;Vila Mariana/São Paulo;apartment;-23.580.425;-46.643.406
+1462;966;55;1;2;1;1;1;1;0;0;Vila Mariana/São Paulo;apartment;-23.585.857;-4.663.386
+1463;1400;116;3;4;3;3;1;0;1;0;Vila Mariana/São Paulo;apartment;-23.589.131;-46.627.662
+1464;770;56;2;2;1;1;0;0;1;0;Vila Sônia/São Paulo;apartment;-23.602.702;-46.743.038
+1465;3099;420;4;6;4;5;0;0;1;0;Vila Sônia/São Paulo;apartment;-23.598.213;-46.724.177
+1466;1655;138;3;4;3;3;0;0;1;0;Vila Sônia/São Paulo;apartment;-23.599.444;-4.672.545
+1467;0;270;4;6;4;4;0;0;1;0;Alto de Pinheiros/São Paulo;apartment;-23.553.059;-46.698.323
+1468;1200;130;2;3;1;2;1;0;1;0;Alto de Pinheiros/São Paulo;apartment;-23.537.188;-4.670.861
+1469;500;58;2;2;1;1;1;1;0;0;Anhanguera/São Paulo;apartment;-23.522.756;-46.655.492
+1470;500;50;2;2;1;1;0;0;0;0;Brasilândia/São Paulo;apartment;-23.471.708;-46.687.679
+1471;450;50;2;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;-23.586.868;-46.765.939
+1472;498;60;2;2;1;1;1;0;1;0;Butantã/São Paulo;apartment;-23.570.631;-4.673.263
+1473;720;56;2;2;1;1;1;0;1;0;Butantã/São Paulo;apartment;-23.570.303;-46.749.202
+1474;600;50;2;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;-23.563.487;-46.721.009
+1475;0;40;1;2;1;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-23.472.667;-46.665.945
+1476;500;60;2;2;1;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-23.477.175;-46.659.144
+1477;473;52;2;2;1;1;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-23.494.103;-46.707.843
+1478;550;65;3;2;1;1;0;0;1;0;Freguesia do Ó/São Paulo;apartment;-23.455.562;-46.669.979
+1479;453;49;2;2;1;1;1;0;1;0;Jaguaré/São Paulo;apartment;-23.543.523;-46.752.709
+1480;450;54;2;2;1;1;0;0;0;0;Jaguaré/São Paulo;apartment;-2.355.132;-46.747.163
+1481;340;45;1;2;1;1;0;0;0;0;Jaguaré/São Paulo;apartment;-2.355.147;-46.755.954
+1482;1008;203;3;2;1;2;1;0;1;0;Jaraguá/São Paulo;apartment;-23.524.677;-46.647.365
+1483;480;69;2;2;1;1;0;0;1;0;Jaraguá/São Paulo;apartment;-23.524.677;-46.647.365
+1484;150;70;2;2;1;1;1;0;0;0;Lapa/São Paulo;apartment;-23.524.028;-46.691.984
+1485;450;48;2;2;1;1;0;0;1;0;Lapa/São Paulo;apartment;-23.517.493;-46.718.481
+1486;563;62;2;2;1;1;0;0;1;0;Lapa/São Paulo;apartment;-23.522.967;-4.669.726
+1487;870;71;3;2;1;1;1;0;1;0;Lapa/São Paulo;apartment;-23.539.304;-46.705.611
+1488;500;90;2;2;1;1;1;0;0;0;Limão/São Paulo;apartment;-23.495.483;-46.678.696
+1489;660;60;3;2;1;1;0;0;1;0;Limão/São Paulo;apartment;-23.505.529;-46.671.027
+1490;505;55;2;2;1;1;0;0;0;0;Limão/São Paulo;apartment;-23.505.244;-46.670.872
+1491;2200;250;4;6;4;5;1;1;1;0;Perdizes/São Paulo;apartment;-23.533.033;-4.667.824
+1492;815;67;2;2;1;1;1;0;0;0;Perdizes/São Paulo;apartment;-23.544.408;-46.691.265
+1493;600;80;2;2;1;1;1;0;0;0;Pinheiros/São Paulo;apartment;-23.561.558;-46.687.726
+1494;1250;96;2;2;1;1;1;1;0;0;Pinheiros/São Paulo;apartment;-23.558.299;-46.689.776
+1495;0;138;3;3;2;2;1;1;1;0;Pinheiros/São Paulo;apartment;-23.567.794;-46.698.575
+1496;1370;77;3;2;1;2;0;0;0;0;Pinheiros/São Paulo;apartment;-23.554.321;-46.682.069
+1497;850;42;1;2;1;1;0;1;1;0;Pinheiros/São Paulo;apartment;-23.570.884;-46.692.655
+1498;1502;111;3;3;1;2;0;0;1;0;Pinheiros/São Paulo;apartment;-23.556.784;-46.680.275
+1499;1364;131;3;3;1;2;1;0;1;0;Pirituba/São Paulo;apartment;-23.498.717;-46.752.915
+1500;830;58;2;2;1;1;1;1;1;0;Pirituba/São Paulo;apartment;-23.482.355;-4.674.205
+1501;1300;131;3;4;1;2;0;0;0;0;Pirituba/São Paulo;apartment;-2.349.937;-46.752.818
+1502;500;77;3;2;1;1;1;0;0;0;Raposo Tavares/São Paulo;apartment;-23.603.123;-46.797.977
+1503;449;48;2;2;1;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.562.501;-4.674.792
+1504;1010;98;3;1;2;2;0;1;1;0;Rio Pequeno/São Paulo;apartment;-23.561.551;-46.756.523
+1505;450;65;2;2;1;1;0;0;1;0;Rio Pequeno/São Paulo;apartment;-23.564.674;-46.752.536
+1506;420;50;2;2;1;1;1;1;1;0;Vila Leopoldina/São Paulo;apartment;-23.520.909;-46.729.286
+1507;1500;178;3;4;3;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-23.527.051;-46.730.662
+1508;620;60;2;2;1;1;1;0;1;0;Vila Leopoldina/São Paulo;apartment;-23.528.835;-46.729.915
+1509;900;78;2;2;1;2;1;1;1;0;Vila Leopoldina/São Paulo;apartment;-23.525.499;-46.738.791
+1510;200;35;1;2;1;1;1;0;1;0;Vila Leopoldina/São Paulo;apartment;-23.531.099;-46.738.935
+1511;650;83;2;2;1;2;0;0;1;0;Barra Funda/São Paulo;apartment;-235.227.727;-466.552.965
+1512;500;58;2;1;0;1;0;0;1;0;Barra Funda/São Paulo;apartment;-235.289.137;-466.645.204
+1513;500;45;1;2;1;1;1;0;1;0;Barra Funda/São Paulo;apartment;-235.207.157;-466.662.716
+1514;446;50;2;1;0;0;0;0;0;0;Barra Funda/São Paulo;apartment;-235.315.956;-466.591.226
+1515;490;53;2;2;1;1;1;0;1;0;Barra Funda/São Paulo;apartment;-235.292.077;-466.540.898
+1516;400;45;1;1;0;1;0;0;1;0;Bela Vista/São Paulo;apartment;-235.549.288;-466.389.594
+1517;293;40;1;1;0;0;0;0;0;0;Bela Vista/São Paulo;apartment;-235.513.841;-466.414.892
+1518;650;67;2;2;0;1;0;0;0;0;Bela Vista/São Paulo;apartment;-235.566.264;-466.534.352
+1519;354;48;1;1;0;0;0;0;0;0;Bela Vista/São Paulo;apartment;-235.502.787;-466.461.641
+1520;150;80;2;1;0;0;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.265.944;-466.421.153
+1521;500;62;2;2;1;1;0;0;1;0;Bom Retiro/São Paulo;apartment;-235.210.242;-466.420.187
+1522;1825;170;3;1;0;1;0;0;0;0;Bom Retiro/São Paulo;apartment;-235.277.857;-466.336.173
+1523;350;46;1;1;0;1;0;0;1;0;Brás/São Paulo;apartment;-235.498.279;-46.616.394
+1524;350;75;3;1;0;0;0;0;0;0;Brás/São Paulo;apartment;-235.432.786;-466.137.812
+1525;380;54;2;1;0;1;0;1;0;0;Brás/São Paulo;apartment;-235.369.443;-46.594.066
+1526;350;70;2;1;0;1;1;0;0;0;Brás/São Paulo;apartment;-235.368.518;-465.945.227
+1527;380;51;2;1;0;1;0;0;1;0;Brás/São Paulo;apartment;-23.543.632;-466.248.999
+1528;150;40;1;1;0;1;0;0;0;0;Brás/São Paulo;apartment;-235.474.426;-466.256.665
+1529;2600;198;3;2;1;2;0;0;0;0;Consolação/São Paulo;apartment;-235.468.921;-466.592.524
+1530;697;58;2;1;0;1;0;0;1;0;Consolação/São Paulo;apartment;-235.521.943;-466.499.015
+1531;441;50;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;-235.053.909;-466.227.832
+1532;650;53;2;1;0;1;0;0;1;0;Liberdade/São Paulo;apartment;-235.681.032.921;-46.635.705.319
+1533;600;45;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;-235.643.292;-466.390.704
+1534;527;50;1;1;0;1;0;0;0;0;Liberdade/São Paulo;apartment;-235.551.818;-466.351.864
+1535;356;38;1;1;0;1;1;0;0;0;Liberdade/São Paulo;apartment;-235.577.983.856;-46.631.980.896
+1536;390;45;1;1;0;0;0;0;0;0;Liberdade/São Paulo;apartment;0;0
+1537;400;39;1;2;1;1;0;0;1;0;República/São Paulo;apartment;-235.425.027;-466.435.339
+1538;730;35;1;1;0;1;0;0;1;0;Santa Cecília/São Paulo;apartment;0;0
+1539;650;90;2;2;1;2;0;0;1;0;Casa Verde/São Paulo;apartment;0;0
+1540;0;110;2;1;0;0;0;0;0;0;Casa Verde/São Paulo;apartment;-235.114.426;-466.538.658
+1541;700;93;3;2;1;3;0;0;1;0;Mandaqui/São Paulo;apartment;-234.813.085;-466.401.506
+1542;550;44;1;1;0;1;1;0;1;0;Santana/São Paulo;apartment;-235.055.735;-466.234.032
+1543;560;40;1;1;0;1;0;0;0;0;Santana/São Paulo;apartment;0;0
+1544;670;90;3;2;1;2;0;0;0;0;Santana/São Paulo;apartment;-2.348.724;-46.626.677
+1545;1846;148;3;4;3;3;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.831.728;-46.613.678
+1546;640;80;3;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.918.887;-465.904.746
+1547;480;125;3;1;0;1;0;0;0;0;Tucuruvi/São Paulo;apartment;-234.827.625;-466.131.925
+1548;400;63;2;2;1;1;0;0;1;0;Medeiros/São Paulo;apartment;-234.900.204;-465.854.787
+1549;890;74;3;2;1;2;0;0;1;0;Água Rasa/São Paulo;apartment;-23.553.022;-465.678.597
+1550;550;79;3;2;1;2;0;0;1;0;Água Rasa/São Paulo;apartment;-23.559.797;-465.715.481
+1551;570;54;2;2;1;1;0;0;1;0;Água Rasa/São Paulo;apartment;-235.657.732;-465.713.469
+1552;150;58;2;1;0;1;0;0;0;0;Artur Alvim/São Paulo;apartment;-235.682.063;-4.657.707
+1553;0;50;2;2;1;1;0;0;0;0;Artur Alvim/São Paulo;apartment;0;0
+1554;306;43;2;1;0;1;1;0;0;0;Belém/São Paulo;apartment;-235.053.909;-466.227.832
+1555;0;80;2;1;0;0;0;0;0;0;Belém/São Paulo;apartment;-235.443.953;-46.585.498
+1556;415;64;3;2;0;1;1;0;0;0;Belém/São Paulo;apartment;-235.351.693;-465.827.003
+1557;420;46;2;1;0;1;0;0;0;0;Belém/São Paulo;apartment;-235.447.925;-466.023.886
+1558;2893;230;3;2;1;2;0;0;0;0;Belém/São Paulo;apartment;-235.402.124;-465.857.027
+1559;742;52;2;1;0;1;0;0;0;0;Carrão/São Paulo;apartment;-2.354.843;-46.526.941
+1560;500;52;2;1;0;1;0;0;0;0;Ermelino Matarazzo/São Paulo;apartment;-235.013.326;-464.723.092
+1561;0;44;2;1;0;1;0;0;0;0;Itaim Paulista/São Paulo;apartment;0;0
+1562;0;56;2;1;0;1;0;0;0;0;José Bonifácio/São Paulo;apartment;-235.471.589;-464.375.782
+1563;1030;60;3;1;0;2;0;1;1;0;Penha/São Paulo;apartment;0;0
+1564;333;50;2;1;0;1;0;0;1;0;Ponte Rasa/São Paulo;apartment;0;0
+1565;550;52;1;1;0;1;0;1;1;0;Tatuapé/São Paulo;apartment;-235.571.664;-465.682.966
+1566;420;48;2;1;0;1;0;0;0;0;Vila Matilde/São Paulo;apartment;0;0
+1567;70;40;2;1;0;1;0;0;0;0;Vila Matilde/São Paulo;apartment;0;0
+1568;2000;267;4;3;2;3;0;0;1;0;Vila Prudente/São Paulo;apartment;-235.809.114;-465.900.066
+1569;586;56;1;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.720.615.387;-46.620.677.948
+1570;310;70;2;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.632.492;-466.291.981
+1571;570;70;3;2;1;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.623.613;-466.300.283
+1572;330;90;2;1;0;1;1;0;0;0;Cambuci/São Paulo;apartment;-235.684.853;-466.248.474
+1573;395;54;2;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.757.187;-466.268.953
+1574;330;80;1;1;0;0;0;0;0;0;Cambuci/São Paulo;apartment;-235.684.853;-466.248.474
+1575;600;80;3;2;1;2;0;0;1;0;Cambuci/São Paulo;apartment;-235.675.831;-466.247.443
+1576;561;50;2;1;0;1;0;0;0;0;Cambuci/São Paulo;apartment;-235.630.478;-466.265.949
+1577;950;62;1;2;1;2;0;0;1;0;Campo Belo/São Paulo;apartment;-236.229.047;-46.664.896
+1578;1055;71;2;1;0;1;0;0;1;0;Campo Belo/São Paulo;apartment;-236.275.083;-466.738.996
+1579;3450;318;4;5;4;4;0;0;0;0;Campo Belo/São Paulo;apartment;-236.204.663;-466.724.272
+1580;2000;178;3;4;3;4;0;0;1;0;Campo Belo/São Paulo;apartment;-236.224.289;-466.741.144
+1581;3500;312;4;5;4;4;0;1;1;0;Campo Belo/São Paulo;apartment;-236.275.656;-466.727.872
+1582;580;68;3;1;0;1;0;0;0;0;Campo Grande/São Paulo;apartment;-236.628.797;-466.842.046
+1583;500;64;3;1;0;1;0;0;1;0;Campo Grande/São Paulo;apartment;-236.581.044;-466.905.018
+1584;1167;75;3;2;1;1;0;0;1;0;Campo Grande/São Paulo;apartment;-236.650.337;-466.900.187
+1585;500;64;3;1;0;2;0;0;0;0;Campo Grande/São Paulo;apartment;-236.592.744;-466.902.799
+1586;550;65;2;1;0;1;0;0;1;0;Campo Grande/São Paulo;apartment;-236.641.726;-466.907.007
+1587;650;74;3;2;1;2;0;0;0;0;Campo Grande/São Paulo;apartment;-236.592.744;-466.902.799
+1588;640;76;3;1;0;1;0;0;0;0;Campo Grande/São Paulo;apartment;-236.628.797;-466.842.046
+1589;1020;120;3;3;2;2;0;0;1;0;Campo Grande/São Paulo;apartment;-23.658.516;-466.948.922
+1590;3500;243;4;5;4;3;0;0;0;0;Campo Grande/São Paulo;apartment;-236.571.792;-466.935.011
+1591;633;96;2;1;0;1;0;0;0;0;Campo Grande/São Paulo;apartment;-236.610.076;-466.939.452
+1592;650;74;3;2;1;2;0;0;0;0;Campo Grande/São Paulo;apartment;-236.592.744;-466.902.799
+1593;1150;122;3;2;1;2;0;0;1;0;Campo Grande/São Paulo;apartment;-236.570.962;-466.914.488
+1594;340;70;3;2;0;2;0;0;0;0;Campo Limpo/São Paulo;apartment;-236.460.433;-467.682.511
+1595;120;75;2;1;0;1;0;0;0;0;Ipiranga/São Paulo;apartment;-23.599.036;-466.021.911
+1596;1400;45;1;2;1;1;0;1;1;0;Itaim Bibi/São Paulo;apartment;-235.848.604;-466.755.201
+1597;1260;47;1;2;1;1;0;0;1;0;Itaim Bibi/São Paulo;apartment;-235.877.465;-466.776.641
+1598;1000;110;3;2;1;1;0;1;0;0;Itaim Bibi/São Paulo;apartment;-235.951.043;-466.769.236
+1599;700;86;3;2;1;2;1;0;1;1;Jabaquara/São Paulo;apartment;0;0
+1600;270;44;1;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.557.135;-466.363.298
+1601;691;64;3;1;0;1;0;0;1;0;Jabaquara/São Paulo;apartment;-236.501.971;-466.497.748
+1602;453;46;1;1;0;1;0;0;0;0;Jabaquara/São Paulo;apartment;-236.441.389;-466.422.125
+1603;2000;150;3;2;1;1;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.714.471;-466.560.511
+1604;1128;141;3;2;1;2;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.636.084;-466.507.417
+1605;1476;105;1;2;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;-235.708.726;-466.617.387
+1606;3800;190;3;4;3;3;1;0;1;0;Jardim Paulista/São Paulo;apartment;-235.652.395;-466.590.094
+1607;3200;180;3;2;1;2;0;0;0;0;Jardim Paulista/São Paulo;apartment;0;0
+1608;1377;137;3;2;1;1;0;1;0;0;Jardim Paulista/São Paulo;apartment;-235.696.179;-466.546.449
+1609;1100;45;1;1;0;1;0;1;1;0;Moema/São Paulo;apartment;-236.048.445;-46.658.542
+1610;660;65;2;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.053.259;-466.600.094
+1611;1350;44;1;2;1;1;0;1;0;0;Moema/São Paulo;apartment;-235.981.169;-466.672.965
+1612;1100;97;3;2;1;2;0;1;0;0;Moema/São Paulo;apartment;-236.051.569;-466.661.697
+1613;490;47;1;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.020.214;-466.721.032
+1614;770;75;2;1;0;1;0;0;0;0;Moema/São Paulo;apartment;-236.019.197;-466.670.637
+1615;8860;414;4;5;4;4;0;0;1;0;Moema/São Paulo;apartment;-235.998.397;-466.643.368
+1616;476;34;1;1;0;1;0;0;1;0;Morumbi/São Paulo;apartment;-236.253.706;-467.353.808
+1617;1000;150;2;3;2;2;0;0;0;0;Morumbi/São Paulo;apartment;-236.272.534;-467.399.564
+1618;2200;225;4;2;1;3;1;0;0;0;Morumbi/São Paulo;apartment;-236.395.575;-467.366.969
+1619;2016;228;4;3;2;4;0;0;1;0;Morumbi/São Paulo;apartment;-23.618.601;-467.335.095
+1620;1199;127;3;2;1;2;0;0;1;0;Morumbi/São Paulo;apartment;0;0
+1621;1770;167;3;4;3;2;0;0;1;0;Morumbi/São Paulo;apartment;0;0
+1622;1490;140;3;3;2;3;0;0;0;0;Morumbi/São Paulo;apartment;-236.181.504;-467.380.942
+1623;2300;161;4;4;3;3;0;1;1;0;Morumbi/São Paulo;apartment;-236.206.887;-467.396.177
+1624;580;69;2;2;1;2;0;0;0;0;Morumbi/São Paulo;apartment;-23.626.126;-467.408.555
+1625;5000;280;4;5;4;4;0;0;0;0;Morumbi/São Paulo;apartment;-236.336.052;-467.319.886
+1626;870;75;3;3;1;2;0;1;1;0;Morumbi/São Paulo;apartment;-236.320.687;-467.391.747
+1627;350;49;2;1;0;1;1;0;0;0;Sacomã/São Paulo;apartment;-236.131.936;-465.998.447
+1628;450;47;2;1;0;1;0;0;0;0;Sacomã/São Paulo;apartment;-236.131.936;-465.998.447
+1629;930;98;2;3;2;2;0;1;1;0;Santo Amaro/São Paulo;apartment;-236.465.779;-467.028.532
+1630;850;117;3;2;1;0;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.493.671;-467.027.144
+1631;3200;371;4;5;4;5;1;0;1;0;Santo Amaro/São Paulo;apartment;-236.547.122;-466.908.139
+1632;520;35;1;1;0;0;0;1;1;0;Santo Amaro/São Paulo;apartment;-236.506.593;-467.045.989
+1633;1316;160;3;3;2;2;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.528.705;-467.186.656
+1634;640;167;3;2;1;3;0;0;1;0;Santo Amaro/São Paulo;apartment;0;0
+1635;2540;169;4;4;3;4;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.505.456;-466.976.017
+1636;1161;130;3;2;1;2;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.517.157;-467.179.884
+1637;2580;330;4;5;4;4;0;0;1;0;Santo Amaro/São Paulo;apartment;-236.547.122;-466.908.139
+1638;911;86;3;2;1;2;1;0;1;0;Saúde/São Paulo;apartment;-236.153.098;-466.308.902
+1639;2900;220;4;3;2;4;0;0;0;0;Saúde/São Paulo;apartment;-236.239.171;-466.212.948
+1640;350;41;1;1;0;1;1;0;1;0;Saúde/São Paulo;apartment;-236.186.935.442;-466.377.695.135
+1641;750;60;2;1;0;1;0;0;1;0;Saúde/São Paulo;apartment;-236.138.875;-466.314.496
+1642;0;50;2;1;0;1;0;0;0;0;Saúde/São Paulo;apartment;-236.149.581;-466.229.133
+1643;700;75;2;1;0;1;0;0;0;0;Saúde/São Paulo;apartment;-236.089.795;-46.630.734
+1644;1100;100;3;2;1;3;0;0;1;0;Saúde/São Paulo;apartment;-236.155.788;-466.422.768
+1645;615;75;3;1;0;1;0;1;0;0;Saúde/São Paulo;apartment;0;0
+1646;625;68;2;2;1;2;0;0;0;0;Vila Andrade/São Paulo;apartment;-236.235.869;-467.364.344
+1647;615;67;2;2;1;1;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.247.459;-467.409.433
+1648;1024;79;3;2;0;1;0;0;0;0;Vila Andrade/São Paulo;apartment;-236.272.551;-467.367.226
+1649;1990;160;3;4;3;3;0;0;1;0;Vila Andrade/São Paulo;apartment;-236.366.925;-467.347.656
+1650;800;68;2;1;0;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-235.779.914;-466.396.444
+1651;800;90;1;2;1;1;1;0;0;0;Vila Mariana/São Paulo;apartment;0;0
+1652;693;69;2;2;1;2;0;0;1;0;Vila Mariana/São Paulo;apartment;0;0
+1653;1342;90;3;2;1;1;0;1;0;0;Vila Mariana/São Paulo;apartment;-23.584.886;-466.422.641
+1654;560;47;1;1;0;1;0;1;0;0;Vila Mariana/São Paulo;apartment;-235.920.041;-466.365.035
+1655;600;80;2;1;0;0;0;0;0;0;Vila Mariana/São Paulo;apartment;0;0
+1656;1770;186;4;3;2;4;0;0;1;0;Vila Mariana/São Paulo;apartment;-23.592.461;-46.628.179
+1657;570;103;3;2;1;1;0;0;0;0;Vila Mariana/São Paulo;apartment;-23.589.714;-46.632.596
+1658;980;82;3;2;1;2;0;0;0;0;Vila Sônia/São Paulo;apartment;-236.030.764;-467.303.828
+1659;1600;160;3;4;3;3;0;0;1;0;Vila Sônia/São Paulo;apartment;-236.018.285;-467.278.249
+1660;520;53;2;1;0;1;0;0;0;0;Vila Sônia/São Paulo;apartment;-235.945.672;-467.277.993
+1661;986;82;3;2;1;1;0;0;0;0;Vila Sônia/São Paulo;apartment;-23.600.267;-467.300.483
+1662;880;78;3;2;1;1;0;0;1;0;Vila Sônia/São Paulo;apartment;0;0
+1663;540;65;3;2;1;2;1;0;1;0;Vila Sônia/São Paulo;apartment;-235.971.678;-467.379.021
+1664;1650;114;3;2;1;2;0;1;0;0;Alto de Pinheiros/São Paulo;apartment;-235.372.916;-46.714.401
+1665;750;89;3;2;1;1;0;0;0;0;Alto de Pinheiros/São Paulo;apartment;-235.392.826;-467.161.162
+1666;350;61;3;1;0;1;0;0;0;0;Brasilândia/São Paulo;apartment;-234.742.285;-466.844.751
+1667;610;65;2;2;0;1;0;0;1;0;Butantã/São Paulo;apartment;-235.749.238;-467.333.301
+1668;568;65;2;1;0;1;0;0;0;0;Butantã/São Paulo;apartment;-235.845.237;-467.694.645
+1669;582;68;3;2;1;1;0;0;1;0;Butantã/São Paulo;apartment;-235.686.279;-467.437.306
+1670;315;48;2;1;0;1;0;0;0;0;Cachoeirinha/São Paulo;apartment;-234.761.762;-466.601.237
+1671;955;100;3;2;1;3;0;1;1;0;Freguesia do Ó/São Paulo;apartment;-234.905.169;-466.951.917
+1672;600;76;3;1;0;1;0;0;0;0;Freguesia do Ó/São Paulo;apartment;-235.008.318;-466.996.642
+1673;500;50;2;1;0;1;0;1;1;0;Jaguaré/São Paulo;apartment;-235.532.127;-467.484.575
+1674;550;55;2;1;0;1;0;1;1;0;Jaguaré/São Paulo;apartment;-235.429.161;-467.439.983
+1675;560;48;2;1;0;1;0;1;1;0;Lapa/São Paulo;apartment;-235.181.651;-467.154.086
+1676;870;71;3;2;1;1;0;0;1;0;Lapa/São Paulo;apartment;0;0
+1677;1000;141;3;4;3;2;0;0;1;0;Lapa/São Paulo;apartment;0;0
+1678;776;84;2;1;0;1;0;0;0;0;Lapa/São Paulo;apartment;-235.319.998;-46.705.418
+1679;1400;138;2;3;2;2;0;0;1;0;Lapa/São Paulo;apartment;-235.297.294;-467.033.889
+1680;1100;180;3;4;3;4;0;1;1;0;Lapa/São Paulo;apartment;0;0
+1681;1800;163;4;3;2;3;1;0;1;0;Lapa/São Paulo;apartment;0;0
+1682;487;65;3;1;0;1;0;0;1;0;Limão/São Paulo;apartment;-234.918.022;-466.812.483
+1683;950;90;3;2;1;2;0;0;1;0;Perdizes/São Paulo;apartment;-235.381.495;-466.752.459
+1684;280;60;2;1;0;0;0;0;0;0;Perdizes/São Paulo;apartment;-235.404.024;-466.856.844
+1685;2000;251;4;5;4;4;0;1;1;0;Perdizes/São Paulo;apartment;-23.533.033;-4.667.824
+1686;1583;135;3;4;3;3;0;0;1;0;Perdizes/São Paulo;apartment;-235.354.905;-466.860.584
+1687;1941;140;4;2;1;2;0;0;1;0;Perdizes/São Paulo;apartment;-235.389.525;-466.821.754
+1688;2900;266;4;5;4;5;1;1;1;0;Perdizes/São Paulo;apartment;-235.371.104;-466.698.175
+1689;320;56;1;1;0;1;0;0;0;0;Perdizes/São Paulo;apartment;-23.532.269;-46.678.472
+1690;1500;130;3;2;1;1;0;0;0;0;Pinheiros/São Paulo;apartment;-235.648.521;-466.837.386
+1691;264;105;2;1;0;0;1;0;0;0;Pinheiros/São Paulo;apartment;-235.645.125;-466.797.492
+1692;2225;157;3;4;3;4;0;0;0;0;Pinheiros/São Paulo;apartment;-235.603.058;-466.760.795
+1693;700;60;2;1;0;1;0;0;0;0;Pinheiros/São Paulo;apartment;0;0
+1694;1700;120;3;1;0;1;0;0;0;0;Pinheiros/São Paulo;apartment;-23.557.421;-466.662.968
+1695;1966;30;1;1;0;1;0;1;0;0;Pinheiros/São Paulo;apartment;-235.705.901;-466.933.414
+1696;560;55;2;1;0;1;1;1;1;0;Pinheiros/São Paulo;apartment;-235.613.009;-466.904.051
+1697;700;39;1;2;1;1;0;0;1;0;Pinheiros/São Paulo;apartment;-23.563.345;-466.834.583
+1698;320;49;2;1;0;1;0;0;0;0;Pirituba/São Paulo;apartment;-234.990.251;-467.251.586
+1699;1364;131;3;2;1;2;0;0;1;0;Pirituba/São Paulo;apartment;-234.988.621;-46.751.394
+1700;423;50;2;2;1;1;1;0;1;0;Pirituba/São Paulo;apartment;-234.939.286;-467.380.706
+1701;600;50;2;2;1;0;0;0;1;0;Rio Pequeno/São Paulo;apartment;-235.705.485;-467.507.117
+1702;200;50;2;1;0;1;0;0;0;0;Rio Pequeno/São Paulo;apartment;-23.570.469;-467.505.326
+1703;0;50;2;1;0;1;1;0;0;0;Rio Pequeno/São Paulo;apartment;-235.650.745;-467.506.462
+1704;0;50;2;1;0;1;1;0;0;0;Rio Pequeno/São Paulo;apartment;-235.650.745;-467.506.462
+1705;525;70;2;2;1;1;0;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.272.984;-467.401.426
+1706;1880;235;4;5;4;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.267.865;-467.311.907
+1707;1490;140;3;4;3;3;0;1;1;0;Vila Leopoldina/São Paulo;apartment;-235.269.874;-467.280.185
+1708;2000;210;4;5;4;3;0;0;1;0;Vila Leopoldina/São Paulo;apartment;-235.241.522;-467.335.513
+1709;800;90;2;2;0;1;0;0;0;0;Vila Leopoldina/São Paulo;apartment;-235.304.819;-467.263.078
+1710;1377;140;3;2;1;1;0;0;0;0;Vila Madalena/São Paulo;apartment;-23.545.183;-46.694.865
+1711;550;33;1;2;1;1;0;0;1;0;Vila Madalena/São Paulo;apartment;-23.554.171;-46.697.361
+1712;520;70;2;2;1;1;0;0;0;0;Vila Madalena/São Paulo;apartment;-23.545.001;-46.692.906
+1713;550;31;1;2;1;1;0;0;1;0;Vila Madalena/São Paulo;apartment;-23.555.683;-46.678.292
+1714;2500;228;4;5;3;3;1;0;1;0;Vila Madalena/São Paulo;apartment;-23.550.825;-46.698.807
+1715;596;69;3;2;1;2;1;0;1;0;Mooca/São Paulo;apartment;-23.559.264;-46.596.464
+1716;566;67;2;2;1;1;1;0;1;0;Brooklin/São Paulo;apartment;-23.618.532;-46.684.606
+1717;750;62;2;2;1;1;1;1;1;0;Brooklin/São Paulo;apartment;-235.997;-46.687.078
+1718;800;67;2;2;1;1;1;1;1;0;Brooklin/São Paulo;apartment;-23.613.942;-46.690.935
+1719;1600;141;3;2;1;2;0;1;0;0;Brooklin/São Paulo;apartment;-2.360.728;-46.692.252
+1720;700;69;2;2;1;2;1;1;1;0;Brooklin/São Paulo;apartment;-23.599.064;-46.688.715
+1721;830;49;1;2;1;1;1;0;0;0;Brooklin/São Paulo;apartment;-23.606.505;-46.694.473
+1722;985;105;2;3;2;2;0;0;1;0;Brooklin/São Paulo;apartment;-23.620.842;-46.684.524
+1723;700;43;1;2;1;1;0;1;1;0;Vila Olimpia/São Paulo;apartment;-23.599.033;-4.668.352
+1724;1100;111;3;3;1;2;1;0;1;0;Vila Olimpia/São Paulo;apartment;-23.594.032;-46.686.032
+1725;1064;65;2;1;0;1;1;1;0;0;Vila Madalena/São Paulo;apartment;-235.410.512;-46.698.772
+1726;1224;112;2;1;0;1;1;0;0;0;Vila Madalena/São Paulo;apartment;-235.411.366;-466.968.608
+1727;700;85;3;2;1;2;0;1;0;0;Mooca/São Paulo;apartment;-23.556.137;-466.044.715
+1728;570;74;2;2;0;1;0;0;0;0;Mooca/São Paulo;apartment;-235.699.138;-465.905.632
+1729;0;153;3;2;1;3;0;1;1;0;Mooca/São Paulo;apartment;0;0
+1730;800;69;2;2;1;1;0;1;1;0;Brooklin/São Paulo;apartment;-236.202.142;-466.972.797
+1731;900;111;3;2;1;2;1;0;1;0;Brooklin/São Paulo;apartment;-23.602.792;-466.947.674
+1732;980;52;2;1;0;1;0;1;1;0;Brooklin/São Paulo;apartment;-236.150.791;-466.802.535
+1733;2100;172;3;4;3;3;1;0;1;0;Brooklin/São Paulo;apartment;-236.123.367;-466.856.745
+1734;850;48;1;2;1;1;0;1;1;0;Brooklin/São Paulo;apartment;-236.186.739;-466.853.961
+1735;2153;258;3;4;3;4;0;1;0;0;Brooklin/São Paulo;apartment;-236.194.808;-466.840.282
